@@ -1,0 +1,13 @@
+/*header*/
+.wrapper-top {
+  padding-top: 130px;
+  padding-bottom: 30px; }
+  .wrapper-top h1 {
+    margin: 0 0 30px;
+    font-size: 48px; }
+
+.sub-title {
+  margin-bottom: 36px;
+  font-size: 18px;
+  color: #1E1E1E;
+  line-height: 1.7em; }

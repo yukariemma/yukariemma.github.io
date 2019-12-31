@@ -1,0 +1,26 @@
+.article-side {
+  position: -webkit-sticky;
+  position: sticky;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  float: left;
+  padding-top: 120px;
+  width: 180px;
+  top: 0;
+  z-index: 1; }
+
+.article-content {
+  position: relative;
+  padding: 20px 0 0 260px;
+  margin-bottom: 80px;
+  line-height: 1.6em;
+  font-size: 18px; }
+  .article-content .article-content-img {
+    object-fit: cover;
+    margin-bottom: 20px;
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+    max-height: 510px; }

@@ -1,0 +1,9 @@
+/*tag_filter*/
+.tag-filter ul.top-tags li {
+  display: inline;
+  padding-right: 40px;
+  line-height: 4.6em; }
+  .tag-filter ul.top-tags li a.active, .tag-filter ul.top-tags li a:hover {
+    color: #775272 !important; }
+  .tag-filter ul.top-tags li a {
+    text-decoration: none; }

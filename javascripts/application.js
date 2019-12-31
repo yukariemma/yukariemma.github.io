@@ -1,0 +1,1 @@
+console.log("hi");for(var tags=document.getElementsByClassName("list-name"),i=0;i<tags.length;i++)tags[i].addEventListener("click",function(){var e=document.getElementsByClassName("active");e[0].className=e[0].className.replace("active",""),this.className+=" active"});

@@ -1,0 +1,33 @@
+/*navbar*/
+.navbar-wrapper {
+  position: absolute;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding-top: 30px;
+  margin: 0 auto;
+  max-width: 976px;
+  max-width: 61rem;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3; }
+
+.navbar-container {
+  display: flex; }
+  .navbar-container ul {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center; }
+  .navbar-container ul.navbar-content li {
+    position: relative;
+    margin-left: 26px;
+    display: inline; }
+  .navbar-container h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 34px; }
+  .navbar-container a {
+    text-decoration: none; }

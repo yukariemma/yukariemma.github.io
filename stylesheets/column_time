@@ -1,0 +1,12 @@
+.column-time {
+  max-width: 100%;
+  position: absolute;
+  bottom: 20px; }
+  .column-time ul {
+    list-style: none;
+    margin-bottom: 5px; }
+  .column-time ul.tags li {
+    display: inline; }
+
+.badge-secondary {
+  color: #FFFFFF !important; }

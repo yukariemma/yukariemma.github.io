@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://myblog.com/articles</id>
+  <link href="http://myblog.com/articles"/>
+  <link href="http://myblog.com/blog/feed.xml" rel="self"/>
+  <updated>2019-12-31T00:00:00+01:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>クリスマスマーケット</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2019/12/31/weihnachtsmarkt/"/>
+    <id>http://myblog.com/articles/jp/2019/12/31/weihnachtsmarkt/</id>
+    <published>2019-12-31T00:00:00+01:00</published>
+    <updated>2019-12-31T16:39:40+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;また１年書けなくなるので、せっかくなのでドイツのクリスマスマーケットについて今年中に書いときます。&lt;/p&gt;
+
+&lt;p&gt;特にベルリンは１１月から３月までくら〜い日が続くので、クリスマスマーケットでもないと病んでしまう。１０月のオクトーバーフェストが終わったあたりから、まだかなぁとわくわくしています。１１月末から...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>おわりとはじまり</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2019/12/30/owari-to-hajimari/"/>
+    <id>http://myblog.com/articles/jp/2019/12/30/owari-to-hajimari/</id>
+    <published>2019-12-30T00:00:00+01:00</published>
+    <updated>2019-12-31T16:39:25+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ベルリンに来て１年半。２回目の大晦日（ドイツ語ではsilvesterといいます）を明日に控え、外ではすでにばんばん花火の音がする午後。&lt;br&gt;家で仕事をしながら、ブログ最初の記事を書くことにしました。&lt;/p&gt;
+
+&lt;p&gt;２０１９年はあたしにとって大きな１年でした。&lt;br&gt;１月に入り、ブートキャンプというプログラマーになるため...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>I'm ready for twenty-twenty!</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2019/12/30/ready-for-2020/"/>
+    <id>http://myblog.com/articles/en/2019/12/30/ready-for-2020/</id>
+    <published>2019-12-30T00:00:00+01:00</published>
+    <updated>2019-12-31T15:33:30+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;It's been a year and half since I landed in Berlin. Tomorrow is my second silvester in Germany. I can already hear fire works. I got some wine for us...&lt;/p&gt;</summary>
+  </entry>
+</feed>
