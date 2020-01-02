@@ -24,3 +24,12 @@
     min-width: 100%;
     height: auto;
     max-height: 510px; }
+
+@media (max-width: 1140px) {
+  .article-side {
+    width: 100%;
+    position: absolute; }
+
+  .article-content {
+    width: 100%;
+    padding: 20px 20px; } }

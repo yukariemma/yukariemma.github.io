@@ -14,9 +14,14 @@
   margin-top: 25px;
   border-top: 1px solid #eaeaea; }
 
+.calendar-archive-month-list {
+  width: 30%; }
+
 .month-filter ul.month-list li {
   padding-right: 20px;
   line-height: 2.0em; }
 
-.calendar-archive-list ul.archive-articles li {
-  line-height: 1.8em; }
+.calendar-archive-list {
+  width: 70%; }
+  .calendar-archive-list ul.archive-articles li {
+    line-height: 1.8em; }

@@ -19,6 +19,10 @@ a:hover {
   max-width: 976px;
   max-width: 61rem; }
 
+@media (max-width: 1140px) {
+  .wrapper {
+    padding-left: 20px !important;
+    padding-right: 20px !important; } }
 /*pagination*/
 #pagination-container {
   margin-bottom: 60px; }

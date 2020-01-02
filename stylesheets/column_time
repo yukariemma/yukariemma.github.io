@@ -10,3 +10,6 @@
 
 .badge-secondary {
   color: #FFFFFF !important; }
+
+.badge-secondary:hover {
+  color: #FFFFFF !important; }

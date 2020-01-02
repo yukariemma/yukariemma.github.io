@@ -11,8 +11,7 @@
 
 .article-header {
   display: flex;
-  height: auto;
-  min-height: 400px; }
+  height: auto; }
   .article-header h2.article-show-title {
     text-align: center;
     vertical-align: middle;
@@ -32,3 +31,24 @@
   width: 488px;
   height: 460px;
   border-radius: 6px; }
+
+@media (max-width: 1140px) {
+  .wrapper-article {
+    padding: 110px 0;
+    margin-top: 0px; }
+
+  .article-header {
+    -ms-flex-direction: column;
+    flex-direction: column; }
+    .article-header h2.article-show-title {
+      line-height: 50px; }
+
+  .article-show-img {
+    width: 100% !important; }
+
+  .wrapper-article-half {
+    width: 100%; }
+
+  .article-container {
+    -ms-flex-direction: column;
+    flex-direction: column; } }
