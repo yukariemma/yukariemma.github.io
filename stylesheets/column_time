@@ -13,3 +13,12 @@
 
 .badge-secondary:hover {
   color: #FFFFFF !important; }
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .column-time {
+    position: relative;
+    display: -webkit-inline-box;
+    padding-top: 10px;
+    padding-left: 10px; }
+    .column-time ul {
+      padding-left: 5px; } }

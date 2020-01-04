@@ -11,3 +11,14 @@
   font-size: 18px;
   color: #1E1E1E;
   line-height: 1.7em; }
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .wrapper-top {
+    padding-top: 85px;
+    padding-bottom: 0; }
+    .wrapper-top h1 {
+      margin: 0 0 7px;
+      font-size: 30px; }
+    .wrapper-top .sub-title {
+      font-size: 15px;
+      line-height: 1.5em; } }

@@ -25,4 +25,5 @@
     display: inline-block; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .yukari-intro {
-    display: inline-block; } }
+    display: inline-block;
+    border-top: 1px solid #eaeaea; } }

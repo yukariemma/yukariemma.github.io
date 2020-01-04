@@ -18,7 +18,6 @@
 @media (max-width: 1140px) {
   .curtain-open-btn {
     display: block;
-    font-size: 30px;
     position: absolute;
     top: -55px;
     cursor: pointer; }
@@ -57,7 +56,7 @@
     top: 10%;
     /* from the top */
     text-align: center;
-    margin-top: 85px;
+    margin-top: 60px;
     /* to avoid conflict with the close button on smaller screens */ }
 
   /* The navigation links inside the overlay */
@@ -74,10 +73,13 @@
   .overlay .curtain-close-btn {
     display: block;
     position: absolute;
-    top: 20px;
-    right: 45px;
-    font-size: 60px; } }
+    top: 0;
+    right: 0;
+    font-size: 45px; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
+  .curtain-open-btn {
+    top: -30px; }
+
   .overlay-content {
     top: 5%;
     margin-top: 30px;

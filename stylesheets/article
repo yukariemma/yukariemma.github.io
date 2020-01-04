@@ -33,4 +33,12 @@
 
   .article-content {
     width: 100%;
-    padding: 20px 20px; } }
+    padding: 20px 20px;
+    margin-bottom: 0; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .article-side {
+    padding-top: 30px; }
+
+  .article-content {
+    padding: 60px 0 20px;
+    margin-bottom: 0; } }
