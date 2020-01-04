@@ -1,14 +1,84 @@
 /*tag_filter*/
 /*tag_list*/
-.tag-filter ul.top-tags li {
+#curtain-tag li {
   display: inline;
   padding-right: 40px;
   line-height: 4.6em; }
-  .tag-filter ul.top-tags li a.active, .tag-filter ul.top-tags li a:hover {
-    color: #775272 !important; }
-  .tag-filter ul.top-tags li a {
-    text-decoration: none; }
+#curtain-tag a {
+  text-decoration: none; }
+#curtain-tag a.active {
+  color: #775272; }
 
-.menu-toggle {
-  float: right;
+.overlay .curtain-close-btn {
   display: none; }
+
+.curtain-open-btn {
+  display: none; }
+
+@media (max-width: 1140px) {
+  .curtain-open-btn {
+    display: block;
+    font-size: 30px;
+    position: absolute;
+    top: -55px;
+    cursor: pointer; }
+
+  #curtain-tag li {
+    display: block;
+    padding: 0 20px;
+    line-height: 1.5em; }
+  #curtain-tag a.active {
+    color: #fff; }
+  #curtain-tag a:hover {
+    color: #fff; }
+
+  /* The Overlay (background) */
+  .overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    /* Stay in place */
+    z-index: 2;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: black;
+    /* Black fallback color */
+    background-color: rgba(0, 0, 0, 0.9);
+    /* Black w/opacity */
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    transition: 0.5s;
+    /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */ }
+
+  /* Position the content inside the overlay */
+  .overlay-content {
+    position: relative;
+    top: 10%;
+    /* from the top */
+    text-align: center;
+    margin-top: 85px;
+    /* to avoid conflict with the close button on smaller screens */ }
+
+  /* The navigation links inside the overlay */
+  .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    /* Transition effects on hover (color) */ }
+
+  /* Position the close button (top right corner) */
+  .overlay .curtain-close-btn {
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .overlay-content {
+    top: 5%;
+    margin-top: 30px;
+    /* to avoid conflict with the close button on smaller screens */ } }

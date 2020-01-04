@@ -8,7 +8,7 @@
   float: left;
   padding-top: 120px;
   width: 180px;
-  top: 0;
+  top: 60px;
   z-index: 1; }
 
 .article-content {
@@ -28,7 +28,8 @@
 @media (max-width: 1140px) {
   .article-side {
     width: 100%;
-    position: absolute; }
+    position: absolute;
+    top: 0; }
 
   .article-content {
     width: 100%;

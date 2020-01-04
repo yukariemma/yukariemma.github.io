@@ -21,11 +21,12 @@ footer {
   .footer-column span {
     font-size: 18px;
     font-weight: 700; }
+  .footer-column .footer-list {
+    margin-top: 16px; }
   .footer-column ul {
-    margin-top: 16px;
-    list-style: none;
     padding: 0px; }
   .footer-column li {
+    list-style: none;
     line-height: 1.8em; }
   .footer-column a {
     color: #ECE2D0 !important;

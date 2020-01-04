@@ -10,7 +10,7 @@ a {
   color: #0C0910; }
 
 a:hover {
-  color: #775272 !important; }
+  color: #775272; }
 
 .wrapper {
   position: relative;

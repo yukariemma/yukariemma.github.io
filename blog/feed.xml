@@ -5,10 +5,24 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2019-12-31T00:00:00+01:00</updated>
+  <updated>2020-01-01T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>３６６分の１日目</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/01/happy-new-year/"/>
+    <id>http://myblog.com/articles/jp/2020/01/01/happy-new-year/</id>
+    <published>2020-01-01T00:00:00+01:00</published>
+    <updated>2020-01-04T19:53:45+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あけましておめでとうございます。&lt;br&gt;
+令和も２年目、干支は一周巡って子年。そして４年に一度のうるう年。&lt;br&gt;年号が変わって初めて迎えるお正月。そしてここベルリンで迎える２度目のお正月。&lt;/p&gt;
+
+&lt;p&gt;ヨーロッパと日本ではクリスマスと年末年始の迎え方が真逆です。&lt;br&gt;クリスマスはヨーロッパの街から人が消えます。みんな実家に...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>クリスマスマーケット</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2019/12/31/weihnachtsmarkt/"/>

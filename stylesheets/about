@@ -19,3 +19,10 @@
   width: 100%;
   height: 100%;
   border-radius: 6px; }
+
+@media (max-width: 768px) {
+  .yukari-intro {
+    display: inline-block; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .yukari-intro {
+    display: inline-block; } }
