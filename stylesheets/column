@@ -27,7 +27,8 @@
     height: 210px; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .highlight-column-img {
-    height: 130px; }
+    height: 130px;
+    min-width: 300px; }
 
   .highlight-column-content {
     padding: 10px; }
@@ -73,7 +74,8 @@
 
   .column-img {
     min-height: 130px;
-    max-height: 130px; }
+    max-height: 130px;
+    min-width: 300px; }
 
   .column-content {
     padding: 10px; }
