@@ -43,6 +43,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/tag.html</loc>
+    <lastmod>2020-01-05T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myblog.com/jp/tag.html</loc>
+    <lastmod>2020-01-05T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/about.html</loc>
     <lastmod>2020-01-05T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
