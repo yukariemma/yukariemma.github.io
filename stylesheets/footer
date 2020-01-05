@@ -39,3 +39,7 @@ footer {
 
   .footer-column {
     margin-top: 30px; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  footer p.copyright {
+    padding: 5px;
+    text-align: left; } }

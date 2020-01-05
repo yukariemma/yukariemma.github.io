@@ -37,7 +37,7 @@
     width: 0;
     position: fixed;
     /* Stay in place */
-    z-index: 2;
+    z-index: 3;
     /* Sit on top */
     left: 0;
     top: 0;
@@ -78,7 +78,8 @@
     font-size: 45px; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .curtain-open-btn {
-    top: -30px; }
+    top: -22px;
+    font-size: 13px; }
 
   .overlay-content {
     top: 5%;

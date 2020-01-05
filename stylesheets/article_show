@@ -54,9 +54,13 @@
     -ms-flex-direction: column;
     flex-direction: column; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
+  .wrapper-highlight {
+    padding-top: 10px; }
+
   .article-header h2.article-show-title {
     font-size: 22px;
     line-height: 30px;
+    padding-top: 10px;
     padding-bottom: 0; }
 
   .article-show-img {
