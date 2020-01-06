@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-01-01T00:00:00+01:00</updated>
+  <updated>2020-01-06T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>日本の味が届きました</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/06/nihon-kara/"/>
+    <id>http://myblog.com/articles/jp/2020/01/06/nihon-kara/</id>
+    <published>2020-01-06T00:00:00+01:00</published>
+    <updated>2020-01-06T18:14:15+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;日本から日本の味が届きました〜！うれしい！&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;ベルリンに来て何が苦痛ってごはんがおいしくないこと！もちろん素敵なレストランも多いし、まぁそれなりにおいしいものもあるけど。やっぱり日本のように種類が豊富じゃないよね。日本だったら、ちょっとごぼうサラダ、ちょっとひじき、ちょっと切り干し大根、ちょっ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>３６６分の１日目</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/01/happy-new-year/"/>
