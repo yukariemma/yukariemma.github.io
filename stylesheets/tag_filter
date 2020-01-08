@@ -1,5 +1,8 @@
 /*tag_filter*/
 /*tag_list*/
+.tag-names {
+  font-family: 'Cinzel', serif; }
+
 #curtain-tag li {
   display: inline;
   padding-right: 40px;
@@ -7,7 +10,7 @@
 #curtain-tag a {
   text-decoration: none; }
 #curtain-tag a.active {
-  color: #775272; }
+  color: #171717; }
 
 .overlay .curtain-close-btn {
   display: none; }

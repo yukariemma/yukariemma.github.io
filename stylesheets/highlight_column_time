@@ -4,6 +4,8 @@
   .highlight-column-time ul {
     list-style: none;
     margin-bottom: 5px; }
+  .highlight-column-time ul.post-time {
+    font-size: 14px; }
   .highlight-column-time ul.tags li {
     display: inline; }
 

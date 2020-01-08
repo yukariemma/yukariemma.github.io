@@ -1,4 +1,8 @@
 /*hightlight column*/
+h4.column-title {
+  color: #1E1E1E;
+  font-family: 'Cinzel', serif; }
+
 .highlight-column-container {
   display: flex; }
 
@@ -37,6 +41,10 @@
     .highlight-column-content p {
       display: none; } }
 /*columns*/
+h5.column-title {
+  color: #1E1E1E;
+  font-family: 'Cinzel', serif; }
+
 .columns-container {
   display: flex;
   -ms-flex-direction: column;
@@ -65,8 +73,7 @@
 
 .column-content {
   position: relative;
-  padding: 20px;
-  color: #2A1616; }
+  padding: 20px; }
 
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .columns-container {

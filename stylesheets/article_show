@@ -12,10 +12,11 @@
 .article-header {
   display: flex;
   height: auto; }
-  .article-header h2.article-show-title {
+  .article-header h4.article-show-title {
     text-align: center;
     vertical-align: middle;
-    line-height: 400px; }
+    line-height: 400px;
+    font-family: 'Cinzel', serif; }
 
 .wrapper-article-half {
   position: relative;
@@ -40,7 +41,7 @@
   .article-header {
     -ms-flex-direction: column;
     flex-direction: column; }
-    .article-header h2.article-show-title {
+    .article-header h4.article-show-title {
       line-height: 50px;
       padding-bottom: 20px; }
 
@@ -57,7 +58,7 @@
   .wrapper-highlight {
     padding-top: 10px; }
 
-  .article-header h2.article-show-title {
+  .article-header h4.article-show-title {
     font-size: 22px;
     line-height: 30px;
     padding-top: 10px;

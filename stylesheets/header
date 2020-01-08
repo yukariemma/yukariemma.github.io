@@ -4,13 +4,16 @@
   padding-bottom: 30px; }
   .wrapper-top h1 {
     margin: 0 0 30px;
-    font-size: 48px; }
+    font-size: 48px;
+    color: #1E1E1E;
+    font-family: 'Cinzel', serif; }
 
 .sub-title {
   margin-bottom: 36px;
   font-size: 18px;
   color: #1E1E1E;
-  line-height: 1.7em; }
+  line-height: 1.7em;
+  font-family: 'Cinzel', serif; }
 
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .wrapper-top {

@@ -1,5 +1,6 @@
 /*body*/
 body {
+  color: #707070;
   font-family: 'Krub', sans-serif; }
 
 .container {
@@ -7,10 +8,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #0C0910; }
+  color: #777; }
 
 a:hover {
-  color: #775272; }
+  color: #171717; }
 
 .wrapper {
   position: relative;

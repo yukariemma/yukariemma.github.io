@@ -1,7 +1,7 @@
 /*footer*/
 footer {
   color: #ECE2D0;
-  background-color: #0C0910; }
+  background-color: #707070; }
   footer p.copyright {
     padding: 12px 200px;
     font-size: 12px;
@@ -20,9 +20,11 @@ footer {
   max-width: 270px; }
   .footer-column span {
     font-size: 18px;
-    font-weight: 700; }
+    font-weight: 700;
+    font-family: 'Cinzel', serif; }
   .footer-column .footer-list {
-    margin-top: 16px; }
+    margin-top: 16px;
+    font-family: 'Krub', sans-serif; }
   .footer-column ul {
     padding: 0px; }
   .footer-column li {
