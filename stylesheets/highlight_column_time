@@ -5,9 +5,14 @@
     list-style: none;
     margin-bottom: 5px; }
   .highlight-column-time ul.post-time {
-    font-size: 14px; }
+    font-size: 12px; }
   .highlight-column-time ul.tags li {
-    display: inline; }
+    display: inline;
+    font-size: 12px; }
+  .highlight-column-time li:not(:last-child):after {
+    content: '/';
+    padding: 0 .7rem;
+    color: #808085; }
 
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .highlight-column-time {

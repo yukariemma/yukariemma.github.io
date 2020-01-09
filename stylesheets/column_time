@@ -8,9 +8,10 @@
     list-style: none;
     margin-bottom: 5px; }
   .column-time ul.post-time {
-    font-size: 14px; }
+    font-size: 12px; }
   .column-time ul.tags li {
-    display: inline; }
+    display: inline;
+    font-size: 12px; }
 
 .badge-secondary {
   color: #FFFFFF !important; }

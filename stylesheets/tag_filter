@@ -1,15 +1,20 @@
 /*tag_filter*/
 /*tag_list*/
 .tag-names {
-  font-family: 'Cinzel', serif; }
+  font-family: 'Cinzel', serif;
+  margin-bottom: 30px; }
 
+#curtain-tag ul {
+  padding: 0;
+  list-style: none;
+  width: 600px; }
 #curtain-tag li {
-  display: inline;
-  padding-right: 40px;
-  line-height: 4.6em; }
+  position: relative;
+  padding: 5px 7px;
+  display: inline; }
 #curtain-tag a.list-name {
   text-decoration: none; }
-#curtain-tag a.list-name:after {
+#curtain-tag a:after {
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
   content: "";
@@ -17,10 +22,10 @@
   height: 2px;
   left: 50%;
   position: absolute;
-  background: #fff;
+  background: #707070;
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0; }
-#curtain-tag a.list-name:hover a.list-name:after {
+#curtain-tag a:hover:after {
   width: 100%;
   left: 0; }
 #curtain-tag a.active {
