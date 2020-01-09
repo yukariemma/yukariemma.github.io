@@ -1,14 +1,18 @@
 /*body*/
 body {
   color: #707070;
+  background: #EDE8E1;
   font-family: 'Krub', sans-serif; }
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Cinzel', serif; }
 
 .container {
   max-width: 1440px; }
 
 a {
   text-decoration: none;
-  color: #777; }
+  color: #707070; }
 
 a:hover {
   color: #171717; }

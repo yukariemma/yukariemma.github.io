@@ -15,8 +15,7 @@
   .article-header h4.article-show-title {
     text-align: center;
     vertical-align: middle;
-    line-height: 400px;
-    font-family: 'Cinzel', serif; }
+    line-height: 400px; }
 
 .wrapper-article-half {
   position: relative;

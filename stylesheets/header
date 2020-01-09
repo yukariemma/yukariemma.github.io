@@ -5,8 +5,7 @@
   .wrapper-top h1 {
     margin: 0 0 30px;
     font-size: 48px;
-    color: #1E1E1E;
-    font-family: 'Cinzel', serif; }
+    color: #1E1E1E; }
 
 .sub-title {
   margin-bottom: 36px;

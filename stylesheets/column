@@ -1,7 +1,6 @@
 /*hightlight column*/
 h4.column-title {
-  color: #1E1E1E;
-  font-family: 'Cinzel', serif; }
+  color: #1E1E1E; }
 
 .highlight-column-container {
   display: flex; }
@@ -42,8 +41,7 @@ h4.column-title {
       display: none; } }
 /*columns*/
 h5.column-title {
-  color: #1E1E1E;
-  font-family: 'Cinzel', serif; }
+  color: #1E1E1E; }
 
 .columns-container {
   display: flex;
@@ -52,8 +50,8 @@ h5.column-title {
   position: relative;
   width: 100%;
   min-height: 610px;
-  border-radius: 6px;
-  background: #fff;
+  border-radius: 3px;
+  background: #EDE8E1;
   box-shadow: 0 15px 35px rgba(126, 87, 88, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
   transition: all .3s ease-in-out;
   overflow: hidden;

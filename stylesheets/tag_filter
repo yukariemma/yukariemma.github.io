@@ -7,8 +7,22 @@
   display: inline;
   padding-right: 40px;
   line-height: 4.6em; }
-#curtain-tag a {
+#curtain-tag a.list-name {
   text-decoration: none; }
+#curtain-tag a.list-name:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0; }
+#curtain-tag a.list-name:hover a.list-name:after {
+  width: 100%;
+  left: 0; }
 #curtain-tag a.active {
   color: #171717; }
 

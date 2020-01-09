@@ -1,6 +1,6 @@
 /*footer*/
 footer {
-  color: #ECE2D0;
+  color: #EDE2D0;
   background-color: #707070; }
   footer p.copyright {
     padding: 12px 200px;
@@ -31,7 +31,7 @@ footer {
     list-style: none;
     line-height: 1.8em; }
   .footer-column a {
-    color: #ECE2D0 !important;
+    color: #EDE2D0;
     text-decoration: none; }
 
 @media (max-width: 960px) {
