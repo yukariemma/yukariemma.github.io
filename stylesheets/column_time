@@ -12,6 +12,10 @@
   .column-time ul.tags li {
     display: inline;
     font-size: 12px; }
+  .column-time li:not(:last-child):after {
+    content: '/';
+    padding: 0 .7rem;
+    color: #808085; }
 
 .badge-secondary {
   color: #FFFFFF !important; }
@@ -22,7 +26,6 @@
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .column-time {
     position: relative;
-    display: -webkit-inline-box;
     padding-top: 10px;
     padding-left: 10px; }
     .column-time ul {

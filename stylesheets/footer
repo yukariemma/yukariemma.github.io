@@ -44,4 +44,7 @@ footer {
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   footer p.copyright {
     padding: 5px;
-    text-align: left; } }
+    text-align: left; }
+  footer .footer-section {
+    padding-top: 7px;
+    padding-bottom: 11px; } }

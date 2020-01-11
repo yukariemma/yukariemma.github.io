@@ -16,8 +16,7 @@
 
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .highlight-column-time {
-    margin-top: 0;
-    display: -webkit-inline-box; }
+    margin-top: 0; }
     .highlight-column-time ul {
       padding-left: 5px; }
     .highlight-column-time ul.tags li {

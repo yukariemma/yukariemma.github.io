@@ -39,26 +39,6 @@ ul.plain, ol.plain {
 .clear {
   clear: both; }
 
-/* Blog articles */
-ul.read_next {
-  list-style: none;
-  border-top: 1px solid #e1e1e1;
-  padding: 1em 0;
-  margin: 2em 0; }
-  ul.read_next li {
-    margin: 0;
-    padding: 0;
-    width: 50%;
-    float: left;
-    font-size: 12px;
-    font-weight: bold;
-    color: #333; }
-    ul.read_next li a {
-      text-transform: uppercase;
-      text-decoration: none; }
-    ul.read_next li:last-child {
-      text-align: right; }
-
 .right {
   text-align: right; }
 

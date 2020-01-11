@@ -35,9 +35,9 @@ h4.column-title {
 
   .highlight-column-content {
     padding: 10px; }
-    .highlight-column-content h3 {
+    .highlight-column-content h4 {
       font-size: 16px; }
-    .highlight-column-content p {
+    .highlight-column-content .column-text {
       display: none; } }
 /*columns*/
 h5.column-title {
@@ -84,7 +84,7 @@ h5.column-title {
 
   .column-content {
     padding: 10px; }
-    .column-content h4 {
+    .column-content h5 {
       font-size: 16px; }
-    .column-content p {
+    .column-content .column-text {
       display: none; } }
