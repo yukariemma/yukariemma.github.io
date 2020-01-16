@@ -5,22 +5,55 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-01-06T00:00:00+01:00</updated>
+  <updated>2020-01-08T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>日本の味が届きました</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/06/nihon-kara/"/>
-    <id>http://myblog.com/articles/jp/2020/01/06/nihon-kara/</id>
-    <published>2020-01-06T00:00:00+01:00</published>
-    <updated>2020-01-06T18:19:01+01:00</updated>
+    <title>Awomb</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/08/awomb/"/>
+    <id>http://myblog.com/articles/en/2020/01/08/awomb/</id>
+    <published>2020-01-08T00:00:00+01:00</published>
+    <updated>2020-01-16T18:10:25+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;日本から日本の味が届きました〜！うれしい！&lt;br&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;One of the must-go restaurant "AWOMB"&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;ベルリンに来て何が苦痛ってごはんがおいしくないこと！もちろん素敵なレストランも多いし、まぁそれなりにおいしいものもあるけど。やっぱり日本のように種類が豊富じゃないよね。日本だったら、ちょっとごぼうサラダ、ちょっとひじき、ちょっと切り干し大根、ちょっ...&lt;/p&gt;</summary>
+&lt;p&gt;Their sushi is an art!&lt;/p&gt;
+
+&lt;p&gt;You get small piece of everything with all kinds of seasoning. Fresh fish with almond...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kyoto</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/07/kyoto/"/>
+    <id>http://myblog.com/articles/en/2020/01/07/kyoto/</id>
+    <published>2020-01-07T00:00:00+01:00</published>
+    <updated>2020-01-16T17:35:39+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;My favorite city in the world, Kyoto.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In Kyoto, [new and old], [now and then], [modern and tradition] live together perfectly.&lt;/p&gt;
+
+&lt;p&gt;If you go one street...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>古都 京都</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/07/kyoto/"/>
+    <id>http://myblog.com/articles/jp/2020/01/07/kyoto/</id>
+    <published>2020-01-07T00:00:00+01:00</published>
+    <updated>2020-01-16T17:08:53+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;わたしが世界中で一番好きな場所、京都を綴る「古都京都」シリーズ。&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;ブログを始めたいなぁと思ったきっかけのひとつは、京都に住んでいろんな素敵な場所を見つけ、
+感動し、それをどこかに記録しておきたいなぁと思ったこと。&lt;/p&gt;
+
+&lt;p&gt;ガイドブックに載ってないような小さいお店や、少し外れた場所にあるお寺や神社。&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>Frohes Neues Jahr!</title>
@@ -69,29 +102,5 @@
     <summary type="html">&lt;p&gt;また１年書けなくなるので、せっかくなのでドイツのクリスマスマーケットについて今年中に書いときます。&lt;/p&gt;
 
 &lt;p&gt;特にベルリンは１１月から３月までくら〜い日が続くので、クリスマスマーケットでもないと病んでしまう。１０月のオクトーバーフェストが終わったあたりから、まだかなぁとわくわくしています。１１月末から...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>おわりとはじまり</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2019/12/30/owari-to-hajimari/"/>
-    <id>http://myblog.com/articles/jp/2019/12/30/owari-to-hajimari/</id>
-    <published>2019-12-30T00:00:00+01:00</published>
-    <updated>2020-01-01T14:33:22+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ベルリンに来て１年半。２回目の大晦日（ドイツ語ではsilvesterといいます）を明日に控え、外ではすでにばんばん花火の音がする午後。&lt;br&gt;家で仕事をしながら、ブログ最初の記事を書くことにしました。&lt;/p&gt;
-
-&lt;p&gt;２０１９年はあたしにとって大きな１年でした。&lt;br&gt;１月に入り、ブートキャンプというプログラマーになるため...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>I'm ready for twenty-twenty!</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2019/12/30/ready-for-2020/"/>
-    <id>http://myblog.com/articles/en/2019/12/30/ready-for-2020/</id>
-    <published>2019-12-30T00:00:00+01:00</published>
-    <updated>2020-01-01T14:33:22+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;It's been a year and half since I landed in Berlin. Tomorrow is my second silvester in Germany. I can already hear fire works. I got some wine for us...&lt;/p&gt;</summary>
   </entry>
 </feed>

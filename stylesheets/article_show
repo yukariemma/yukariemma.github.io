@@ -27,7 +27,7 @@
   flex-direction: column; }
 
 .article-show-img {
-  object-fit: cover;
+  object-fit: contain;
   width: 488px;
   height: 460px;
   border-radius: 6px; }

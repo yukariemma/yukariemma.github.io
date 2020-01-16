@@ -24,6 +24,11 @@
     min-width: 100%;
     height: auto;
     max-height: 510px; }
+  .article-content a.external-link {
+    color: #C69F73;
+    text-decoration: none; }
+  .article-content a.external-link:hover {
+    color: #9B7D5A; }
 
 ul.read_next {
   list-style: none;
