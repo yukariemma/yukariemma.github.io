@@ -2,26 +2,75 @@
 .calendar-archive {
   padding-bottom: 100px; }
   .calendar-archive ul {
-    list-style: none; }
+    list-style: none;
+    font-family: 'Cinzel', serif; }
   .calendar-archive a {
     text-decoration: none; }
   .calendar-archive .calendar-title {
-    padding-inline-start: 40px; }
+    padding-inline-start: 40px;
+    margin-bottom: 30px; }
 
-.calendar-archive-content {
-  display: flex;
-  padding: 25px 0;
-  margin-top: 25px;
-  border-top: 1px solid #eaeaea; }
+.month-filter {
+  padding-left: 40px;
+  margin-bottom: 30px; }
 
-.calendar-archive-month-list {
-  width: 30%; }
+#curtain-calendar ul {
+  padding: 0;
+  list-style: none;
+  font-size: 15px; }
+#curtain-calendar li {
+  position: relative;
+  padding: 5px 7px;
+  display: inline; }
+#curtain-calendar a.list-name:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #707070;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0; }
+#curtain-calendar a.list-name:hover:after {
+  width: 100%;
+  left: 0; }
 
-.month-filter ul.month-list li {
-  padding-right: 20px;
-  line-height: 2.0em; }
+@media (max-width: 1140px) {
+  .calendar-archive .calendar-title {
+    margin-bottom: 80px; }
 
-.calendar-archive-list {
-  width: 70%; }
-  .calendar-archive-list ul.archive-articles li {
-    line-height: 1.8em; }
+  #curtain-calendar ul {
+    width: auto; }
+  #curtain-calendar li {
+    display: block;
+    padding: 0 20px;
+    line-height: 0.8em; }
+  #curtain-calendar a {
+    font-size: 15px; }
+  #curtain-calendar a.active {
+    color: #fff; }
+  #curtain-calendar a:hover {
+    color: #fff; }
+
+  .month-filter ul.month-list {
+    margin-top: 60px; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  .calendar-archive .calendar-title {
+    padding-inline-start: 0;
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 30px; }
+
+  .month-filter ul.month-list {
+    margin-top: 30px; }
+  .month-filter .curtain-open-btn {
+    left: 20px; }
+
+  .calendar-archive-list {
+    padding-top: 20px; }
+    .calendar-archive-list ul {
+      padding-inline-start: 0; }
+      .calendar-archive-list ul li {
+        font-size: 13px; } }
