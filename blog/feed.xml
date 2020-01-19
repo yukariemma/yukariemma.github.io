@@ -5,10 +5,26 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-01-08T00:00:00+01:00</updated>
+  <updated>2020-01-19T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Roamers</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/19/roamers/"/>
+    <id>http://myblog.com/articles/jp/2020/01/19/roamers/</id>
+    <published>2020-01-19T00:00:00+01:00</published>
+    <updated>2020-01-19T18:41:18+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたしと主人はあまり外食が多い方じゃないんですが、&lt;br&gt;たまーにブランチを食べに行きます。&lt;/p&gt;
+
+&lt;p&gt;今日は日曜日。&lt;br&gt;目覚めの珈琲一杯を飲んだあと、ずっと行ってみたかった&lt;a href="https://www.roamers.cc/" target="_blank" class="external-link"&gt;Roamers&lt;/a&gt;に行ってきました。&lt;/p&gt;
+
+&lt;p&gt;ドイツはRuhezeitといって、日曜日はお店というお店がお休みなんです。&lt;br&gt;
+一部のカフェやバーをのぞいて...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Awomb</title>
     <link rel="alternate" href="http://myblog.com/articles/en/2020/01/08/awomb/"/>
@@ -23,6 +39,20 @@
 &lt;p&gt;Their sushi is an art!&lt;/p&gt;
 
 &lt;p&gt;You get small piece of everything with all kinds of seasoning. Fresh fish with almond...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>市川屋珈琲</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/08/ichikawaya-coffee/"/>
+    <id>http://myblog.com/articles/jp/2020/01/08/ichikawaya-coffee/</id>
+    <published>2020-01-08T00:00:00+01:00</published>
+    <updated>2020-01-19T18:49:21+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;京都といえば年間の珈琲消費量が全国一。&lt;br&gt;本を片手にコーヒーを飲む人、試験勉強を頑張る学生、新聞を読むおじいちゃん、隣の人と会話したり、窓の外を眺めるだけでもいい。&lt;br&gt;珈琲の数だけ、ストーリーがある。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.facebook.com/ichikawayacoffee/?fref=ts" target="_blank" class="external-link"&gt;市川屋珈琲&lt;/a&gt;は季節の果物をふんだんに使ったフルーツサンドが有名なんです。
+無類のフルーツ好きとしては...&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>Kyoto</title>
@@ -56,27 +86,6 @@
 &lt;p&gt;ガイドブックに載ってないような小さいお店や、少し外れた場所にあるお寺や神社。&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Frohes Neues Jahr!</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/01/happy-new-year/"/>
-    <id>http://myblog.com/articles/en/2020/01/01/happy-new-year/</id>
-    <published>2020-01-01T00:00:00+01:00</published>
-    <updated>2020-01-08T21:22:51+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Happy new year from Berlin!&lt;/p&gt;
-
-&lt;p&gt;Here are my resolutions for 2020.&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Dutch - reach to B1 level&lt;/li&gt;
-  &lt;li&gt;German - make "German only" day&lt;/li&gt;
-  &lt;li&gt;Travel&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Croatia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
     <title>３６６分の１日目</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/01/happy-new-year/"/>
     <id>http://myblog.com/articles/jp/2020/01/01/happy-new-year/</id>
@@ -89,18 +98,5 @@
 令和も２年目、干支は一周巡って子年。そして４年に一度のうるう年。&lt;br&gt;年号が変わって初めて迎えるお正月。そしてここベルリンで迎える２度目のお正月。&lt;/p&gt;
 
 &lt;p&gt;ヨーロッパと日本ではクリスマスと年末年始の迎え方が真逆です。&lt;br&gt;クリスマスはヨーロッパの街から人が消えます。みんな実家に...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>クリスマスマーケット</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2019/12/31/weihnachtsmarkt/"/>
-    <id>http://myblog.com/articles/jp/2019/12/31/weihnachtsmarkt/</id>
-    <published>2019-12-31T00:00:00+01:00</published>
-    <updated>2020-01-01T14:33:22+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;また１年書けなくなるので、せっかくなのでドイツのクリスマスマーケットについて今年中に書いときます。&lt;/p&gt;
-
-&lt;p&gt;特にベルリンは１１月から３月までくら〜い日が続くので、クリスマスマーケットでもないと病んでしまう。１０月のオクトーバーフェストが終わったあたりから、まだかなぁとわくわくしています。１１月末から...&lt;/p&gt;</summary>
   </entry>
 </feed>
