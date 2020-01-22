@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-01-19T00:00:00+01:00</updated>
+  <updated>2020-01-20T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Obento</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/20/obento/"/>
+    <id>http://myblog.com/articles/jp/2020/01/20/obento/</id>
+    <published>2020-01-20T00:00:00+01:00</published>
+    <updated>2020-01-22T17:49:30+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたしは結構料理する方なんです。毎日するんです。お弁当も毎日持っていきます。&lt;br&gt;
+それは結婚する前からずっと。でも決して料理が好きなわけじゃない。&lt;br&gt;材料を切ってから何を作るか考えるなんてこともある。&lt;/p&gt;
+
+&lt;p&gt;主人と一緒に住み始めてから「二人分＋翌日のお弁当ふたつ分」の量に慣れるまで少々時間がかかった。
+日...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Roamers</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/19/roamers/"/>
@@ -55,21 +70,6 @@
 無類のフルーツ好きとしては...&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Kyoto</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/07/kyoto/"/>
-    <id>http://myblog.com/articles/en/2020/01/07/kyoto/</id>
-    <published>2020-01-07T00:00:00+01:00</published>
-    <updated>2020-01-16T17:35:39+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;My favorite city in the world, Kyoto.&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In Kyoto, [new and old], [now and then], [modern and tradition] live together perfectly.&lt;/p&gt;
-
-&lt;p&gt;If you go one street...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
     <title>古都 京都</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/07/kyoto/"/>
     <id>http://myblog.com/articles/jp/2020/01/07/kyoto/</id>
@@ -86,17 +86,18 @@
 &lt;p&gt;ガイドブックに載ってないような小さいお店や、少し外れた場所にあるお寺や神社。&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>３６６分の１日目</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/01/happy-new-year/"/>
-    <id>http://myblog.com/articles/jp/2020/01/01/happy-new-year/</id>
-    <published>2020-01-01T00:00:00+01:00</published>
-    <updated>2020-01-04T19:53:45+01:00</updated>
+    <title>Kyoto</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/07/kyoto/"/>
+    <id>http://myblog.com/articles/en/2020/01/07/kyoto/</id>
+    <published>2020-01-07T00:00:00+01:00</published>
+    <updated>2020-01-16T17:35:39+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;あけましておめでとうございます。&lt;br&gt;
-令和も２年目、干支は一周巡って子年。そして４年に一度のうるう年。&lt;br&gt;年号が変わって初めて迎えるお正月。そしてここベルリンで迎える２度目のお正月。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;My favorite city in the world, Kyoto.&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;ヨーロッパと日本ではクリスマスと年末年始の迎え方が真逆です。&lt;br&gt;クリスマスはヨーロッパの街から人が消えます。みんな実家に...&lt;/p&gt;</summary>
+&lt;p&gt;In Kyoto, [new and old], [now and then], [modern and tradition] live together perfectly.&lt;/p&gt;
+
+&lt;p&gt;If you go one street...&lt;/p&gt;</summary>
   </entry>
 </feed>
