@@ -24,10 +24,6 @@ a:hover {
   max-width: 976px;
   max-width: 61rem; }
 
-/*pagination*/
-#pagination-container {
-  margin-bottom: 60px; }
-
 /* Lists */
 ul.plain, ol.plain {
   list-style: none;
