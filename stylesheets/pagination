@@ -1,3 +1,12 @@
 /*pagination*/
 #pagination-container {
   margin-bottom: 60px; }
+  #pagination-container .page-item.disabled {
+    color: #707070; }
+  #pagination-container .page-link {
+    background: #EDE8E1;
+    color: #707070;
+    border-color: #EDE8E1; }
+  #pagination-container a:hover {
+    color: #171717;
+    border-color: #EDE8E1; }

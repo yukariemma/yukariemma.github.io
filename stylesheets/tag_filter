@@ -1,7 +1,8 @@
+@charset "UTF-8";
 /*tag_filter*/
 /*tag_list*/
 .tag-names {
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ', 'Meiryo','ＭＳ Ｐゴシック';
   margin-bottom: 30px; }
 
 #curtain-tag ul {

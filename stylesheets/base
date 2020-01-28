@@ -1,11 +1,15 @@
+@charset "UTF-8";
 /*body*/
 body {
   color: #707070;
   background: #EDE8E1;
   font-family: 'Krub', sans-serif; }
 
+body.jp {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", sans-serif !important; }
+
 h1, h2, h3, h4, h5 {
-  font-family: 'Cinzel', serif; }
+  font-family: 'Cinzel', 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ', 'Meiryo','ＭＳ Ｐゴシック'; }
 
 .container {
   max-width: 1440px; }

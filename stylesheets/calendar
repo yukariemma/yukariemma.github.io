@@ -1,9 +1,10 @@
+@charset "UTF-8";
 /*calendar*/
 .calendar-archive {
   padding-bottom: 100px; }
   .calendar-archive ul {
     list-style: none;
-    font-family: 'Cinzel', serif; }
+    font-family: 'Cinzel', 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ', 'Meiryo','ＭＳ Ｐゴシック'; }
   .calendar-archive a {
     text-decoration: none; }
   .calendar-archive .calendar-title {

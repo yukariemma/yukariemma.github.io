@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*footer*/
 footer {
   color: #EDE2D0;
@@ -24,7 +25,7 @@ footer {
     font-family: 'Cinzel', serif; }
   .footer-column .footer-list {
     margin-top: 16px;
-    font-family: 'Krub', sans-serif; }
+    font-family: 'Krub', 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ', 'Meiryo','ＭＳ Ｐゴシック'; }
   .footer-column ul {
     padding: 0px; }
   .footer-column li {

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*topbar*/
 #topbar {
   position: fixed;
@@ -62,7 +63,7 @@
     text-decoration: none; }
 
 ul.navbar-content {
-  font-family: 'Cinzel', serif; }
+  font-family: 'Cinzel', 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ', 'Meiryo','ＭＳ Ｐゴシック'; }
 
 .navlink-open-btn {
   display: none; }
