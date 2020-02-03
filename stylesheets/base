@@ -35,6 +35,33 @@ ul.plain, ol.plain {
   ul.plain li, ol.plain li {
     margin-top: 0.5em; }
 
+/* back to top button */
+#backToTop {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Fixed/sticky position */
+  bottom: 20px;
+  right: 71px;
+  z-index: 99;
+  /* Make sure it does not overlap */
+  outline: none;
+  /* Remove outline */
+  background-color: #707070;
+  cursor: pointer;
+  /* Add a mouse pointer on hover */
+  padding: 5px 10px 5px 10px;
+  box-shadow: 2px 2px 12px -3px #cfcac5;
+  transition: background .3s ease-out 0s;
+  -webkit-tap-highlight-color: rgba(189, 185, 185, 0); }
+
+#backToTop:hover {
+  background-color: #636363; }
+
+.fa-angle-up {
+  color: #fff;
+  font-size: 16px; }
+
 /* Misc */
 .clear {
   clear: both; }
@@ -46,3 +73,6 @@ ul.plain, ol.plain {
   .wrapper {
     padding-left: 20px !important;
     padding-right: 20px !important; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  #backToTop {
+    right: 30px; } }
