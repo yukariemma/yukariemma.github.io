@@ -5,10 +5,37 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-01-20T00:00:00+01:00</updated>
+  <updated>2020-02-04T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Yoga at temple</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2020/02/04/temple-yoga/"/>
+    <id>http://myblog.com/articles/en/2020/02/04/temple-yoga/</id>
+    <published>2020-02-04T00:00:00+01:00</published>
+    <updated>2020-02-04T11:33:21+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;When my bestfriend from Belgium visited me, we did yoga at temple.&lt;/p&gt;
+
+&lt;p&gt;I'm personally not a big fan of yoga but I did enjoyed this yoga. You practice in...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ベルリンの歴史</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/02/04/history-berlin/"/>
+    <id>http://myblog.com/articles/jp/2020/02/04/history-berlin/</id>
+    <published>2020-02-04T00:00:00+01:00</published>
+    <updated>2020-02-04T12:37:42+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;先日ベルリンの&lt;a href="https://www.ddr-museum.de/de" target="_blank" class="external-link"&gt;東ドイツ博物館 (DDR Museum)&lt;/a&gt;に行ってきました。&lt;br&gt;
+ここはベルリンがひとつになる前、東と西に別れていた時代の東ドイツの暮らしが展示されている博物館なんです。&lt;/p&gt;
+
+&lt;p&gt;DDRとはDeutsche Demokratische Republik（ドイツ民主共和国）いわゆる旧東ドイツの...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Obento</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/20/obento/"/>
@@ -68,36 +95,5 @@
 
 &lt;p&gt;&lt;a href="https://www.facebook.com/ichikawayacoffee/?fref=ts" target="_blank" class="external-link"&gt;市川屋珈琲&lt;/a&gt;は季節の果物をふんだんに使ったフルーツサンドが有名なんです。
 無類のフルーツ好きとしては...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>古都 京都</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/07/kyoto/"/>
-    <id>http://myblog.com/articles/jp/2020/01/07/kyoto/</id>
-    <published>2020-01-07T00:00:00+01:00</published>
-    <updated>2020-01-16T17:08:53+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;わたしが世界中で一番好きな場所、京都を綴る「古都京都」シリーズ。&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;ブログを始めたいなぁと思ったきっかけのひとつは、京都に住んでいろんな素敵な場所を見つけ、
-感動し、それをどこかに記録しておきたいなぁと思ったこと。&lt;/p&gt;
-
-&lt;p&gt;ガイドブックに載ってないような小さいお店や、少し外れた場所にあるお寺や神社。&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kyoto</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/07/kyoto/"/>
-    <id>http://myblog.com/articles/en/2020/01/07/kyoto/</id>
-    <published>2020-01-07T00:00:00+01:00</published>
-    <updated>2020-01-16T17:35:39+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;My favorite city in the world, Kyoto.&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In Kyoto, [new and old], [now and then], [modern and tradition] live together perfectly.&lt;/p&gt;
-
-&lt;p&gt;If you go one street...&lt;/p&gt;</summary>
   </entry>
 </feed>
