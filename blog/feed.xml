@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-02-04T00:00:00+01:00</updated>
+  <updated>2020-02-07T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ふと空を見上げて</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/02/07/new-apartment/"/>
+    <id>http://myblog.com/articles/jp/2020/02/07/new-apartment/</id>
+    <published>2020-02-07T00:00:00+01:00</published>
+    <updated>2020-02-07T18:48:17+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;引っ越すことにしました。&lt;br&gt;フリードリッヒシェーン(Friedrichschain)からアルトホーヘンショーンハウゼン(Alt-hohenschönhausen)へ引っ越します。名前、長っ！&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;いまのおうちは、あたしがベルリンに引っ越す前に主人が先に引っ越したおうちで、よくテレビ電話で「バルコニー...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Yoga at temple</title>
     <link rel="alternate" href="http://myblog.com/articles/en/2020/02/04/temple-yoga/"/>
@@ -81,19 +94,5 @@
 &lt;p&gt;Their sushi is an art!&lt;/p&gt;
 
 &lt;p&gt;You get small piece of everything with all kinds of seasoning. Fresh fish with almond...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>市川屋珈琲</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/01/08/ichikawaya-coffee/"/>
-    <id>http://myblog.com/articles/jp/2020/01/08/ichikawaya-coffee/</id>
-    <published>2020-01-08T00:00:00+01:00</published>
-    <updated>2020-01-19T18:49:21+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;京都といえば年間の珈琲消費量が全国一。&lt;br&gt;本を片手にコーヒーを飲む人、試験勉強を頑張る学生、新聞を読むおじいちゃん、隣の人と会話したり、窓の外を眺めるだけでもいい。&lt;br&gt;珈琲の数だけ、ストーリーがある。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.facebook.com/ichikawayacoffee/?fref=ts" target="_blank" class="external-link"&gt;市川屋珈琲&lt;/a&gt;は季節の果物をふんだんに使ったフルーツサンドが有名なんです。
-無類のフルーツ好きとしては...&lt;/p&gt;</summary>
   </entry>
 </feed>

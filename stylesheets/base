@@ -74,3 +74,6 @@ ul.plain, ol.plain {
   .wrapper {
     padding-left: 20px !important;
     padding-right: 20px !important; } }
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+  #backToTop {
+    right: 45%; } }
