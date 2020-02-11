@@ -5,10 +5,24 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-02-07T00:00:00+01:00</updated>
+  <updated>2020-02-11T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>映画館</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/02/11/kino/"/>
+    <id>http://myblog.com/articles/jp/2020/02/11/kino/</id>
+    <published>2020-02-11T00:00:00+01:00</published>
+    <updated>2020-02-11T17:55:11+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ベルリンの映画館。なんぼほどレトロ！&lt;br&gt;あたしが大好きな映画館（ドイツ語でKino）が近所に２つあります。&lt;/p&gt;
+
+&lt;p&gt;まずぼろぼろのドアを抜けると、そこはレトロなバー。主人はあまりにドアがぼろいもので入り口がわからず「エントランスどこですか〜？」ってつぶやいてた笑。&lt;br&gt;
+そしてバーで飲みながら待つんですが、特...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ふと空を見上げて</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/02/07/new-apartment/"/>
@@ -27,13 +41,13 @@
     <link rel="alternate" href="http://myblog.com/articles/en/2020/02/04/temple-yoga/"/>
     <id>http://myblog.com/articles/en/2020/02/04/temple-yoga/</id>
     <published>2020-02-04T00:00:00+01:00</published>
-    <updated>2020-02-04T11:33:21+01:00</updated>
+    <updated>2020-02-11T17:56:18+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;When my bestfriend from Belgium visited me, we did yoga at temple.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;When my best friend from Belgium visited me, we did yoga at temple.&lt;/p&gt;
 
-&lt;p&gt;I'm personally not a big fan of yoga but I did enjoyed this yoga. You practice in...&lt;/p&gt;</summary>
+&lt;p&gt;I'm personally not a big fan of yoga but I did enjoyed this yoga. You practice...&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>ベルリンの歴史</title>
@@ -79,20 +93,5 @@
 
 &lt;p&gt;ドイツはRuhezeitといって、日曜日はお店というお店がお休みなんです。&lt;br&gt;
 一部のカフェやバーをのぞいて...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Awomb</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2020/01/08/awomb/"/>
-    <id>http://myblog.com/articles/en/2020/01/08/awomb/</id>
-    <published>2020-01-08T00:00:00+01:00</published>
-    <updated>2020-01-16T18:10:25+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;One of the must-go restaurant "AWOMB"&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Their sushi is an art!&lt;/p&gt;
-
-&lt;p&gt;You get small piece of everything with all kinds of seasoning. Fresh fish with almond...&lt;/p&gt;</summary>
   </entry>
 </feed>
