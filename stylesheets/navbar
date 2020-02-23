@@ -44,6 +44,11 @@
   transform: translateX(-50%);
   z-index: 3; }
 
+#navbar-links {
+  display: block;
+  position: absolute;
+  right: 0; }
+
 .navbar-container {
   display: flex; }
   .navbar-container ul {
@@ -71,7 +76,10 @@ ul.navbar-content {
 @media (max-width: 1140px) {
   .topbar-wrapper {
     padding-right: 20px;
-    padding-left: 20px; } }
+    padding-left: 20px; }
+
+  #navbar-links {
+    padding-right: 20px; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .navbar-wrapper {
     overflow: hidden;
@@ -79,7 +87,8 @@ ul.navbar-content {
     display: block; }
 
   .navbar-wrapper #navbar-links {
-    display: none; }
+    display: none;
+    position: relative; }
     .navbar-wrapper #navbar-links ul.navbar-content {
       padding-left: 0;
       display: block; }
