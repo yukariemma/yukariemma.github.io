@@ -5,10 +5,80 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-03-21T00:00:00+01:00</updated>
+  <updated>2020-05-03T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ひらがな</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/03/hiragana/"/>
+    <id>http://myblog.com/articles/jp/2020/05/03/hiragana/</id>
+    <published>2020-05-03T00:00:00+02:00</published>
+    <updated>2020-05-03T16:10:21+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;日本に興味を持ち、日本語を勉強する外国人と話すのは楽しい。&lt;br&gt;
+その代表が主人です。&lt;/p&gt;
+
+&lt;p&gt;彼はあたしと出会う前から日本に興味があったらしい。&lt;br&gt;
+子供のころから柔道...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>にほんご</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/02/nihongo/"/>
+    <id>http://myblog.com/articles/jp/2020/05/02/nihongo/</id>
+    <published>2020-05-02T00:00:00+02:00</published>
+    <updated>2020-05-03T16:59:15+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;パラリーガルを辞めたあと将来何かの役に立つだろうと始めた日本語教育の資格。&lt;/p&gt;
+
+&lt;p&gt;言語は話せるのと説明するのは全然違う。&lt;br&gt;
+初めて自分の母国語を言語学という観点...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>moving &amp; cleaning 最後</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/01/moving/"/>
+    <id>http://myblog.com/articles/jp/2020/05/01/moving/</id>
+    <published>2020-05-01T00:00:00+02:00</published>
+    <updated>2020-05-03T15:39:07+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;前のアパートを引き渡す日。&lt;br&gt;
+ドイツではアパートのオーナーのことをハウスマイスターと言います。&lt;br&gt;
+主人はハウスマイスターとの約束の時間の１０分後、悲壮な顔をし...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>moving &amp; cleaning つづき</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/04/30/moving/"/>
+    <id>http://myblog.com/articles/jp/2020/04/30/moving/</id>
+    <published>2020-04-30T00:00:00+02:00</published>
+    <updated>2020-05-03T15:07:42+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;他のEUの国やドイツ国内の他の州と比べてもダントツ少ないベルリンの祝日。&lt;br&gt;
+その３分の２が４月と５月に集まっています。&lt;/p&gt;
+
+&lt;p&gt;そのイースター休暇初日に引っ越しを...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>moving &amp; cleaning</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/04/29/moving/"/>
+    <id>http://myblog.com/articles/jp/2020/04/29/moving/</id>
+    <published>2020-04-29T00:00:00+02:00</published>
+    <updated>2020-05-03T14:46:03+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツへ帰ってからの１ヵ月。&lt;br&gt;こういうのを怒涛の日々というんだろう、という日々だった。&lt;/p&gt;
+
+&lt;p&gt;帰独して翌日、仕事復帰。&lt;br&gt;
+というてもホームオフィスなので、朝起きた...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>次の日</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/03/21/after-wedding/"/>
@@ -23,80 +93,5 @@
 &lt;p&gt;喋った！めっちゃ喋った！&lt;/p&gt;
 
 &lt;p&gt;おいし〜い抹茶コーヒーから始まり、きなこで有名な&lt;a href="https://kisshokaryo.jp/" target="_blank" class="external-link"&gt;吉祥菓寮&lt;/a&gt;で洒落たお茶漬けと...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>結婚式</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/03/20/wedding-day/"/>
-    <id>http://myblog.com/articles/jp/2020/03/20/wedding-day/</id>
-    <published>2020-03-20T00:00:00+01:00</published>
-    <updated>2020-04-16T17:42:00+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;晴れた！&lt;/p&gt;
-
-&lt;p&gt;青い空と桜と大切なひとたちの笑顔。&lt;br&gt;
-すべてが味方してくれた１日。&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;あーなんだか夢見たいな１日で。&lt;br&gt;
-何をどう綴っていいやら。&lt;br&gt;
-今は言葉よりも気...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>結婚式前日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/03/19/before-wedding/"/>
-    <id>http://myblog.com/articles/jp/2020/03/19/before-wedding/</id>
-    <published>2020-03-19T00:00:00+01:00</published>
-    <updated>2020-04-16T16:46:07+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;明日に結婚式を控え、京都御所のしだれ桜が満開に。&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;日本へ帰って２週間。&lt;br&gt;
-最終準備に打ち合わせに衣裳合わせに主人のご両親のお出迎えに、怒涛のように過ぎた日...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>衣裳合わせ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/03/09/wedding-preparation/"/>
-    <id>http://myblog.com/articles/jp/2020/03/09/wedding-preparation/</id>
-    <published>2020-03-09T00:00:00+01:00</published>
-    <updated>2020-04-16T16:25:57+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日はいよいよ「衣裳合わせ」と「神社との初めて面と向かった打ち合わせ」です笑。&lt;/p&gt;
-
-&lt;p&gt;あたしたちは神前式を行うことにしましたので、結婚式は白無垢です。&lt;/p&gt;
-
-&lt;p&gt;人生...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>日本へ！</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/03/06/to-japan/"/>
-    <id>http://myblog.com/articles/jp/2020/03/06/to-japan/</id>
-    <published>2020-03-06T00:00:00+01:00</published>
-    <updated>2020-04-16T15:23:03+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;日本へ帰ります！３週間のホリデー！&lt;/p&gt;
-
-&lt;p&gt;今回のメイン行事は結婚式。&lt;br&gt;
-約９ヶ月間に渡りベルリン（あたしたち）と日本（あたしの両親）での「遠距離準備」を進めてき...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>３年目の記念日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/02/19/three-years/"/>
-    <id>http://myblog.com/articles/jp/2020/02/19/three-years/</id>
-    <published>2020-02-19T00:00:00+01:00</published>
-    <updated>2020-04-16T17:27:20+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;出逢って３年目の今日。&lt;br&gt;ふたりでごはんを食べにいきました。&lt;/p&gt;
-
-&lt;p&gt;主人はいわゆるヨーロピアンですが、彼によるロマンチックの定義はあたしと少々ずれております。&lt;br&gt;
-去...&lt;/p&gt;</summary>
   </entry>
 </feed>
