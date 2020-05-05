@@ -5,10 +5,22 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-05-03T00:00:00+02:00</updated>
+  <updated>2020-05-04T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Copper from India</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2020/05/04/copper/"/>
+    <id>http://myblog.com/articles/en/2020/05/04/copper/</id>
+    <published>2020-05-04T00:00:00+02:00</published>
+    <updated>2020-05-05T17:43:18+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;My best friend brought us copper cups from India.&lt;br&gt;
+It got black stain over some...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ひらがな</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/03/hiragana/"/>
@@ -78,20 +90,5 @@
 
 &lt;p&gt;帰独して翌日、仕事復帰。&lt;br&gt;
 というてもホームオフィスなので、朝起きた...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>次の日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/03/21/after-wedding/"/>
-    <id>http://myblog.com/articles/jp/2020/03/21/after-wedding/</id>
-    <published>2020-03-21T00:00:00+01:00</published>
-    <updated>2020-04-16T17:24:43+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日は親友であるまいまいと京都で過ごす日、です。&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;喋った！めっちゃ喋った！&lt;/p&gt;
-
-&lt;p&gt;おいし〜い抹茶コーヒーから始まり、きなこで有名な&lt;a href="https://kisshokaryo.jp/" target="_blank" class="external-link"&gt;吉祥菓寮&lt;/a&gt;で洒落たお茶漬けと...&lt;/p&gt;</summary>
   </entry>
 </feed>
