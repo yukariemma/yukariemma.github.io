@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-05-04T00:00:00+02:00</updated>
+  <updated>2020-05-14T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>旅</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/14/traveling/"/>
+    <id>http://myblog.com/articles/jp/2020/05/14/traveling/</id>
+    <published>2020-05-14T00:00:00+02:00</published>
+    <updated>2020-05-14T19:29:09+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたしは昔から結構旅をしてきた（方だ）と思う。&lt;br&gt;
+旅というものをすごく価値のあるものと捉えてきた気がする。&lt;br&gt;
+「お金で買えないが、お金より自分を豊かにしてくれ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Copper from India</title>
     <link rel="alternate" href="http://myblog.com/articles/en/2020/05/04/copper/"/>
@@ -26,7 +39,7 @@ It got black stain over some...&lt;/p&gt;</summary>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/03/hiragana/"/>
     <id>http://myblog.com/articles/jp/2020/05/03/hiragana/</id>
     <published>2020-05-03T00:00:00+02:00</published>
-    <updated>2020-05-03T16:10:21+02:00</updated>
+    <updated>2020-05-14T16:20:45+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -76,19 +89,5 @@ It got black stain over some...&lt;/p&gt;</summary>
 その３分の２が４月と５月に集まっています。&lt;/p&gt;
 
 &lt;p&gt;そのイースター休暇初日に引っ越しを...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>moving &amp; cleaning</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/04/29/moving/"/>
-    <id>http://myblog.com/articles/jp/2020/04/29/moving/</id>
-    <published>2020-04-29T00:00:00+02:00</published>
-    <updated>2020-05-03T14:46:03+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツへ帰ってからの１ヵ月。&lt;br&gt;こういうのを怒涛の日々というんだろう、という日々だった。&lt;/p&gt;
-
-&lt;p&gt;帰独して翌日、仕事復帰。&lt;br&gt;
-というてもホームオフィスなので、朝起きた...&lt;/p&gt;</summary>
   </entry>
 </feed>
