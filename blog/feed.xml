@@ -5,16 +5,30 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-05-14T00:00:00+02:00</updated>
+  <updated>2020-05-15T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ドレスデン</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/15/dresden/"/>
+    <id>http://myblog.com/articles/jp/2020/05/15/dresden/</id>
+    <published>2020-05-15T00:00:00+02:00</published>
+    <updated>2020-05-19T22:16:49+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第一回はドレスデン（2019.12.1）。&lt;/p&gt;
+
+&lt;p&gt;去年の暮、念願のクリスマスマーケットを楽しみにドレスデンへ日帰り旅行しました。&lt;br&gt;
+ドレスデンはベルリンから...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>旅</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/14/traveling/"/>
     <id>http://myblog.com/articles/jp/2020/05/14/traveling/</id>
     <published>2020-05-14T00:00:00+02:00</published>
-    <updated>2020-05-14T19:29:09+02:00</updated>
+    <updated>2020-05-19T20:57:49+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -39,7 +53,7 @@ It got black stain over some...&lt;/p&gt;</summary>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/03/hiragana/"/>
     <id>http://myblog.com/articles/jp/2020/05/03/hiragana/</id>
     <published>2020-05-03T00:00:00+02:00</published>
-    <updated>2020-05-14T16:20:45+02:00</updated>
+    <updated>2020-05-19T21:04:33+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -75,19 +89,5 @@ It got black stain over some...&lt;/p&gt;</summary>
     <summary type="html">&lt;p&gt;前のアパートを引き渡す日。&lt;br&gt;
 ドイツではアパートのオーナーのことをハウスマイスターと言います。&lt;br&gt;
 主人はハウスマイスターとの約束の時間の１０分後、悲壮な顔をし...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>moving &amp; cleaning つづき</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/04/30/moving/"/>
-    <id>http://myblog.com/articles/jp/2020/04/30/moving/</id>
-    <published>2020-04-30T00:00:00+02:00</published>
-    <updated>2020-05-03T15:07:42+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;他のEUの国やドイツ国内の他の州と比べてもダントツ少ないベルリンの祝日。&lt;br&gt;
-その３分の２が４月と５月に集まっています。&lt;/p&gt;
-
-&lt;p&gt;そのイースター休暇初日に引っ越しを...&lt;/p&gt;</summary>
   </entry>
 </feed>
