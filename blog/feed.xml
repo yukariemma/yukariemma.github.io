@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-05-15T00:00:00+02:00</updated>
+  <updated>2020-05-20T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>おまんじゅう</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/20/omanjyu/"/>
+    <id>http://myblog.com/articles/jp/2020/05/20/omanjyu/</id>
+    <published>2020-05-20T00:00:00+02:00</published>
+    <updated>2020-05-22T17:14:53+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ダイニングで仕事していたある日の午後。&lt;br&gt;
+「ぴんぽ〜ん」とベルが鳴り、主人がいつも通り何かに反応して駆けていく犬のようにドアまで走っていった。&lt;br&gt;
+「か..し....&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ドレスデン</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/15/dresden/"/>
@@ -76,18 +89,5 @@ It got black stain over some...&lt;/p&gt;</summary>
 
 &lt;p&gt;言語は話せるのと説明するのは全然違う。&lt;br&gt;
 初めて自分の母国語を言語学という観点...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>moving &amp; cleaning 最後</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/01/moving/"/>
-    <id>http://myblog.com/articles/jp/2020/05/01/moving/</id>
-    <published>2020-05-01T00:00:00+02:00</published>
-    <updated>2020-05-03T15:39:07+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;前のアパートを引き渡す日。&lt;br&gt;
-ドイツではアパートのオーナーのことをハウスマイスターと言います。&lt;br&gt;
-主人はハウスマイスターとの約束の時間の１０分後、悲壮な顔をし...&lt;/p&gt;</summary>
   </entry>
 </feed>
