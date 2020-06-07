@@ -5,10 +5,24 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-05-27T00:00:00+02:00</updated>
+  <updated>2020-06-07T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>リスボン前編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/07/lisbon/"/>
+    <id>http://myblog.com/articles/jp/2020/06/07/lisbon/</id>
+    <published>2020-06-07T00:00:00+02:00</published>
+    <updated>2020-06-07T17:08:17+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第二回はポルトガル（2019.9.19-9.24）。&lt;/p&gt;
+
+&lt;p&gt;去年、結婚式の前の撮影をしたいなーと思っていて、&lt;br&gt;
+この人の写真すてき！というカメラマンがみつか...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>チェックリスト</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/27/checklist/"/>
@@ -74,20 +88,5 @@
     </author>
     <summary type="html">&lt;p&gt;My best friend brought us copper cups from India.&lt;br&gt;
 It got black stain over some...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ひらがな</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/03/hiragana/"/>
-    <id>http://myblog.com/articles/jp/2020/05/03/hiragana/</id>
-    <published>2020-05-03T00:00:00+02:00</published>
-    <updated>2020-05-19T21:04:33+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;日本に興味を持ち、日本語を勉強する外国人と話すのは楽しい。&lt;br&gt;
-その代表が主人です。&lt;/p&gt;
-
-&lt;p&gt;彼はあたしと出会う前から日本に興味があったらしい。&lt;br&gt;
-子供のころから柔道...&lt;/p&gt;</summary>
   </entry>
 </feed>
