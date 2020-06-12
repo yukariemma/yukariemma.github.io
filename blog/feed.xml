@@ -5,16 +5,31 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-06-07T00:00:00+02:00</updated>
+  <updated>2020-06-08T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>リスボン後編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/08/lisbon/"/>
+    <id>http://myblog.com/articles/jp/2020/06/08/lisbon/</id>
+    <published>2020-06-08T00:00:00+02:00</published>
+    <updated>2020-06-12T16:18:01+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;アルファマはリスボンの旧市街で、細い石段の道が続く。&lt;/p&gt;
+
+&lt;p&gt;この日はいろいろ奇跡が起こった。&lt;/p&gt;
+
+&lt;p&gt;午後４時頃からウェディングフォトシュートを予定していた私たちは...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>リスボン前編</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/07/lisbon/"/>
     <id>http://myblog.com/articles/jp/2020/06/07/lisbon/</id>
     <published>2020-06-07T00:00:00+02:00</published>
-    <updated>2020-06-07T22:12:06+02:00</updated>
+    <updated>2020-06-12T16:07:48+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -76,17 +91,5 @@
     <summary type="html">&lt;p&gt;あたしは昔から結構旅をしてきた（方だ）と思う。&lt;br&gt;
 旅というものをすごく価値のあるものと捉えてきた気がする。&lt;br&gt;
 「お金で買えないが、お金より自分を豊かにしてくれ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Copper from India</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2020/05/04/copper/"/>
-    <id>http://myblog.com/articles/en/2020/05/04/copper/</id>
-    <published>2020-05-04T00:00:00+02:00</published>
-    <updated>2020-05-05T17:43:18+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;My best friend brought us copper cups from India.&lt;br&gt;
-It got black stain over some...&lt;/p&gt;</summary>
   </entry>
 </feed>
