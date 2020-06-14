@@ -5,16 +5,30 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-06-08T00:00:00+02:00</updated>
+  <updated>2020-06-13T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>いちごスタンド</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/13/strawberry/"/>
+    <id>http://myblog.com/articles/jp/2020/06/13/strawberry/</id>
+    <published>2020-06-13T00:00:00+02:00</published>
+    <updated>2020-06-14T09:29:02+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ベルリンにはこの時期になると「Erdbeerhof」（いちごスタンド）が街のあちこちに出現する。&lt;/p&gt;
+
+&lt;p&gt;ある土曜日の朝。&lt;br&gt;
+なぜかはりきる主人にうながされ朝早く...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>リスボン後編</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/08/lisbon/"/>
     <id>http://myblog.com/articles/jp/2020/06/08/lisbon/</id>
     <published>2020-06-08T00:00:00+02:00</published>
-    <updated>2020-06-12T16:18:01+02:00</updated>
+    <updated>2020-06-14T08:28:23+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -78,18 +92,5 @@
 
 &lt;p&gt;去年の暮、念願のクリスマスマーケットを楽しみにドレスデンへ日帰り旅行しました。&lt;br&gt;
 ドレスデンはベルリンから...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>旅</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/14/traveling/"/>
-    <id>http://myblog.com/articles/jp/2020/05/14/traveling/</id>
-    <published>2020-05-14T00:00:00+02:00</published>
-    <updated>2020-05-19T20:57:49+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あたしは昔から結構旅をしてきた（方だ）と思う。&lt;br&gt;
-旅というものをすごく価値のあるものと捉えてきた気がする。&lt;br&gt;
-「お金で買えないが、お金より自分を豊かにしてくれ...&lt;/p&gt;</summary>
   </entry>
 </feed>
