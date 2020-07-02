@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-06-20T00:00:00+02:00</updated>
+  <updated>2020-06-27T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>６月２７日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/27/birthday/"/>
+    <id>http://myblog.com/articles/jp/2020/06/27/birthday/</id>
+    <published>2020-06-27T00:00:00+02:00</published>
+    <updated>2020-07-02T20:28:40+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;１年て早いなぁ。&lt;br&gt;
+この日がまた来た。&lt;br&gt;
+１年１年歳を重ねるごとに特別感は薄れていっているものの、やっぱりどれだけ歳をとってもこの日はなんとなくいつもと違う気...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>居酒屋ナイト</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/20/izakayanight/"/>
@@ -80,18 +93,5 @@
 マイラがリゾットを作ってくれて、８時間喋り倒した。&lt;/p&gt;
 
 &lt;p&gt;お互いに自分の国の生活やキャリアを（一旦）離れ、ベルリンに...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>おまんじゅう</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/05/20/omanjyu/"/>
-    <id>http://myblog.com/articles/jp/2020/05/20/omanjyu/</id>
-    <published>2020-05-20T00:00:00+02:00</published>
-    <updated>2020-06-14T12:31:24+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ダイニングで仕事していたある日の午後。&lt;br&gt;
-「ぴんぽ〜ん」とベルが鳴り、主人がいつも通り何かに反応して駆けていく犬のようにドアまで走っていった。&lt;br&gt;
-「か..し....&lt;/p&gt;</summary>
   </entry>
 </feed>
