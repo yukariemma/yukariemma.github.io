@@ -5,10 +5,35 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-07-01T00:00:00+02:00</updated>
+  <updated>2020-08-07T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>コンタクトミー</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/07/contactme/"/>
+    <id>http://myblog.com/articles/jp/2020/08/07/contactme/</id>
+    <published>2020-08-07T00:00:00+02:00</published>
+    <updated>2020-08-07T17:27:32+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたしが使っていたmacのデータオーバーし過ぎで、さくさく動いてくれなくなった。&lt;br&gt;
+主人が新しいパソコンを買ったので、あたしに古い（といってもあたしのより新...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Contact me</title>
+    <link rel="alternate" href="http://myblog.com/articles/en/2020/08/07/contactme/"/>
+    <id>http://myblog.com/articles/en/2020/08/07/contactme/</id>
+    <published>2020-08-07T00:00:00+02:00</published>
+    <updated>2020-08-07T17:32:44+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Finally I restarted the development of my blog again.&lt;/p&gt;
+
+&lt;p&gt;And finally you can contact...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>シントラとロカ岬</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/07/01/sintra/"/>
@@ -64,34 +89,5 @@
 &lt;p&gt;と聞いてきたのは水曜日のお昼ごはん中。&lt;br&gt;
 「え？週末？…うーん、今日の夜何食べたいかもわからんのに週末までわからん。」&lt;/p&gt;
 ...</summary>
-  </entry>
-  <entry>
-    <title>いちごスタンド</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/13/strawberry/"/>
-    <id>http://myblog.com/articles/jp/2020/06/13/strawberry/</id>
-    <published>2020-06-13T00:00:00+02:00</published>
-    <updated>2020-08-06T21:18:36+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ベルリンにはこの時期になると「Erdbeerhof」（いちごスタンド）が街のあちこちに出現する。&lt;/p&gt;
-
-&lt;p&gt;ある土曜日の朝。&lt;br&gt;
-なぜかはりきる主人にうながされ朝早く...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>リスボン後編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/08/lisbon/"/>
-    <id>http://myblog.com/articles/jp/2020/06/08/lisbon/</id>
-    <published>2020-06-08T00:00:00+02:00</published>
-    <updated>2020-08-06T21:18:36+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;アルファマはリスボンの旧市街で、細い石段の道が続く。&lt;/p&gt;
-
-&lt;p&gt;この日はいろいろ奇跡が起こった。&lt;/p&gt;
-
-&lt;p&gt;午後４時頃からウェディングフォトシュートを予定していた私たちは...&lt;/p&gt;</summary>
   </entry>
 </feed>
