@@ -16,7 +16,7 @@
   padding: 20px 0 0 260px;
   margin-bottom: 80px;
   line-height: 1.6em;
-  font-size: 18px; }
+  font-size: 16px; }
   .article-content .article-content-img {
     object-fit: cover;
     margin-bottom: 20px;

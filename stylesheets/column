@@ -1,6 +1,6 @@
 /*hightlight column*/
 h4.column-title {
-  color: #1E1E1E; }
+  color: #505050; }
 
 .highlight-column-container {
   display: flex; }
@@ -27,7 +27,10 @@ h4.column-title {
 
   .highlight-column-img {
     width: 100% !important;
-    height: 210px; } }
+    height: 210px; }
+
+  .highlight-column-content p {
+    font-size: 13px; } }
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .highlight-column-img {
     height: 130px;
@@ -41,7 +44,7 @@ h4.column-title {
       display: none; } }
 /*columns*/
 h5.column-title {
-  color: #1E1E1E; }
+  color: #505050; }
 
 .columns-container {
   display: flex;
@@ -72,6 +75,8 @@ h5.column-title {
 .column-content {
   position: relative;
   padding: 20px; }
+  .column-content p {
+    font-size: 13px; }
 
 @media only screen and (max-width: 767px) and (orientation: portrait) {
   .columns-container {
