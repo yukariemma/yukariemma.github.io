@@ -5,21 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-08-07T00:00:00+02:00</updated>
+  <updated>2020-08-10T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>コンタクトミー</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/07/contactme/"/>
-    <id>http://myblog.com/articles/jp/2020/08/07/contactme/</id>
-    <published>2020-08-07T00:00:00+02:00</published>
-    <updated>2020-08-07T17:27:32+02:00</updated>
+    <title>真夏の夜の夢</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/10/manatsu-no-yoru-no-yume/"/>
+    <id>http://myblog.com/articles/jp/2020/08/10/manatsu-no-yoru-no-yume/</id>
+    <published>2020-08-10T00:00:00+02:00</published>
+    <updated>2020-08-10T18:01:39+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;あたしが使っていたmacのデータオーバーし過ぎで、さくさく動いてくれなくなった。&lt;br&gt;
-主人が新しいパソコンを買ったので、あたしに古い（といってもあたしのより新...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;あつい。&lt;br&gt;
+あつすぎる。。&lt;/p&gt;
+
+&lt;p&gt;今年の夏は例年より曇りの日が多く、コロナ渦ということもあり、なんだか夏らしくない夏、わくわく感のない夏の始まりだった。&lt;/p&gt;
+
+&lt;p&gt;ベル...&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>Contact me</title>
@@ -33,6 +37,18 @@
     <summary type="html">&lt;p&gt;Finally I restarted the development of my blog again.&lt;/p&gt;
 
 &lt;p&gt;And finally you can contact...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>コンタクトミー</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/07/contactme/"/>
+    <id>http://myblog.com/articles/jp/2020/08/07/contactme/</id>
+    <published>2020-08-07T00:00:00+02:00</published>
+    <updated>2020-08-07T17:27:32+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたしが使っていたmacのデータオーバーし過ぎで、さくさく動いてくれなくなった。&lt;br&gt;
+主人が新しいパソコンを買ったので、あたしに古い（といってもあたしのより新...&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>シントラとロカ岬</title>
@@ -74,20 +90,5 @@
     <summary type="html">&lt;p&gt;１年て早いなぁ。&lt;br&gt;
 この日がまた来た。&lt;br&gt;
 １年１年歳を重ねるごとに特別感は薄れていっているものの、やっぱりどれだけ歳をとってもこの日はなんとなくいつもと違う気...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>居酒屋ナイト</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/20/izakayanight/"/>
-    <id>http://myblog.com/articles/jp/2020/06/20/izakayanight/</id>
-    <published>2020-06-20T00:00:00+02:00</published>
-    <updated>2020-08-06T21:18:36+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;「つまちゃん、週末何食べたい？」&lt;/p&gt;
-
-&lt;p&gt;と聞いてきたのは水曜日のお昼ごはん中。&lt;br&gt;
-「え？週末？…うーん、今日の夜何食べたいかもわからんのに週末までわからん。」&lt;/p&gt;
-...</summary>
   </entry>
 </feed>
