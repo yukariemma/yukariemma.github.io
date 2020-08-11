@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-08-10T00:00:00+02:00</updated>
+  <updated>2020-08-11T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>！？</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/11/kantanfu/"/>
+    <id>http://myblog.com/articles/jp/2020/08/11/kantanfu/</id>
+    <published>2020-08-11T00:00:00+02:00</published>
+    <updated>2020-08-11T13:15:22+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;訳あって日本語の勉強を少々中断している主人。&lt;br&gt;
+ただし、日本人妻がいることに変わりはないわけで。&lt;br&gt;
+感嘆文やフレーズの引き出しは順調に増やしている彼。&lt;/p&gt;
+
+&lt;p&gt;そん...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>真夏の夜の夢</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/10/manatsu-no-yoru-no-yume/"/>
@@ -80,18 +95,5 @@
 &lt;a href="http://mycoupy.com/articles/jp/2020/06/08/lisbon/" target="_blank" class="external-link"&gt;リスボン２日目&lt;/a&gt;はこちら。&lt;/p&gt;
 
 &lt;p&gt;リスボンを満喫したわたしたち夫婦は次の...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>６月２７日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/06/27/birthday/"/>
-    <id>http://myblog.com/articles/jp/2020/06/27/birthday/</id>
-    <published>2020-06-27T00:00:00+02:00</published>
-    <updated>2020-08-06T21:18:36+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１年て早いなぁ。&lt;br&gt;
-この日がまた来た。&lt;br&gt;
-１年１年歳を重ねるごとに特別感は薄れていっているものの、やっぱりどれだけ歳をとってもこの日はなんとなくいつもと違う気...&lt;/p&gt;</summary>
   </entry>
 </feed>
