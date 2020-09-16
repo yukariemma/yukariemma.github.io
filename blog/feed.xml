@@ -5,10 +5,22 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-08-12T00:00:00+02:00</updated>
+  <updated>2020-09-15T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>なかなか</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/15/nakanaka/"/>
+    <id>http://myblog.com/articles/jp/2020/09/15/nakanaka/</id>
+    <published>2020-09-15T00:00:00+02:00</published>
+    <updated>2020-09-16T16:04:57+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;我が家は仕事中とお昼ご飯中はfmcocoloを聞いています。&lt;br&gt;
+出逢った頃からずっと聞いてるので、主人はfmcocoloから流れるCMソングを覚えてしまった...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>継続は力なり</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/12/keizoku/"/>
@@ -78,21 +90,5 @@
     </author>
     <summary type="html">&lt;p&gt;あたしが使っていたmacのデータオーバーし過ぎで、さくさく動いてくれなくなった。&lt;br&gt;
 主人が新しいパソコンを買ったので、あたしに古い（といってもあたしのより新...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>シントラとロカ岬</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/07/01/sintra/"/>
-    <id>http://myblog.com/articles/jp/2020/07/01/sintra/</id>
-    <published>2020-07-01T00:00:00+02:00</published>
-    <updated>2020-08-10T18:17:15+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第二回ポルトガル（2019.9.19-9.24）の続き。&lt;br&gt;
-&lt;a href="http://mycoupy.com/articles/jp/2020/06/07/lisbon/" target="_blank" class="external-link"&gt;リスボン１日目&lt;/a&gt;はこちら。&lt;br&gt;
-&lt;a href="http://mycoupy.com/articles/jp/2020/06/08/lisbon/" target="_blank" class="external-link"&gt;リスボン２日目&lt;/a&gt;はこちら。&lt;br&gt;
-&lt;a href="http://mycoupy.com/articles/jp/2020/06/30/porto/" target="_blank" class="external-link"&gt;ポルト&lt;/a&gt;はこちら。&lt;/p&gt;
-
-&lt;p&gt;憧れの街ポルトを離れ...&lt;/p&gt;</summary>
   </entry>
 </feed>
