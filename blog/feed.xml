@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-09-15T00:00:00+02:00</updated>
+  <updated>2020-09-16T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>シンゾー、ありがとう！</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/16/suga-naikaku/"/>
+    <id>http://myblog.com/articles/jp/2020/09/16/suga-naikaku/</id>
+    <published>2020-09-16T00:00:00+02:00</published>
+    <updated>2020-09-16T21:35:18+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;令和2年９月１６日。&lt;br&gt;
+第９９代菅義偉内閣総理大臣が誕生しました。&lt;br&gt;
+これは母国の一大ニュースということで記録を残す意味で綴っておきたいと思います。&lt;/p&gt;
+
+&lt;p&gt;菅さん...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>なかなか</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/15/nakanaka/"/>
@@ -78,17 +93,5 @@
     <summary type="html">&lt;p&gt;Finally I restarted the development of my blog again.&lt;/p&gt;
 
 &lt;p&gt;And finally you can contact...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>コンタクトミー</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/07/contactme/"/>
-    <id>http://myblog.com/articles/jp/2020/08/07/contactme/</id>
-    <published>2020-08-07T00:00:00+02:00</published>
-    <updated>2020-08-07T17:27:32+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あたしが使っていたmacのデータオーバーし過ぎで、さくさく動いてくれなくなった。&lt;br&gt;
-主人が新しいパソコンを買ったので、あたしに古い（といってもあたしのより新...&lt;/p&gt;</summary>
   </entry>
 </feed>
