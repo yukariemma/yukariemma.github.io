@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-09-16T00:00:00+02:00</updated>
+  <updated>2020-09-27T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>コレステロール</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/27/cholesterol/"/>
+    <id>http://myblog.com/articles/jp/2020/09/27/cholesterol/</id>
+    <published>2020-09-27T00:00:00+02:00</published>
+    <updated>2020-09-27T22:30:40+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツに来て初めて健康診断を受けた。&lt;/p&gt;
+
+&lt;p&gt;血液検査の結果を先生がわざわざ電話してきてくれた。&lt;/p&gt;
+
+&lt;p&gt;「特に異常ないけど〜コレステロールがちょーっとだけ高いかな〜...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>シンゾー、ありがとう！</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/16/suga-naikaku/"/>
@@ -80,18 +95,5 @@
 &lt;p&gt;今年の夏は例年より曇りの日が多く、コロナ渦ということもあり、なんだか夏らしくない夏、わくわく感のない夏の始まりだった。&lt;/p&gt;
 
 &lt;p&gt;ベル...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Contact me</title>
-    <link rel="alternate" href="http://myblog.com/articles/en/2020/08/07/contactme/"/>
-    <id>http://myblog.com/articles/en/2020/08/07/contactme/</id>
-    <published>2020-08-07T00:00:00+02:00</published>
-    <updated>2020-08-07T17:32:44+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Finally I restarted the development of my blog again.&lt;/p&gt;
-
-&lt;p&gt;And finally you can contact...&lt;/p&gt;</summary>
   </entry>
 </feed>
