@@ -5,16 +5,32 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-10-10T00:00:00+02:00</updated>
+  <updated>2020-10-16T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>読書</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/16/reading/"/>
+    <id>http://myblog.com/articles/jp/2020/10/16/reading/</id>
+    <published>2020-10-16T00:00:00+02:00</published>
+    <updated>2020-10-16T16:32:14+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたしは中学に入るまで読書女子でした。&lt;/p&gt;
+
+&lt;p&gt;本を読まない日はなかった。&lt;br&gt;
+読む本が終わったら、本屋さんに行って本を買ってもらう。&lt;br&gt;
+というのが日課だった。&lt;br&gt;
+だか...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>修理屋さん</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/10/repair/"/>
     <id>http://myblog.com/articles/jp/2020/10/10/repair/</id>
     <published>2020-10-10T00:00:00+02:00</published>
-    <updated>2020-10-10T12:53:44+02:00</updated>
+    <updated>2020-10-16T11:56:13+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -79,20 +95,5 @@
 
 &lt;p&gt;もう少し若い頃は、その「何か」がすごいことじゃないといけない気がしていた。&lt;br&gt;
 たとえば、弁護士になるための勉強、プロ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>！？</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/08/11/kantanfu/"/>
-    <id>http://myblog.com/articles/jp/2020/08/11/kantanfu/</id>
-    <published>2020-08-11T00:00:00+02:00</published>
-    <updated>2020-08-11T13:18:58+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;訳あって日本語の勉強を少々中断している主人。&lt;br&gt;
-ただし、日本人妻がいることに変わりはないわけで。&lt;br&gt;
-感嘆文やフレーズの引き出しは順調に増やしている彼。&lt;/p&gt;
-
-&lt;p&gt;そん...&lt;/p&gt;</summary>
   </entry>
 </feed>
