@@ -5,10 +5,30 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-10-17T00:00:00+02:00</updated>
+  <updated>2020-10-25T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>秋とりんごと読書</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/25/aki-to-ringo-to-dokusho/"/>
+    <id>http://myblog.com/articles/jp/2020/10/25/aki-to-ringo-to-dokusho/</id>
+    <published>2020-10-25T00:00:00+02:00</published>
+    <updated>2020-10-25T17:16:58+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ベルリンはすっかり秋です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/aki_1.jpg" alt="aki" class="article-content-img"&gt;&lt;/p&gt;
+
+&lt;p&gt;今年最後の力を振り絞って&lt;br&gt;
+燦々と降り注ぐ太陽がとっても気持ちのいい&lt;br&gt;
+１０月最後の週末。&lt;/p&gt;
+
+&lt;p&gt;２０２０年も残り２ヶ月。&lt;br&gt;
+誰も...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>プラハ</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/17/prague/"/>
@@ -83,17 +103,5 @@
 これは母国の一大ニュースということで記録を残す意味で綴っておきたいと思います。&lt;/p&gt;
 
 &lt;p&gt;菅さん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>なかなか</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/15/nakanaka/"/>
-    <id>http://myblog.com/articles/jp/2020/09/15/nakanaka/</id>
-    <published>2020-09-15T00:00:00+02:00</published>
-    <updated>2020-09-16T16:04:57+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;我が家は仕事中とお昼ご飯中はfmcocoloを聞いています。&lt;br&gt;
-出逢った頃からずっと聞いてるので、主人はfmcocoloから流れるCMソングを覚えてしまった...&lt;/p&gt;</summary>
   </entry>
 </feed>
