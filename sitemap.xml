@@ -259,6 +259,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/articles/jp-2020-10-31-sint-maarten.html</loc>
+    <lastmod>2020-11-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/articles/jp-2020-09-27-cholesterol.html</loc>
     <lastmod>2020-11-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -404,6 +410,12 @@
   </url>
   <url>
     <loc>http://myblog.com/articles/2020/10.html</loc>
+    <lastmod>2020-11-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myblog.com/articles/2020/10/31.html</loc>
     <lastmod>2020-11-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

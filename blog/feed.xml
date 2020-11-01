@@ -5,10 +5,28 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-10-25T00:00:00+02:00</updated>
+  <updated>2020-10-31T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>シント・マールタンの日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/31/sint-maarten/"/>
+    <id>http://myblog.com/articles/jp/2020/10/31/sint-maarten/</id>
+    <published>2020-10-31T00:00:00+01:00</published>
+    <updated>2020-11-01T17:18:20+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;アジアンマーケットで見つけた里芋で唐揚げを作って、ぱくぱく食べてた土曜日の夜。&lt;/p&gt;
+
+&lt;p&gt;ぴんぽ〜んとベルがなった。&lt;br&gt;
+８時。&lt;/p&gt;
+
+&lt;p&gt;「え〜？だれですか〜」&lt;/p&gt;
+
+&lt;p&gt;と言いな...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>秋とりんごと読書</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/25/aki-to-ringo-to-dokusho/"/>
@@ -85,20 +103,5 @@
 &lt;p&gt;血液検査の結果を先生がわざわざ電話してきてくれた。&lt;/p&gt;
 
 &lt;p&gt;「特に異常ないけど〜コレステロールがちょーっとだけ高いかな〜...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>シンゾー、ありがとう！</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/16/suga-naikaku/"/>
-    <id>http://myblog.com/articles/jp/2020/09/16/suga-naikaku/</id>
-    <published>2020-09-16T00:00:00+02:00</published>
-    <updated>2020-09-16T21:35:18+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;令和2年９月１６日。&lt;br&gt;
-第９９代菅義偉内閣総理大臣が誕生しました。&lt;br&gt;
-これは母国の一大ニュースということで記録を残す意味で綴っておきたいと思います。&lt;/p&gt;
-
-&lt;p&gt;菅さん...&lt;/p&gt;</summary>
   </entry>
 </feed>
