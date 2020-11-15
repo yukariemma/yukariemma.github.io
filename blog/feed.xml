@@ -5,10 +5,26 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-10-31T00:00:00+01:00</updated>
+  <updated>2020-11-15T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>羊が一匹</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/11/15/sheep/"/>
+    <id>http://myblog.com/articles/jp/2020/11/15/sheep/</id>
+    <published>2020-11-15T00:00:00+01:00</published>
+    <updated>2020-11-15T13:59:51+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;さて、紅葉も終わりに近づき、そろそろ街がクリスマスに彩られるこの季節。&lt;/p&gt;
+
+&lt;p&gt;「寝れない〜、寝れない〜」&lt;br&gt;
+とベッドの上でくるくるしていたら、隣から&lt;/p&gt;
+
+&lt;p&gt;「…いち...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>シント・マールタンの日</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/31/sint-maarten/"/>
@@ -88,20 +104,5 @@
 &lt;p&gt;あたしは買い物も好きだし、&lt;br&gt;
 ミニマリストの主人には&lt;br&gt;
 「つまちゃん、靴山です。。。」&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>コレステロール</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/09/27/cholesterol/"/>
-    <id>http://myblog.com/articles/jp/2020/09/27/cholesterol/</id>
-    <published>2020-09-27T00:00:00+02:00</published>
-    <updated>2020-09-27T22:30:40+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツに来て初めて健康診断を受けた。&lt;/p&gt;
-
-&lt;p&gt;血液検査の結果を先生がわざわざ電話してきてくれた。&lt;/p&gt;
-
-&lt;p&gt;「特に異常ないけど〜コレステロールがちょーっとだけ高いかな〜...&lt;/p&gt;</summary>
   </entry>
 </feed>
