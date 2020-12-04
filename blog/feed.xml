@@ -5,10 +5,28 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-11-15T00:00:00+01:00</updated>
+  <updated>2020-12-04T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ジンジャースティック</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/04/jinjya-stick/"/>
+    <id>http://myblog.com/articles/jp/2020/12/04/jinjya-stick/</id>
+    <published>2020-12-04T00:00:00+01:00</published>
+    <updated>2020-12-04T11:40:44+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あっという間の師走です。&lt;/p&gt;
+
+&lt;p&gt;コロナ渦でなんの特徴もない日々。&lt;br&gt;
+綴るほどの面白いことも起こらず。&lt;/p&gt;
+
+&lt;p&gt;ベルリンは今年二度目のロックダウンの只中。&lt;/p&gt;
+
+&lt;p&gt;みんなクリ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>羊が一匹</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/11/15/sheep/"/>
@@ -89,20 +107,5 @@
 読む本が終わったら、本屋さんに行って本を買ってもらう。&lt;br&gt;
 というのが日課だった。&lt;br&gt;
 だか...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>修理屋さん</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/10/repair/"/>
-    <id>http://myblog.com/articles/jp/2020/10/10/repair/</id>
-    <published>2020-10-10T00:00:00+02:00</published>
-    <updated>2020-10-16T11:56:13+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;人生ここにきて初めてあたしは修理が好きなのかもしれない、と気づいた。&lt;/p&gt;
-
-&lt;p&gt;あたしは買い物も好きだし、&lt;br&gt;
-ミニマリストの主人には&lt;br&gt;
-「つまちゃん、靴山です。。。」&lt;/p&gt;</summary>
   </entry>
 </feed>
