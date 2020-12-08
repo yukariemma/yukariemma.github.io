@@ -5,16 +5,58 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-04T00:00:00+01:00</updated>
+  <updated>2020-12-03T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title>ロードトリップ　ドイツ編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/03/roadtrip-de/"/>
+    <id>http://myblog.com/articles/jp/2020/12/03/roadtrip-de/</id>
+    <published>2020-12-03T00:00:00+01:00</published>
+    <updated>2020-12-08T22:52:22+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　ドイツ編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;オランダ北部の町フラネカーから走ること約３時間。&lt;br&gt;
+EUシェンゲン内のため、...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ロードトリップ　オランダ編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/02/roadtrip-nl/"/>
+    <id>http://myblog.com/articles/jp/2020/12/02/roadtrip-nl/</id>
+    <published>2020-12-02T00:00:00+01:00</published>
+    <updated>2020-12-08T22:49:32+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　オランダ編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;さて、オランダに到着したあたしたち。&lt;/p&gt;
+
+&lt;p&gt;まずはどんな道を旅したか、手書き...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>オランダ〜ドイツ〜スイス　ロードトリップ</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/01/roadtrip/"/>
+    <id>http://myblog.com/articles/jp/2020/12/01/roadtrip/</id>
+    <published>2020-12-01T00:00:00+01:00</published>
+    <updated>2020-12-08T22:24:11+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回は&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ（2020.8.15-8.29）&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;ずーっと書こう書こうと思って書けていなかった夏休み...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
     <title>ジンジャースティック</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/04/jinjya-stick/"/>
-    <id>http://myblog.com/articles/jp/2020/12/04/jinjya-stick/</id>
-    <published>2020-12-04T00:00:00+01:00</published>
-    <updated>2020-12-06T11:09:48+01:00</updated>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/11/30/jinjya-stick/"/>
+    <id>http://myblog.com/articles/jp/2020/11/30/jinjya-stick/</id>
+    <published>2020-11-30T00:00:00+01:00</published>
+    <updated>2020-12-08T20:59:24+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -60,52 +102,5 @@
 &lt;p&gt;「え〜？だれですか〜」&lt;/p&gt;
 
 &lt;p&gt;と言いな...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>秋とりんごと読書</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/25/aki-to-ringo-to-dokusho/"/>
-    <id>http://myblog.com/articles/jp/2020/10/25/aki-to-ringo-to-dokusho/</id>
-    <published>2020-10-25T00:00:00+02:00</published>
-    <updated>2020-10-25T18:09:37+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ベルリンはすっかり秋です。&lt;/p&gt;
-
-&lt;p&gt;今年最後の力を振り絞って燦々と降り注ぐ太陽がとっても気持ちのいい、&lt;br&gt;
-１０月最後の週末。&lt;/p&gt;
-
-&lt;p&gt;２０２０年も残り２ヶ月。&lt;br&gt;
-誰もが想...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>プラハ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/17/prague/"/>
-    <id>http://myblog.com/articles/jp/2020/10/17/prague/</id>
-    <published>2020-10-17T00:00:00+02:00</published>
-    <updated>2020-10-17T13:49:39+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第三回はチェコ（2019.3.22-3.24）。&lt;/p&gt;
-
-&lt;p&gt;ヨーロッパに引っ越してから初めての隣国旅。&lt;br&gt;
-いやーヨーロッパってどこも近くていいねぇ！と改めて思っ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>読書</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/16/reading/"/>
-    <id>http://myblog.com/articles/jp/2020/10/16/reading/</id>
-    <published>2020-10-16T00:00:00+02:00</published>
-    <updated>2020-10-16T16:32:14+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あたしは中学に入るまで読書女子でした。&lt;/p&gt;
-
-&lt;p&gt;本を読まない日はなかった。&lt;br&gt;
-読む本が終わったら、本屋さんに行って本を買ってもらう。&lt;br&gt;
-というのが日課だった。&lt;br&gt;
-だか...&lt;/p&gt;</summary>
   </entry>
 </feed>
