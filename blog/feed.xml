@@ -5,10 +5,53 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-03T00:00:00+01:00</updated>
+  <updated>2020-12-06T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ロードトリップ　マッターホルン編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/06/roadtrip-matterhorn/"/>
+    <id>http://myblog.com/articles/jp/2020/12/06/roadtrip-matterhorn/</id>
+    <published>2020-12-06T00:00:00+01:00</published>
+    <updated>2020-12-09T21:58:05+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　マッターホルン編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;マッターホルンのゲートウェイ、ツェルマット。&lt;/p&gt;
+
+&lt;p&gt;昔からいつかは行っ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ロードトリップ　スイス編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/05/roadtrip-switzerland/"/>
+    <id>http://myblog.com/articles/jp/2020/12/05/roadtrip-switzerland/</id>
+    <published>2020-12-05T00:00:00+01:00</published>
+    <updated>2020-12-09T21:14:25+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　スイス編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;ドイツースイスの国境。&lt;/p&gt;
+
+&lt;p&gt;スイスはシェンゲン圏ですがEUのため、通常のイミ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ロードトリップ　ブラックフォレスト編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/04/roadtrip-blackforest/"/>
+    <id>http://myblog.com/articles/jp/2020/12/04/roadtrip-blackforest/</id>
+    <published>2020-12-04T00:00:00+01:00</published>
+    <updated>2020-12-09T19:53:05+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　ブラックフォレスト編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;初めてキャンピングカーでの一夜を過ごし、翌朝いよいよブラックフ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ロードトリップ　ドイツ編</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/03/roadtrip-de/"/>
@@ -50,57 +93,5 @@ EUシェンゲン内のため、...&lt;/p&gt;</summary>
     <summary type="html">&lt;p&gt;旅編第四回は&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ（2020.8.15-8.29）&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;ずーっと書こう書こうと思って書けていなかった夏休み...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ジンジャースティック</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/11/30/jinjya-stick/"/>
-    <id>http://myblog.com/articles/jp/2020/11/30/jinjya-stick/</id>
-    <published>2020-11-30T00:00:00+01:00</published>
-    <updated>2020-12-08T20:59:24+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あっという間の師走です。&lt;/p&gt;
-
-&lt;p&gt;コロナ渦でなんの特徴もない日々。&lt;br&gt;
-綴るほどの面白いことも起こらず。&lt;/p&gt;
-
-&lt;p&gt;ベルリンは今年二度目のロックダウンの只中。&lt;/p&gt;
-
-&lt;p&gt;みんなクリ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>羊が一匹</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/11/15/sheep/"/>
-    <id>http://myblog.com/articles/jp/2020/11/15/sheep/</id>
-    <published>2020-11-15T00:00:00+01:00</published>
-    <updated>2020-11-15T13:59:51+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;さて、紅葉も終わりに近づき、そろそろ街がクリスマスに彩られるこの季節。&lt;/p&gt;
-
-&lt;p&gt;「寝れない〜、寝れない〜」&lt;br&gt;
-とベッドの上でくるくるしていたら、隣から&lt;/p&gt;
-
-&lt;p&gt;「…いち...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>シント・マールタンの日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/10/31/sint-maarten/"/>
-    <id>http://myblog.com/articles/jp/2020/10/31/sint-maarten/</id>
-    <published>2020-10-31T00:00:00+01:00</published>
-    <updated>2020-11-01T17:24:40+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;アジアンマーケットで見つけた里芋で唐揚げを作って、ぱくぱく食べてた土曜日の夜。&lt;/p&gt;
-
-&lt;p&gt;ぴんぽ〜んとベルがなった。&lt;br&gt;
-８時。&lt;/p&gt;
-
-&lt;p&gt;「え〜？だれですか〜」&lt;/p&gt;
-
-&lt;p&gt;と言いな...&lt;/p&gt;</summary>
   </entry>
 </feed>
