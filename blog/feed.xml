@@ -5,10 +5,40 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-06T00:00:00+01:00</updated>
+  <updated>2020-12-08T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ロードトリップ　ユングフラウヨッホ編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/08/roadtrip-jungfraujoch/"/>
+    <id>http://myblog.com/articles/jp/2020/12/08/roadtrip-jungfraujoch/</id>
+    <published>2020-12-08T00:00:00+01:00</published>
+    <updated>2020-12-10T17:55:41+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　ユングフラウヨッホ編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;ユングフラウヨッホの展望台トップオブヨーロッパへ！&lt;/p&gt;
+
+&lt;p&gt;快晴。&lt;/p&gt;
+...</summary>
+  </entry>
+  <entry>
+    <title>ロードトリップ　アイガー編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/07/roadtrip-eiger/"/>
+    <id>http://myblog.com/articles/jp/2020/12/07/roadtrip-eiger/</id>
+    <published>2020-12-07T00:00:00+01:00</published>
+    <updated>2020-12-10T17:57:21+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　アイガー編&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;スイスってちっちゃい国なんだけど、&lt;br&gt;
+真ん中ちょい下ぐらいに巨大なアルプス...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ロードトリップ　マッターホルン編</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/06/roadtrip-matterhorn/"/>
@@ -65,33 +95,5 @@
 
 &lt;p&gt;オランダ北部の町フラネカーから走ること約３時間。&lt;br&gt;
 EUシェンゲン内のため、...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ロードトリップ　オランダ編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/02/roadtrip-nl/"/>
-    <id>http://myblog.com/articles/jp/2020/12/02/roadtrip-nl/</id>
-    <published>2020-12-02T00:00:00+01:00</published>
-    <updated>2020-12-08T22:49:32+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　オランダ編&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;さて、オランダに到着したあたしたち。&lt;/p&gt;
-
-&lt;p&gt;まずはどんな道を旅したか、手書き...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>オランダ〜ドイツ〜スイス　ロードトリップ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/01/roadtrip/"/>
-    <id>http://myblog.com/articles/jp/2020/12/01/roadtrip/</id>
-    <published>2020-12-01T00:00:00+01:00</published>
-    <updated>2020-12-08T22:24:11+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回は&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ（2020.8.15-8.29）&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;ずーっと書こう書こうと思って書けていなかった夏休み...&lt;/p&gt;</summary>
   </entry>
 </feed>
