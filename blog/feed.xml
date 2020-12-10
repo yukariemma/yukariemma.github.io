@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-08T00:00:00+01:00</updated>
+  <updated>2020-12-09T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>９４歳</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/09/ninty-four/"/>
+    <id>http://myblog.com/articles/jp/2020/12/09/ninty-four/</id>
+    <published>2020-12-09T00:00:00+01:00</published>
+    <updated>2020-12-10T18:50:03+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;日本から、父母から、クリスマスプレゼントが届きました。&lt;/p&gt;
+
+&lt;p&gt;おもちゃ箱のように、ドラえもんのポケットのように、&lt;br&gt;
+父母の愛情と故郷の薫りが余すことなく&lt;br&gt;
+詰まっ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ロードトリップ　ユングフラウヨッホ編</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/08/roadtrip-jungfraujoch/"/>
@@ -81,19 +96,5 @@
     <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　ブラックフォレスト編&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;初めてキャンピングカーでの一夜を過ごし、翌朝いよいよブラックフ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ロードトリップ　ドイツ編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/03/roadtrip-de/"/>
-    <id>http://myblog.com/articles/jp/2020/12/03/roadtrip-de/</id>
-    <published>2020-12-03T00:00:00+01:00</published>
-    <updated>2020-12-08T22:52:22+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　ドイツ編&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;オランダ北部の町フラネカーから走ること約３時間。&lt;br&gt;
-EUシェンゲン内のため、...&lt;/p&gt;</summary>
   </entry>
 </feed>
