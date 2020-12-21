@@ -5,10 +5,24 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-09T00:00:00+01:00</updated>
+  <updated>2020-12-21T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>oh, クリスマスツリー</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/21/christmas-tree/"/>
+    <id>http://myblog.com/articles/jp/2020/12/21/christmas-tree/</id>
+    <published>2020-12-21T00:00:00+01:00</published>
+    <updated>2020-12-21T20:56:00+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今年は引越しもしたし、コロナでどこにも行けないし、ツリーを買おう！&lt;br&gt;
+と前から約束していたので、１２月に入ったらまだかまだかとそわそわしていたあたし。&lt;/p&gt;
+
+&lt;p&gt;そ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>９４歳</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/09/ninty-four/"/>
@@ -83,18 +97,5 @@
 &lt;p&gt;ドイツースイスの国境。&lt;/p&gt;
 
 &lt;p&gt;スイスはシェンゲン圏ですがEUのため、通常のイミ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ロードトリップ　ブラックフォレスト編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/04/roadtrip-blackforest/"/>
-    <id>http://myblog.com/articles/jp/2020/12/04/roadtrip-blackforest/</id>
-    <published>2020-12-04T00:00:00+01:00</published>
-    <updated>2020-12-09T22:47:43+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　ブラックフォレスト編&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;初めてキャンピングカーでの一夜を過ごし、翌朝いよいよブラックフ...&lt;/p&gt;</summary>
   </entry>
 </feed>
