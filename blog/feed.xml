@@ -5,10 +5,39 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-21T00:00:00+01:00</updated>
+  <updated>2020-12-30T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>２０２０年の最後に</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/30/saigoni/"/>
+    <id>http://myblog.com/articles/jp/2020/12/30/saigoni/</id>
+    <published>2020-12-30T00:00:00+01:00</published>
+    <updated>2020-12-30T20:23:22+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;忙しい年の瀬、みなさま如何お過ごしでしょうか。&lt;br&gt;
+旅行や帰省が規制され、家でお節作り、大掃除、お買い物に忙しくしている人が多いんだろうか。&lt;/p&gt;
+
+&lt;p&gt;ドイツではクリ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>今年の本と大掃除</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/29/kotoshino-hon/"/>
+    <id>http://myblog.com/articles/jp/2020/12/29/kotoshino-hon/</id>
+    <published>2020-12-29T00:00:00+01:00</published>
+    <updated>2020-12-30T20:18:08+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;まだクリスマスツリーの残る朝。&lt;br&gt;
+ヨーロッパでは１月までツリーはそのままなんだって。&lt;/p&gt;
+
+&lt;p&gt;主人が焼いてくれたパンを食べながら。&lt;br&gt;
+今年の読書記録をまとめておこう...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>oh, クリスマスツリー</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/21/christmas-tree/"/>
@@ -67,35 +96,5 @@
 
 &lt;p&gt;スイスってちっちゃい国なんだけど、&lt;br&gt;
 真ん中ちょい下ぐらいに巨大なアルプス...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ロードトリップ　マッターホルン編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/06/roadtrip-matterhorn/"/>
-    <id>http://myblog.com/articles/jp/2020/12/06/roadtrip-matterhorn/</id>
-    <published>2020-12-06T00:00:00+01:00</published>
-    <updated>2020-12-09T22:51:22+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　マッターホルン編&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;マッターホルンのゲートウェイ、ツェルマット。&lt;/p&gt;
-
-&lt;p&gt;昔からいつかは行っ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ロードトリップ　スイス編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/05/roadtrip-switzerland/"/>
-    <id>http://myblog.com/articles/jp/2020/12/05/roadtrip-switzerland/</id>
-    <published>2020-12-05T00:00:00+01:00</published>
-    <updated>2020-12-09T22:50:15+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　スイス編&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;ドイツースイスの国境。&lt;/p&gt;
-
-&lt;p&gt;スイスはシェンゲン圏ですがEUのため、通常のイミ...&lt;/p&gt;</summary>
   </entry>
 </feed>
