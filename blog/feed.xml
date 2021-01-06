@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2020-12-30T00:00:00+01:00</updated>
+  <updated>2021-01-01T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Frohes neues Jahr!</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/01/frohes-neues-jahr/"/>
+    <id>http://myblog.com/articles/jp/2021/01/01/frohes-neues-jahr/</id>
+    <published>2021-01-01T00:00:00+01:00</published>
+    <updated>2021-01-06T18:07:32+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あけましておめでとうございます。&lt;/p&gt;
+
+&lt;p&gt;どんどんと打ちあがる花火とともに&lt;br&gt;
+２０２１年はじまりました。&lt;br&gt;
+コロナ渦ならでは、オンライン中継でカウントダウンを見なが...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>２０２０年の最後に</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/30/saigoni/"/>
@@ -82,19 +97,5 @@
 
 &lt;p&gt;快晴。&lt;/p&gt;
 ...</summary>
-  </entry>
-  <entry>
-    <title>ロードトリップ　アイガー編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/07/roadtrip-eiger/"/>
-    <id>http://myblog.com/articles/jp/2020/12/07/roadtrip-eiger/</id>
-    <published>2020-12-07T00:00:00+01:00</published>
-    <updated>2020-12-10T17:57:21+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第四回&lt;strong&gt;オランダ〜ドイツ〜スイス　３０００キロのロードトリップ　アイガー編&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;スイスってちっちゃい国なんだけど、&lt;br&gt;
-真ん中ちょい下ぐらいに巨大なアルプス...&lt;/p&gt;</summary>
   </entry>
 </feed>
