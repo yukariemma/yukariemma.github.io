@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-01-07T00:00:00+01:00</updated>
+  <updated>2021-01-13T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>クリスマスツリー回収の日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/13/last-xmastree/"/>
+    <id>http://myblog.com/articles/jp/2021/01/13/last-xmastree/</id>
+    <published>2021-01-13T00:00:00+01:00</published>
+    <updated>2021-01-13T20:31:27+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;先勝の今日。&lt;br&gt;
+わたしたちが住むエリアではクリスマスツリーの回収日です。&lt;br&gt;
+主人がばっちりカレンダーに書いておいてくれたので、忘れずにすんだ〜。&lt;/p&gt;
+
+&lt;p&gt;本物の木を...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>いちいち</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/07/ichiichi/"/>
@@ -82,20 +97,5 @@
 と前から約束していたので、１２月に入ったらまだかまだかとそわそわしていたあたし。&lt;/p&gt;
 
 &lt;p&gt;そ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>９４歳</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/09/ninety-four/"/>
-    <id>http://myblog.com/articles/jp/2020/12/09/ninety-four/</id>
-    <published>2020-12-09T00:00:00+01:00</published>
-    <updated>2021-01-13T16:21:27+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;日本から、父母から、クリスマスプレゼントが届きました。&lt;/p&gt;
-
-&lt;p&gt;おもちゃ箱のように、ドラえもんのポケットのように、&lt;br&gt;
-父母の愛情と故郷の薫りが余すことなく&lt;br&gt;
-詰まっ...&lt;/p&gt;</summary>
   </entry>
 </feed>
