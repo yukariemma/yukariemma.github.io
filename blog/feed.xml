@@ -5,16 +5,30 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-01-13T00:00:00+01:00</updated>
+  <updated>2021-02-07T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title>外は吹雪、内は読書</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/07/soto-wa-fubuki/"/>
+    <id>http://myblog.com/articles/jp/2021/02/07/soto-wa-fubuki/</id>
+    <published>2021-02-07T00:00:00+01:00</published>
+    <updated>2021-02-07T16:59:03+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;１月は「あっ」となにもしない間に行ってしまいました。&lt;br&gt;
+みなさまいかがお過ごしでしょうか。&lt;/p&gt;
+
+&lt;p&gt;去年１１月半ばにヨーロッパのあちこちで始まったハードロックダウ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
     <title>クリスマスツリー回収の日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/13/last-xmastree/"/>
-    <id>http://myblog.com/articles/jp/2021/01/13/last-xmastree/</id>
-    <published>2021-01-13T00:00:00+01:00</published>
-    <updated>2021-01-13T20:31:27+01:00</updated>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/14/last-xmastree/"/>
+    <id>http://myblog.com/articles/jp/2021/01/14/last-xmastree/</id>
+    <published>2021-01-14T00:00:00+01:00</published>
+    <updated>2021-01-14T20:05:27+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -83,19 +97,5 @@
 
 &lt;p&gt;主人が焼いてくれたパンを食べながら。&lt;br&gt;
 今年の読書記録をまとめておこう...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>oh, クリスマスツリー</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/21/christmas-tree/"/>
-    <id>http://myblog.com/articles/jp/2020/12/21/christmas-tree/</id>
-    <published>2020-12-21T00:00:00+01:00</published>
-    <updated>2020-12-21T20:56:00+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今年は引越しもしたし、コロナでどこにも行けないし、ツリーを買おう！&lt;br&gt;
-と前から約束していたので、１２月に入ったらまだかまだかとそわそわしていたあたし。&lt;/p&gt;
-
-&lt;p&gt;そ...&lt;/p&gt;</summary>
   </entry>
 </feed>
