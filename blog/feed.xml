@@ -5,10 +5,22 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-02-08T00:00:00+01:00</updated>
+  <updated>2021-02-09T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>なさけない</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/09/nasakenai/"/>
+    <id>http://myblog.com/articles/jp/2021/02/09/nasakenai/</id>
+    <published>2021-02-09T00:00:00+01:00</published>
+    <updated>2021-02-09T20:22:29+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;このブログではあんまり、書いていても読んでいてもいらっとしてくるようなことは書かんとこう、と思ってたのですが、&lt;br&gt;
+ここのところ毎日日本から届く情けない五輪大...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>おぉ、さぶっ</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/08/sabui/"/>
@@ -84,19 +96,5 @@
 &lt;p&gt;どんどんと打ちあがる花火とともに&lt;br&gt;
 ２０２１年はじまりました。&lt;br&gt;
 コロナ渦ならでは、オンライン中継でカウントダウンを見なが...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>２０２０年の最後に</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2020/12/30/saigoni/"/>
-    <id>http://myblog.com/articles/jp/2020/12/30/saigoni/</id>
-    <published>2020-12-30T00:00:00+01:00</published>
-    <updated>2020-12-30T20:28:12+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;忙しい年の瀬、みなさま如何お過ごしでしょうか。&lt;br&gt;
-旅行や帰省が規制され、家でお節作り、大掃除、お買い物に忙しくしている人が多いんだろうか。&lt;/p&gt;
-
-&lt;p&gt;ドイツではクリ...&lt;/p&gt;</summary>
   </entry>
 </feed>
