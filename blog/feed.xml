@@ -5,10 +5,78 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-02-09T00:00:00+01:00</updated>
+  <updated>2021-02-14T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>バレンタイン</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/14/valentines-day/"/>
+    <id>http://myblog.com/articles/jp/2021/02/14/valentines-day/</id>
+    <published>2021-02-14T00:00:00+01:00</published>
+    <updated>2021-02-14T17:41:52+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今日はバレンタイン。&lt;/p&gt;
+
+&lt;p&gt;こちら西欧の国々ではみなさまご存知の通り、&lt;br&gt;
+男子　ー＞　女子&lt;br&gt;
+へのプレゼントの日であります。&lt;/p&gt;
+
+&lt;p&gt;これまでのあたしたちのバレンタイン...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ガーデンルール</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/13/garden-rule/"/>
+    <id>http://myblog.com/articles/jp/2021/02/13/garden-rule/</id>
+    <published>2021-02-13T00:00:00+01:00</published>
+    <updated>2021-02-14T11:47:40+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ある日突然マンションのオーナーから手紙が届いた。&lt;/p&gt;
+
+&lt;p&gt;拝啓&lt;br&gt;
+居住者のみなさま&lt;br&gt;
+バルコニーの目隠しはグレーにしてください。&lt;br&gt;
+そうでない家庭は期限までに外してく...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>冬の青空</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/12/sunny/"/>
+    <id>http://myblog.com/articles/jp/2021/02/12/sunny/</id>
+    <published>2021-02-12T00:00:00+01:00</published>
+    <updated>2021-02-14T11:23:34+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今日はベルリン記念すべき日と言っていいんじゃないか。&lt;/p&gt;
+
+&lt;p&gt;２月の花金。&lt;br&gt;
+朝から青空、快晴です！&lt;/p&gt;
+
+&lt;p&gt;あーお天気がいいってなんて素晴らしいのかしら。&lt;br&gt;
+なんだかも...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>玄米生活はじめました</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/11/genmai/"/>
+    <id>http://myblog.com/articles/jp/2021/02/11/genmai/</id>
+    <published>2021-02-11T00:00:00+01:00</published>
+    <updated>2021-02-14T17:48:23+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツで玄米買いました。&lt;/p&gt;
+
+&lt;p&gt;ドイツではNaturreisというらしい。&lt;br&gt;
+さすがBIO大国。&lt;br&gt;
+なんかいろいろ種類あったわー。&lt;/p&gt;
+
+&lt;p&gt;でもどれも長いお米だった。&lt;br&gt;
+...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>なさけない</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/09/nasakenai/"/>
@@ -36,65 +104,5 @@
 &lt;p&gt;今日は朝礼でもみんな&lt;br&gt;
 「ぼく、朝から雪かきしてきたよ！」&lt;br&gt;
 という同僚がたくさん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>外は吹雪、内は読書</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/07/soto-wa-fubuki/"/>
-    <id>http://myblog.com/articles/jp/2021/02/07/soto-wa-fubuki/</id>
-    <published>2021-02-07T00:00:00+01:00</published>
-    <updated>2021-02-07T16:59:03+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１月は「あっ」となにもしない間に行ってしまいました。&lt;br&gt;
-みなさまいかがお過ごしでしょうか。&lt;/p&gt;
-
-&lt;p&gt;去年１１月半ばにヨーロッパのあちこちで始まったハードロックダウ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>クリスマスツリー回収の日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/14/last-xmastree/"/>
-    <id>http://myblog.com/articles/jp/2021/01/14/last-xmastree/</id>
-    <published>2021-01-14T00:00:00+01:00</published>
-    <updated>2021-01-14T20:05:27+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;先勝の今日。&lt;br&gt;
-わたしたちが住むエリアではクリスマスツリーの回収日です。&lt;br&gt;
-主人がばっちりカレンダーに書いておいてくれたので、忘れずにすんだ〜。&lt;/p&gt;
-
-&lt;p&gt;本物の木を...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>いちいち</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/07/ichiichi/"/>
-    <id>http://myblog.com/articles/jp/2021/01/07/ichiichi/</id>
-    <published>2021-01-07T00:00:00+01:00</published>
-    <updated>2021-01-07T16:22:01+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;主人は足がめっちゃでかいんです。&lt;br&gt;
-全体的に体も足もおっきいドイツにいても、おっきいんです。&lt;/p&gt;
-
-&lt;p&gt;なので靴探しは結構大変。&lt;/p&gt;
-
-&lt;p&gt;でもそれ以上に大変なのはスリッパ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Frohes neues Jahr!</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/01/01/frohes-neues-jahr/"/>
-    <id>http://myblog.com/articles/jp/2021/01/01/frohes-neues-jahr/</id>
-    <published>2021-01-01T00:00:00+01:00</published>
-    <updated>2021-01-13T16:11:03+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あけましておめでとうございます。&lt;/p&gt;
-
-&lt;p&gt;どんどんと打ちあがる花火とともに&lt;br&gt;
-２０２１年はじまりました。&lt;br&gt;
-コロナ渦ならでは、オンライン中継でカウントダウンを見なが...&lt;/p&gt;</summary>
   </entry>
 </feed>
