@@ -5,10 +5,26 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-02-14T00:00:00+01:00</updated>
+  <updated>2021-02-22T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ショートタイムと宮崎駿</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/22/short-time-and-hayao-miyazaki/"/>
+    <id>http://myblog.com/articles/jp/2021/02/22/short-time-and-hayao-miyazaki/</id>
+    <published>2021-02-22T00:00:00+01:00</published>
+    <updated>2021-02-23T10:08:21+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;最近あたしの方が先にベッドから起き上がる。&lt;br&gt;
+というのも、目が覚めた瞬間お腹が減り過ぎて、もう寝てられないんです。笑&lt;/p&gt;
+
+&lt;p&gt;最近一気に春が近づいたベルリン。&lt;/p&gt;
+
+</summary>
+  </entry>
   <entry>
     <title>バレンタイン</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/14/valentines-day/"/>
@@ -64,7 +80,7 @@
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/11/genmai/"/>
     <id>http://myblog.com/articles/jp/2021/02/11/genmai/</id>
     <published>2021-02-11T00:00:00+01:00</published>
-    <updated>2021-02-14T17:48:23+01:00</updated>
+    <updated>2021-02-14T17:56:55+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -88,21 +104,5 @@
     </author>
     <summary type="html">&lt;p&gt;このブログではあんまり、書いていても読んでいてもいらっとしてくるようなことは書かんとこう、と思ってたのですが、&lt;br&gt;
 ここのところ毎日日本から届く情けない五輪大...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>おぉ、さぶっ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/08/sabui/"/>
-    <id>http://myblog.com/articles/jp/2021/02/08/sabui/</id>
-    <published>2021-02-08T00:00:00+01:00</published>
-    <updated>2021-02-08T17:48:58+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２月も１週間めぐり、今日は月曜日。&lt;br&gt;
-朝から雪がしんしんと降っております。&lt;/p&gt;
-
-&lt;p&gt;今日は朝礼でもみんな&lt;br&gt;
-「ぼく、朝から雪かきしてきたよ！」&lt;br&gt;
-という同僚がたくさん...&lt;/p&gt;</summary>
   </entry>
 </feed>
