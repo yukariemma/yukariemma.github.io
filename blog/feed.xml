@@ -5,16 +5,30 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-02-22T00:00:00+01:00</updated>
+  <updated>2021-02-19T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title>４年目の記念日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/19/four-years/"/>
+    <id>http://myblog.com/articles/jp/2021/02/19/four-years/</id>
+    <published>2021-02-19T00:00:00+01:00</published>
+    <updated>2021-02-24T15:14:23+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今日ははあたしたち夫婦の「出逢い記念日」です。&lt;br&gt;
+４年前のこの日があるからこそ、今日がある大切な日。&lt;/p&gt;
+
+&lt;p&gt;２年目は主人のいうロマンチックの定義のもと、夜１０時...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
     <title>ショートタイムと宮崎駿</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/22/short-time-and-hayao-miyazaki/"/>
-    <id>http://myblog.com/articles/jp/2021/02/22/short-time-and-hayao-miyazaki/</id>
-    <published>2021-02-22T00:00:00+01:00</published>
-    <updated>2021-02-23T10:08:21+01:00</updated>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/18/short-time-and-hayao-miyazaki/"/>
+    <id>http://myblog.com/articles/jp/2021/02/18/short-time-and-hayao-miyazaki/</id>
+    <published>2021-02-18T00:00:00+01:00</published>
+    <updated>2021-02-24T14:49:05+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -92,17 +106,5 @@
 
 &lt;p&gt;でもどれも長いお米だった。&lt;br&gt;
 ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>なさけない</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/09/nasakenai/"/>
-    <id>http://myblog.com/articles/jp/2021/02/09/nasakenai/</id>
-    <published>2021-02-09T00:00:00+01:00</published>
-    <updated>2021-02-09T20:22:29+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;このブログではあんまり、書いていても読んでいてもいらっとしてくるようなことは書かんとこう、と思ってたのですが、&lt;br&gt;
-ここのところ毎日日本から届く情けない五輪大...&lt;/p&gt;</summary>
   </entry>
 </feed>
