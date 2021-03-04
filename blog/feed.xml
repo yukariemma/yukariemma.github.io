@@ -5,16 +5,74 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-02-19T00:00:00+01:00</updated>
+  <updated>2021-03-04T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>最近おもうこと</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/04/thesedays/"/>
+    <id>http://myblog.com/articles/jp/2021/03/04/thesedays/</id>
+    <published>2021-03-04T00:00:00+01:00</published>
+    <updated>2021-03-04T15:46:57+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;駅でトラムを待っていたある日。&lt;/p&gt;
+
+&lt;p&gt;おへそを見せた短いシャツを着て、あたしたちの前を通り過ぎた女の子を見て主人が、&lt;/p&gt;
+
+&lt;p&gt;「あの子、お金がなくて自分のサイズ買え...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ガールズトークとチューリップ</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/03/tulip/"/>
+    <id>http://myblog.com/articles/jp/2021/03/03/tulip/</id>
+    <published>2021-03-03T00:00:00+01:00</published>
+    <updated>2021-03-04T15:42:13+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;バレンタインに主人にお願いしたチューリップがようやく届きました。笑&lt;br&gt;
+可愛いでしょ？&lt;/p&gt;
+
+&lt;p&gt;さて、今日はひさしぶりに親友のまいまいと話をしました。&lt;/p&gt;
+
+&lt;p&gt;いろいろ話...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>バナナケーキ</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/02/banana-bread/"/>
+    <id>http://myblog.com/articles/jp/2021/03/02/banana-bread/</id>
+    <published>2021-03-02T00:00:00+01:00</published>
+    <updated>2021-03-04T15:39:31+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;美容院がオープンし、みんなの気分もすこしだけ春うららな今日は、主人のお誕生日。&lt;/p&gt;
+
+&lt;p&gt;料理はするけど、ケーキは焼かないタイプのあたしが唯一作れるのがティラミス...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>３月</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/01/hair-salon/"/>
+    <id>http://myblog.com/articles/jp/2021/03/01/hair-salon/</id>
+    <published>2021-03-01T00:00:00+01:00</published>
+    <updated>2021-03-04T15:36:40+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツでのロックダウンが延長されるようです。涙&lt;/p&gt;
+
+&lt;p&gt;美容院だけは&lt;span style="font-size:12px;"&gt;（なぜか笑）&lt;/span&gt;３月１日からオープンできることになったらしい。&lt;br&gt;
+あたしの職場の男子たちはほぼ全員...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>４年目の記念日</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/19/four-years/"/>
     <id>http://myblog.com/articles/jp/2021/02/19/four-years/</id>
     <published>2021-02-19T00:00:00+01:00</published>
-    <updated>2021-02-24T15:14:23+01:00</updated>
+    <updated>2021-02-24T15:24:38+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -38,73 +96,5 @@
 &lt;p&gt;最近一気に春が近づいたベルリン。&lt;/p&gt;
 
 </summary>
-  </entry>
-  <entry>
-    <title>バレンタイン</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/14/valentines-day/"/>
-    <id>http://myblog.com/articles/jp/2021/02/14/valentines-day/</id>
-    <published>2021-02-14T00:00:00+01:00</published>
-    <updated>2021-02-14T17:41:52+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日はバレンタイン。&lt;/p&gt;
-
-&lt;p&gt;こちら西欧の国々ではみなさまご存知の通り、&lt;br&gt;
-男子　ー＞　女子&lt;br&gt;
-へのプレゼントの日であります。&lt;/p&gt;
-
-&lt;p&gt;これまでのあたしたちのバレンタイン...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ガーデンルール</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/13/garden-rule/"/>
-    <id>http://myblog.com/articles/jp/2021/02/13/garden-rule/</id>
-    <published>2021-02-13T00:00:00+01:00</published>
-    <updated>2021-02-14T11:47:40+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ある日突然マンションのオーナーから手紙が届いた。&lt;/p&gt;
-
-&lt;p&gt;拝啓&lt;br&gt;
-居住者のみなさま&lt;br&gt;
-バルコニーの目隠しはグレーにしてください。&lt;br&gt;
-そうでない家庭は期限までに外してく...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>冬の青空</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/12/sunny/"/>
-    <id>http://myblog.com/articles/jp/2021/02/12/sunny/</id>
-    <published>2021-02-12T00:00:00+01:00</published>
-    <updated>2021-02-14T11:23:34+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日はベルリン記念すべき日と言っていいんじゃないか。&lt;/p&gt;
-
-&lt;p&gt;２月の花金。&lt;br&gt;
-朝から青空、快晴です！&lt;/p&gt;
-
-&lt;p&gt;あーお天気がいいってなんて素晴らしいのかしら。&lt;br&gt;
-なんだかも...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>玄米生活はじめました</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/11/genmai/"/>
-    <id>http://myblog.com/articles/jp/2021/02/11/genmai/</id>
-    <published>2021-02-11T00:00:00+01:00</published>
-    <updated>2021-02-14T17:56:55+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツで玄米買いました。&lt;/p&gt;
-
-&lt;p&gt;ドイツではNaturreisというらしい。&lt;br&gt;
-さすがBIO大国。&lt;br&gt;
-なんかいろいろ種類あったわー。&lt;/p&gt;
-
-&lt;p&gt;でもどれも長いお米だった。&lt;br&gt;
-...&lt;/p&gt;</summary>
   </entry>
 </feed>
