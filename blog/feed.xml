@@ -5,10 +5,74 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-03-04T00:00:00+01:00</updated>
+  <updated>2021-03-10T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ドイツの病院　最終話</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/10/krankenhaus/"/>
+    <id>http://myblog.com/articles/jp/2021/03/10/krankenhaus/</id>
+    <published>2021-03-10T00:00:00+01:00</published>
+    <updated>2021-03-12T17:38:29+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;術後２日目。&lt;/p&gt;
+
+&lt;p&gt;もう朝ごはんの写真撮るのやめたみたい笑。&lt;br&gt;
+写真ないや。&lt;/p&gt;
+
+&lt;p&gt;主人がお弁当の準備今からするね〜とメールをくれた。&lt;/p&gt;
+
+&lt;p&gt;すると主治医じゃない先生が...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ドイツの病院　その３</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/09/krankenhaus/"/>
+    <id>http://myblog.com/articles/jp/2021/03/09/krankenhaus/</id>
+    <published>2021-03-09T00:00:00+01:00</published>
+    <updated>2021-03-12T17:29:46+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;夜は寒いのと暑いのとが交互に来て、気持ち悪くて眠れず、ナースコールを押した。&lt;/p&gt;
+
+&lt;p&gt;おばあちゃんナースがやってきて、必死に頭の中でドイツ語を探し説明するあたし...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ドイツの病院　その２</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/08/krankenhaus/"/>
+    <id>http://myblog.com/articles/jp/2021/03/08/krankenhaus/</id>
+    <published>2021-03-08T00:00:00+01:00</published>
+    <updated>2021-03-12T17:25:26+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;目覚めた時は夕方だった。&lt;/p&gt;
+
+&lt;p&gt;主人はベッドの隣で仕事してた。&lt;/p&gt;
+
+&lt;p&gt;まだ朦朧とするなか、お隣のおばちゃんに挨拶したりしてたと思う。&lt;br&gt;
+主人はそのおばちゃんとなんか...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ドイツの病院　その１</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/07/krankenhaus/"/>
+    <id>http://myblog.com/articles/jp/2021/03/07/krankenhaus/</id>
+    <published>2021-03-07T00:00:00+01:00</published>
+    <updated>2021-03-12T17:14:10+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あー結婚式からそろそろ１年やな〜と思いながら&lt;br&gt;
+携帯の写真をくるくる見てた金曜の午後。&lt;/p&gt;
+
+&lt;p&gt;ふとした写真に目が止まり、&lt;br&gt;
+これはやはり綴っておかなくては！&lt;/p&gt;
+
+&lt;p&gt;と...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>最近おもうこと</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/04/thesedays/"/>
@@ -39,62 +103,5 @@
 &lt;p&gt;さて、今日はひさしぶりに親友のまいまいと話をしました。&lt;/p&gt;
 
 &lt;p&gt;いろいろ話...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>バナナケーキ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/02/banana-bread/"/>
-    <id>http://myblog.com/articles/jp/2021/03/02/banana-bread/</id>
-    <published>2021-03-02T00:00:00+01:00</published>
-    <updated>2021-03-04T15:39:31+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;美容院がオープンし、みんなの気分もすこしだけ春うららな今日は、主人のお誕生日。&lt;/p&gt;
-
-&lt;p&gt;料理はするけど、ケーキは焼かないタイプのあたしが唯一作れるのがティラミス...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>３月</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/01/hair-salon/"/>
-    <id>http://myblog.com/articles/jp/2021/03/01/hair-salon/</id>
-    <published>2021-03-01T00:00:00+01:00</published>
-    <updated>2021-03-04T15:36:40+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツでのロックダウンが延長されるようです。涙&lt;/p&gt;
-
-&lt;p&gt;美容院だけは&lt;span style="font-size:12px;"&gt;（なぜか笑）&lt;/span&gt;３月１日からオープンできることになったらしい。&lt;br&gt;
-あたしの職場の男子たちはほぼ全員...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>４年目の記念日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/19/four-years/"/>
-    <id>http://myblog.com/articles/jp/2021/02/19/four-years/</id>
-    <published>2021-02-19T00:00:00+01:00</published>
-    <updated>2021-02-24T15:24:38+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日ははあたしたち夫婦の「出逢い記念日」です。&lt;br&gt;
-４年前のこの日があるからこそ、今日がある大切な日。&lt;/p&gt;
-
-&lt;p&gt;２年目は主人のいうロマンチックの定義のもと、夜１０時...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ショートタイムと宮崎駿</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/02/18/short-time-and-hayao-miyazaki/"/>
-    <id>http://myblog.com/articles/jp/2021/02/18/short-time-and-hayao-miyazaki/</id>
-    <published>2021-02-18T00:00:00+01:00</published>
-    <updated>2021-02-24T14:49:05+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;最近あたしの方が先にベッドから起き上がる。&lt;br&gt;
-というのも、目が覚めた瞬間お腹が減り過ぎて、もう寝てられないんです。笑&lt;/p&gt;
-
-&lt;p&gt;最近一気に春が近づいたベルリン。&lt;/p&gt;
-
-</summary>
   </entry>
 </feed>
