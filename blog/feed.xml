@@ -5,10 +5,65 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-03-24T00:00:00+01:00</updated>
+  <updated>2021-03-27T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>バガン後編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/27/bagan/"/>
+    <id>http://myblog.com/articles/jp/2021/03/27/bagan/</id>
+    <published>2021-03-27T00:00:00+01:00</published>
+    <updated>2021-03-30T15:25:30+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/20/myanmar/" target="_blank" class="external-link"&gt;旅編第五回ミャンマー&lt;/a&gt; ｜&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/21/yangon/" target="_blank" class="external-link"&gt;ヤンゴン前編&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/22/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編上&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/23/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編下&lt;/a&gt;　|&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/24/yangon/" target="_blank" class="external-link"&gt;ヤンゴン後編&lt;/a&gt;　|&lt;/span&gt;&lt;br&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/25/bagan/" target="_blank" class="external-link"&gt;バガン前編&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/26/bagan/" target="_blank" class="external-link"&gt;バガン中編&lt;/a&gt;はこちら。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;だいぶと慣れ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>バガン中編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/26/bagan/"/>
+    <id>http://myblog.com/articles/jp/2021/03/26/bagan/</id>
+    <published>2021-03-26T00:00:00+01:00</published>
+    <updated>2021-03-30T09:54:40+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/20/myanmar/" target="_blank" class="external-link"&gt;旅編第五回ミャンマー&lt;/a&gt; ｜&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/21/yangon/" target="_blank" class="external-link"&gt;ヤンゴン前編&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/22/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編上&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/23/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編下&lt;/a&gt;　|&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/24/yangon/" target="_blank" class="external-link"&gt;ヤンゴン後編&lt;/a&gt;　|&lt;/span&gt;&lt;br&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/25/bagan/" target="_blank" class="external-link"&gt;バガン前編&lt;/a&gt;はこちら。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;夜明け前に起き、文字通りまっ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>バガン前編</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/25/bagan/"/>
+    <id>http://myblog.com/articles/jp/2021/03/25/bagan/</id>
+    <published>2021-03-25T00:00:00+01:00</published>
+    <updated>2021-03-30T15:22:02+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/20/myanmar/" target="_blank" class="external-link"&gt;旅編第五回ミャンマー&lt;/a&gt; ｜&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/21/yangon/" target="_blank" class="external-link"&gt;ヤンゴン前編&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/22/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編上&lt;/a&gt; |&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/23/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編下&lt;/a&gt;　|&lt;/span&gt;
+&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/24/yangon/" target="_blank" class="external-link"&gt;ヤンゴン後編&lt;/a&gt;はこちら。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;ヤンゴンからバスで北上すること約１０時間。&lt;br&gt;
+...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ヤンゴン後編</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/24/yangon/"/>
@@ -56,53 +111,5 @@
 &lt;p&gt;町はまぁ。。カオス。&lt;/p&gt;
 
 &lt;p&gt;車と人と...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ヤンゴン前編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/21/yangon/"/>
-    <id>http://myblog.com/articles/jp/2021/03/21/yangon/</id>
-    <published>2021-03-21T00:00:00+01:00</published>
-    <updated>2021-03-28T17:30:11+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/20/myanmar/" target="_blank" class="external-link"&gt;旅編第五回ミャンマー&lt;/a&gt; はこちら。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;香港乗り継ぎでまだ夜明け前にヤンゴンに到着。&lt;/p&gt;
-
-&lt;p&gt;東南アジアに行くときの鉄則ですが、&lt;strong&gt;必ず必ずかならず！&lt;/strong&gt;空港から市内へのタ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ミャンマー</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/20/myanmar/"/>
-    <id>http://myblog.com/articles/jp/2021/03/20/myanmar/</id>
-    <published>2021-03-20T00:00:00+01:00</published>
-    <updated>2021-03-28T17:26:44+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第五回は&lt;strong&gt;ミャンマー（2015.12月）&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;２０１５年の年末に一人でバックパックを背負ってミャンマーを旅しました。&lt;/p&gt;
-
-&lt;p&gt;他の東南アジアに比べて、観光客に...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツの病院　最終話</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/10/krankenhaus/"/>
-    <id>http://myblog.com/articles/jp/2021/03/10/krankenhaus/</id>
-    <published>2021-03-10T00:00:00+01:00</published>
-    <updated>2021-03-12T17:38:29+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;術後２日目。&lt;/p&gt;
-
-&lt;p&gt;もう朝ごはんの写真撮るのやめたみたい笑。&lt;br&gt;
-写真ないや。&lt;/p&gt;
-
-&lt;p&gt;主人がお弁当の準備今からするね〜とメールをくれた。&lt;/p&gt;
-
-&lt;p&gt;すると主治医じゃない先生が...&lt;/p&gt;</summary>
   </entry>
 </feed>
