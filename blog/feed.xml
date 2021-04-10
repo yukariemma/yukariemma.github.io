@@ -5,10 +5,24 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-04-09T00:00:00+02:00</updated>
+  <updated>2021-04-10T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>日本では絶対作らないもの</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/04/10/iwanori/"/>
+    <id>http://myblog.com/articles/jp/2021/04/10/iwanori/</id>
+    <published>2021-04-10T00:00:00+02:00</published>
+    <updated>2021-04-10T17:10:01+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツに住んで最も困るものは「食」という日本人も多いのではないだろうか。&lt;/p&gt;
+
+&lt;p&gt;あたしは紛れもなくそのひとりで、ドイツに住んでもうすぐ３年。&lt;br&gt;
+いろんなものを作...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>春の栽培と読書</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/04/09/april/"/>
@@ -83,25 +97,6 @@
     <id>http://myblog.com/articles/jp/2021/03/30/inle-lake/</id>
     <published>2021-03-30T00:00:00+02:00</published>
     <updated>2021-03-31T13:42:01+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/20/myanmar/" target="_blank" class="external-link"&gt;旅編第五回ミャンマー&lt;/a&gt; ｜&lt;/span&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/21/yangon/" target="_blank" class="external-link"&gt;ヤンゴン前編&lt;/a&gt; |&lt;/span&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/22/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編上&lt;/a&gt; |&lt;/span&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/23/yangon/" target="_blank" class="external-link"&gt;ヤンゴン中編下&lt;/a&gt;　|&lt;/span&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/24/yangon/" target="_blank" class="external-link"&gt;ヤンゴン後編&lt;/a&gt;　|&lt;/span&gt;&lt;br&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/25/bagan/" target="_blank" class="external-link"&gt;バガン前編&lt;/a&gt; |&lt;/span&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/26/bagan/" target="_blank" class="external-link"&gt;バガン中編&lt;/a&gt; |&lt;/span&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/27/bagan/" target="_blank" class="external-link"&gt;バガン後編&lt;/a&gt; |&lt;/span&gt;&lt;br&gt;
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/03/28/inle-lake/" target="_blank" class="external-link"&gt;イン...&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>インレー湖中編</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/03/29/inle-lake/"/>
-    <id>http://myblog.com/articles/jp/2021/03/29/inle-lake/</id>
-    <published>2021-03-29T00:00:00+02:00</published>
-    <updated>2021-03-31T13:18:58+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
