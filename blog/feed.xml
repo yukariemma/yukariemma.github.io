@@ -5,10 +5,42 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-05-20T00:00:00+02:00</updated>
+  <updated>2021-05-22T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>あたし本当に妊娠してるんだろうか</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/22/am-i-really-pregnant/"/>
+    <id>http://myblog.com/articles/jp/2021/05/22/am-i-really-pregnant/</id>
+    <published>2021-05-22T00:00:00+02:00</published>
+    <updated>2021-05-30T16:48:02+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あんな興奮して伝えたけど、あたし本当に妊娠してるんだろうか。&lt;/p&gt;
+
+&lt;p&gt;そんなことをふと思った。&lt;/p&gt;
+
+&lt;p&gt;そしてまた薬局に走った。笑&lt;/p&gt;
+
+&lt;p&gt;こないだは一番安い検査薬を買った...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>妊娠発覚からの２４時間</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/21/24h/"/>
+    <id>http://myblog.com/articles/jp/2021/05/21/24h/</id>
+    <published>2021-05-21T00:00:00+02:00</published>
+    <updated>2021-05-30T16:41:21+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;興奮冷めやらぬ朝。&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:12px;"&gt;主　人&lt;/span&gt;「おっとさんとおかあさんに今日言おう。」&lt;br&gt;
+&lt;span style="font-size:12px;"&gt;あたし&lt;/span&gt;「え？今日？言うの？」&lt;br&gt;
+&lt;span style="font-size:12px;"&gt;主　人&lt;/span&gt;「だって最初の検診まで３週間もあるし、つまちゃん...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>１月１１日</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/20/im-pregnant/"/>
@@ -68,35 +100,5 @@
 
 &lt;p&gt;あたしは紛れもなくそのひとりで、ドイツに住んでもうすぐ３年。&lt;br&gt;
 いろんなものを作...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>春の栽培と読書</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/04/09/april/"/>
-    <id>http://myblog.com/articles/jp/2021/04/09/april/</id>
-    <published>2021-04-09T00:00:00+02:00</published>
-    <updated>2021-04-09T15:12:43+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ベルリンにも春がやってきた！&lt;/p&gt;
-
-&lt;p&gt;というのも一瞬。&lt;br&gt;
-イースターホリデーは吹雪きましたよ。&lt;br&gt;
-やはり三寒四温というのはユニバーサルなのだろうか。&lt;/p&gt;
-
-&lt;p&gt;ここの三寒四...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>イースターってなに</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/04/04/easter/"/>
-    <id>http://myblog.com/articles/jp/2021/04/04/easter/</id>
-    <published>2021-04-04T00:00:00+02:00</published>
-    <updated>2021-04-05T15:02:23+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今週末はイースターホリデーで４連休です。&lt;/p&gt;
-
-&lt;p&gt;ホリデーといっても、メルケルさんが「家で静かに過ごすイースターを」とおっしゃってましたので、家で静かな４連休で...&lt;/p&gt;</summary>
   </entry>
 </feed>
