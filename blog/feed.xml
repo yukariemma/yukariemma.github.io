@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-05-22T00:00:00+02:00</updated>
+  <updated>2021-05-23T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>初めての検診</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/23/first-checkup/"/>
+    <id>http://myblog.com/articles/jp/2021/05/23/first-checkup/</id>
+    <published>2021-05-23T00:00:00+02:00</published>
+    <updated>2021-05-31T14:29:43+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;妊娠発覚後首をなが〜くして待った最初の検診。&lt;br&gt;
+うまいこと着床してくれてるんだろうか、心拍は確認できるんだろうか、とにかくどきどきしながら病院へ向かった。&lt;/p&gt;
+...</summary>
+  </entry>
   <entry>
     <title>あたし本当に妊娠してるんだろうか</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/22/am-i-really-pregnant/"/>
@@ -86,19 +99,5 @@
 &lt;p&gt;妊娠６ヶ月をむかえました。&lt;/p&gt;
 
 &lt;p&gt;初めての妊娠生活を異国の地で過ごすことに対するぼんやり...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>日本では絶対作らないもの</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/04/10/iwanori/"/>
-    <id>http://myblog.com/articles/jp/2021/04/10/iwanori/</id>
-    <published>2021-04-10T00:00:00+02:00</published>
-    <updated>2021-04-10T17:10:01+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツに住んで最も困るものは「食」という日本人も多いのではないだろうか。&lt;/p&gt;
-
-&lt;p&gt;あたしは紛れもなくそのひとりで、ドイツに住んでもうすぐ３年。&lt;br&gt;
-いろんなものを作...&lt;/p&gt;</summary>
   </entry>
 </feed>
