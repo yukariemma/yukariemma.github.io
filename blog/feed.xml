@@ -5,10 +5,39 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-05-24T00:00:00+02:00</updated>
+  <updated>2021-05-26T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>二回目の検診と母手帳</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/26/second-checkup/"/>
+    <id>http://myblog.com/articles/jp/2021/05/26/second-checkup/</id>
+    <published>2021-05-26T00:00:00+02:00</published>
+    <updated>2021-06-03T11:17:03+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;９週と４日。&lt;/p&gt;
+
+&lt;p&gt;２回目の検診。&lt;br&gt;
+最初の時はあたし一人で受診して、ドイツ語がわかるかどきどきしたけど、今日は主人と一緒に行けるから安心。&lt;/p&gt;
+
+&lt;p&gt;でも大丈夫かなぁ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>妊娠９週目と妊婦ティー</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/25/ninpu-tea/"/>
+    <id>http://myblog.com/articles/jp/2021/05/25/ninpu-tea/</id>
+    <published>2021-05-25T00:00:00+02:00</published>
+    <updated>2021-06-03T10:50:57+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;つわりは相変わらずひどくなく、ごはんも食べれるし、たまに気持ち悪くなるぐらいで、吐いたりもしない。&lt;/p&gt;
+
+&lt;p&gt;でもあれは食べたらダメ、飲んだらダメっていうのがたま...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>妊娠８週目</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/24/8-weeks/"/>
@@ -68,36 +97,5 @@
 &lt;p&gt;&lt;span style="font-size:12px;"&gt;主　人&lt;/span&gt;「おっとさんとおかあさんに今日言おう。」&lt;br&gt;
 &lt;span style="font-size:12px;"&gt;あたし&lt;/span&gt;「え？今日？言うの？」&lt;br&gt;
 &lt;span style="font-size:12px;"&gt;主　人&lt;/span&gt;「だって最初の検診まで３週間もあるし、つまちゃん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>１月１１日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/20/im-pregnant/"/>
-    <id>http://myblog.com/articles/jp/2021/05/20/im-pregnant/</id>
-    <published>2021-05-20T00:00:00+02:00</published>
-    <updated>2021-05-29T14:48:47+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;雪がしんしんと降る朝だった。&lt;/p&gt;
-
-&lt;p&gt;いつもきっちりと来る生理が来ない。&lt;/p&gt;
-
-&lt;p&gt;でもなぁ。&lt;/p&gt;
-
-&lt;p&gt;あんまり深く考えることもなく、まだ残ったままのクリスマスツリーの隣で朝...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>妊娠がわかるまで</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/19/before-pregnant/"/>
-    <id>http://myblog.com/articles/jp/2021/05/19/before-pregnant/</id>
-    <published>2021-05-19T00:00:00+02:00</published>
-    <updated>2021-05-27T15:26:54+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;結婚式が終わり、引っ越しも無事終わり、ようやく落ち着いた２０２０年初夏。&lt;/p&gt;
-
-&lt;p&gt;もういつでも子供がほしかった。&lt;br&gt;
-旅行も行きたかったけど、ワインも好きだけど、そ...&lt;/p&gt;</summary>
   </entry>
 </feed>
