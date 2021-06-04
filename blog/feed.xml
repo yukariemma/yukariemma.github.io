@@ -5,10 +5,26 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-05-26T00:00:00+02:00</updated>
+  <updated>2021-05-27T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>心臓の音聞いてみよか</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/27/baby-heart/"/>
+    <id>http://myblog.com/articles/jp/2021/05/27/baby-heart/</id>
+    <published>2021-05-27T00:00:00+02:00</published>
+    <updated>2021-06-04T15:58:10+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;９週最終日。&lt;/p&gt;
+
+&lt;p&gt;ベルリン快晴の日曜日。&lt;/p&gt;
+
+&lt;p&gt;それにしてもよくお腹が減る。&lt;br&gt;
+きっとあたしがお腹が減ったときは、赤ちゃんもお腹が減ってるんではないかと思ってしま...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>二回目の検診と母手帳</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/26/second-checkup/"/>
@@ -82,20 +98,5 @@
 &lt;p&gt;そしてまた薬局に走った。笑&lt;/p&gt;
 
 &lt;p&gt;こないだは一番安い検査薬を買った...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>妊娠発覚からの２４時間</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/21/24h/"/>
-    <id>http://myblog.com/articles/jp/2021/05/21/24h/</id>
-    <published>2021-05-21T00:00:00+02:00</published>
-    <updated>2021-05-30T16:41:21+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;興奮冷めやらぬ朝。&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="font-size:12px;"&gt;主　人&lt;/span&gt;「おっとさんとおかあさんに今日言おう。」&lt;br&gt;
-&lt;span style="font-size:12px;"&gt;あたし&lt;/span&gt;「え？今日？言うの？」&lt;br&gt;
-&lt;span style="font-size:12px;"&gt;主　人&lt;/span&gt;「だって最初の検診まで３週間もあるし、つまちゃん...&lt;/p&gt;</summary>
   </entry>
 </feed>
