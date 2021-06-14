@@ -5,10 +5,56 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-05-29T00:00:00+02:00</updated>
+  <updated>2021-06-01T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>伝える理由</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/01/reason/"/>
+    <id>http://myblog.com/articles/jp/2021/06/01/reason/</id>
+    <published>2021-06-01T00:00:00+02:00</published>
+    <updated>2021-06-14T11:30:59+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;心疾患についてこれまでに起こったこと、感じたことを綴ろうと決めるまで結構時間がかかった。&lt;/p&gt;
+
+&lt;p&gt;あの日依頼、このブログを書くまで３ヶ月が経った。&lt;br&gt;
+いろいろな人...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>人生で一番苦しかった日　つづき</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/31/hardest-day-of-life-second/"/>
+    <id>http://myblog.com/articles/jp/2021/05/31/hardest-day-of-life-second/</id>
+    <published>2021-05-31T00:00:00+02:00</published>
+    <updated>2021-06-14T11:16:57+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あたまは真っ白なようでぱんぱんに詰まっていて、&lt;br&gt;
+何も考えられないようでいろんな思いが駆け巡っていた。&lt;/p&gt;
+
+&lt;p&gt;主人に先生の説明をもう一回細かく聞いた。&lt;br&gt;
+何度も説...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>人生で一番苦しかった日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/30/hardest-day-of-life/"/>
+    <id>http://myblog.com/articles/jp/2021/05/30/hardest-day-of-life/</id>
+    <published>2021-05-30T00:00:00+02:00</published>
+    <updated>2021-06-14T11:34:08+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;１３週と３日。&lt;/p&gt;
+
+&lt;p&gt;「これが鼻ですよ」&lt;/p&gt;
+
+&lt;p&gt;7.6cmまで大きくなった赤ちゃんを３Dで見せてくれた。&lt;/p&gt;
+
+&lt;p&gt;超音波の技術はすごく、子宮の壁をきれいに消して赤ちゃん...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>NIPTの結果</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/29/result/"/>
@@ -52,49 +98,5 @@
 
 &lt;p&gt;それにしてもよくお腹が減る。&lt;br&gt;
 きっとあたしがお腹が減ったときは、赤ちゃんもお腹が減ってるんではないかと思ってしま...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>二回目の検診と母手帳</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/26/second-checkup/"/>
-    <id>http://myblog.com/articles/jp/2021/05/26/second-checkup/</id>
-    <published>2021-05-26T00:00:00+02:00</published>
-    <updated>2021-06-03T11:17:03+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;９週と４日。&lt;/p&gt;
-
-&lt;p&gt;２回目の検診。&lt;br&gt;
-最初の時はあたし一人で受診して、ドイツ語がわかるかどきどきしたけど、今日は主人と一緒に行けるから安心。&lt;/p&gt;
-
-&lt;p&gt;でも大丈夫かなぁ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>妊娠９週目と妊婦ティー</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/25/ninpu-tea/"/>
-    <id>http://myblog.com/articles/jp/2021/05/25/ninpu-tea/</id>
-    <published>2021-05-25T00:00:00+02:00</published>
-    <updated>2021-06-03T10:50:57+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;つわりは相変わらずひどくなく、ごはんも食べれるし、たまに気持ち悪くなるぐらいで、吐いたりもしない。&lt;/p&gt;
-
-&lt;p&gt;でもあれは食べたらダメ、飲んだらダメっていうのがたま...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>妊娠８週目</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/24/8-weeks/"/>
-    <id>http://myblog.com/articles/jp/2021/05/24/8-weeks/</id>
-    <published>2021-05-24T00:00:00+02:00</published>
-    <updated>2021-06-01T19:52:51+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;８週目&lt;span style="font-size:12px;"&gt;（妊娠３ヶ月）&lt;/span&gt;に入った。&lt;/p&gt;
-
-&lt;p&gt;そろそろ本格的なつわりがくるかなーと思ってたけど…。&lt;/p&gt;
-
-&lt;p&gt;朝起きた瞬間は、&lt;span style="font-size:12px;"&gt;（たぶんお腹が空っぽすぎて）&lt;/span&gt;気持ち悪さがあるけど...&lt;/p&gt;</summary>
   </entry>
 </feed>
