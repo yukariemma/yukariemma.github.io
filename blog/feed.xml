@@ -5,10 +5,41 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-01T00:00:00+02:00</updated>
+  <updated>2021-06-03T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>結婚式から１年</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/03/wedding-anniversary/"/>
+    <id>http://myblog.com/articles/jp/2021/06/03/wedding-anniversary/</id>
+    <published>2021-06-03T00:00:00+02:00</published>
+    <updated>2021-06-17T16:39:42+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あの日から３日たった。&lt;/p&gt;
+
+&lt;p&gt;もうその前がどんな生活だったか忘れるぐらい、変わってしまった。&lt;/p&gt;
+
+&lt;p&gt;命が宿った喜びよりも、辛さが勝る瞬間もあった。&lt;br&gt;
+あたしも主人も...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>心疾患に向き合うこと</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/02/the-heart/"/>
+    <id>http://myblog.com/articles/jp/2021/06/02/the-heart/</id>
+    <published>2021-06-02T00:00:00+02:00</published>
+    <updated>2021-06-17T16:31:40+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;主人は一生懸命あたしを励ましてくれた。&lt;/p&gt;
+
+&lt;p&gt;どんなことになっても僕がいるから、と。&lt;br&gt;
+どんなことになっても僕とつまちゃんは子供たちのいる人生を送るんだ、と。&lt;br&gt;
+...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>伝える理由</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/01/reason/"/>
@@ -67,36 +98,5 @@
     <summary type="html">&lt;p&gt;１１週と１日。&lt;/p&gt;
 
 &lt;p&gt;先週遺伝カウンセリングに行ってから、結果はまだなものの少し気持ち的に落ち着いたこともあって、この週末は妊娠中から産後までの準備リストなん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>遺伝子カウンセリング</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/28/genetic-counseling/"/>
-    <id>http://myblog.com/articles/jp/2021/05/28/genetic-counseling/</id>
-    <published>2021-05-28T00:00:00+02:00</published>
-    <updated>2021-06-08T09:13:13+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１０週と２日。&lt;/p&gt;
-
-&lt;p&gt;今日は朝から遺伝子カウンセリングとやらに行ってきました。&lt;/p&gt;
-
-&lt;p&gt;ドイツでは、妊娠がわかったらまずは婦人科を受診し、そこから遺伝子専門の先生を...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>心臓の音聞いてみよか</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/27/baby-heart/"/>
-    <id>http://myblog.com/articles/jp/2021/05/27/baby-heart/</id>
-    <published>2021-05-27T00:00:00+02:00</published>
-    <updated>2021-06-04T15:58:10+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;９週最終日。&lt;/p&gt;
-
-&lt;p&gt;ベルリン快晴の日曜日。&lt;/p&gt;
-
-&lt;p&gt;それにしてもよくお腹が減る。&lt;br&gt;
-きっとあたしがお腹が減ったときは、赤ちゃんもお腹が減ってるんではないかと思ってしま...&lt;/p&gt;</summary>
   </entry>
 </feed>
