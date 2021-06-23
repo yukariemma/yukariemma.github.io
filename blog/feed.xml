@@ -5,10 +5,57 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-03T00:00:00+02:00</updated>
+  <updated>2021-06-06T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>さらなる診断 つづき</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/06/second-diagnosis-2/"/>
+    <id>http://myblog.com/articles/jp/2021/06/06/second-diagnosis-2/</id>
+    <published>2021-06-06T00:00:00+02:00</published>
+    <updated>2021-06-23T10:53:07+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;もうちょっと複雑。。&lt;br&gt;
+つまりあんまりよくないよね？&lt;/p&gt;
+
+&lt;p&gt;そして先生はDORVについて簡単に説明してくれ、ベルリンにある心臓センターの小児心臓外科医の先生に連...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>さらなる診断</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/05/second-diagnosis/"/>
+    <id>http://myblog.com/articles/jp/2021/06/05/second-diagnosis/</id>
+    <published>2021-06-05T00:00:00+02:00</published>
+    <updated>2021-06-23T10:50:14+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;１７週と２日。&lt;/p&gt;
+
+&lt;p&gt;昨日は主人とお互いに緊張したままベッドに入った。&lt;/p&gt;
+
+&lt;p&gt;朝７時に家を出て１ヶ月前と同じ道を向かう。&lt;br&gt;
+いい思い出があまりないので、嫌なルートに...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ジェンダーリビール</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/04/gender-reveal/"/>
+    <id>http://myblog.com/articles/jp/2021/06/04/gender-reveal/</id>
+    <published>2021-06-04T00:00:00+02:00</published>
+    <updated>2021-06-23T10:28:12+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;１４週と０日。&lt;/p&gt;
+
+&lt;p&gt;ふたりとも少しずつ落ち着いてきた４日目の朝。&lt;/p&gt;
+
+&lt;p&gt;主人が両親たちと時間を約束し、ジェンダーリビール&lt;span style="font-size:12px;"&gt;（性別発表）&lt;/span&gt;サプライズをしてくれた。&lt;/p&gt;
+
+</summary>
+  </entry>
   <entry>
     <title>結婚式から１年</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/03/wedding-anniversary/"/>
@@ -53,50 +100,5 @@
 
 &lt;p&gt;あの日依頼、このブログを書くまで３ヶ月が経った。&lt;br&gt;
 いろいろな人...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>人生で一番苦しかった日　つづき</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/31/hardest-day-of-life-second/"/>
-    <id>http://myblog.com/articles/jp/2021/05/31/hardest-day-of-life-second/</id>
-    <published>2021-05-31T00:00:00+02:00</published>
-    <updated>2021-06-14T11:16:57+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あたまは真っ白なようでぱんぱんに詰まっていて、&lt;br&gt;
-何も考えられないようでいろんな思いが駆け巡っていた。&lt;/p&gt;
-
-&lt;p&gt;主人に先生の説明をもう一回細かく聞いた。&lt;br&gt;
-何度も説...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>人生で一番苦しかった日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/30/hardest-day-of-life/"/>
-    <id>http://myblog.com/articles/jp/2021/05/30/hardest-day-of-life/</id>
-    <published>2021-05-30T00:00:00+02:00</published>
-    <updated>2021-06-14T11:34:08+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１３週と３日。&lt;/p&gt;
-
-&lt;p&gt;「これが鼻ですよ」&lt;/p&gt;
-
-&lt;p&gt;7.6cmまで大きくなった赤ちゃんを３Dで見せてくれた。&lt;/p&gt;
-
-&lt;p&gt;超音波の技術はすごく、子宮の壁をきれいに消して赤ちゃん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>NIPTの結果</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/05/29/result/"/>
-    <id>http://myblog.com/articles/jp/2021/05/29/result/</id>
-    <published>2021-05-29T00:00:00+02:00</published>
-    <updated>2021-06-08T09:28:22+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１１週と１日。&lt;/p&gt;
-
-&lt;p&gt;先週遺伝カウンセリングに行ってから、結果はまだなものの少し気持ち的に落ち着いたこともあって、この週末は妊娠中から産後までの準備リストなん...&lt;/p&gt;</summary>
   </entry>
 </feed>
