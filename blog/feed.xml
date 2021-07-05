@@ -5,10 +5,41 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-06T00:00:00+02:00</updated>
+  <updated>2021-06-08T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>胎児ネーム</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/08/wakamaru/"/>
+    <id>http://myblog.com/articles/jp/2021/06/08/wakamaru/</id>
+    <published>2021-06-08T00:00:00+02:00</published>
+    <updated>2021-07-05T11:38:27+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;なぜ胎児ネームが若丸くんになったかというと。&lt;/p&gt;
+
+&lt;p&gt;苺が出始めた４月。&lt;br&gt;
+１８週のころだった。&lt;/p&gt;
+
+&lt;p&gt;主人は「あかちゃ〜ん、おはようございます」と声をかけるので、何...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>羊水検査の結果　22q11</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/07/amniocentesis/"/>
+    <id>http://myblog.com/articles/jp/2021/06/07/amniocentesis/</id>
+    <published>2021-06-07T00:00:00+02:00</published>
+    <updated>2021-07-05T11:19:06+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;採取した羊水からは３段階で検査結果が出ることになった。&lt;/p&gt;
+
+&lt;p&gt;まずは心疾患の原因として最も多い22q11欠失症候群という染色体異常。&lt;/p&gt;
+
+&lt;p&gt;心疾患の９０％は原因不...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>さらなる診断 つづき</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/06/second-diagnosis-2/"/>
@@ -71,34 +102,5 @@
 
 &lt;p&gt;命が宿った喜びよりも、辛さが勝る瞬間もあった。&lt;br&gt;
 あたしも主人も...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>心疾患に向き合うこと</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/02/the-heart/"/>
-    <id>http://myblog.com/articles/jp/2021/06/02/the-heart/</id>
-    <published>2021-06-02T00:00:00+02:00</published>
-    <updated>2021-06-17T16:31:40+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;主人は一生懸命あたしを励ましてくれた。&lt;/p&gt;
-
-&lt;p&gt;どんなことになっても僕がいるから、と。&lt;br&gt;
-どんなことになっても僕とつまちゃんは子供たちのいる人生を送るんだ、と。&lt;br&gt;
-...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>伝える理由</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/01/reason/"/>
-    <id>http://myblog.com/articles/jp/2021/06/01/reason/</id>
-    <published>2021-06-01T00:00:00+02:00</published>
-    <updated>2021-06-14T11:30:59+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;心疾患についてこれまでに起こったこと、感じたことを綴ろうと決めるまで結構時間がかかった。&lt;/p&gt;
-
-&lt;p&gt;あの日依頼、このブログを書くまで３ヶ月が経った。&lt;br&gt;
-いろいろな人...&lt;/p&gt;</summary>
   </entry>
 </feed>
