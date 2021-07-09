@@ -475,6 +475,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/articles/jp-2021-06-13-six-months.html</loc>
+    <lastmod>2021-07-09T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/articles/jp-2021-03-30-inle-lake.html</loc>
     <lastmod>2021-07-09T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -872,6 +878,12 @@
   </url>
   <url>
     <loc>http://myblog.com/articles/2021/06.html</loc>
+    <lastmod>2021-07-09T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myblog.com/articles/2021/06/13.html</loc>
     <lastmod>2021-07-09T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1813,6 +1825,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/jp/articles18/index.html</loc>
+    <lastmod>2021-07-09T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/jp/tag/articles2.html</loc>
     <lastmod>2021-07-09T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1904,6 +1922,12 @@
   </url>
   <url>
     <loc>http://myblog.com/jp/tag/articles17.html</loc>
+    <lastmod>2021-07-09T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myblog.com/jp/tag/articles18.html</loc>
     <lastmod>2021-07-09T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

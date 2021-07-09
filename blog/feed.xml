@@ -5,16 +5,31 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-12T00:00:00+02:00</updated>
+  <updated>2021-06-13T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>妊娠折り返し</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/13/six-months/"/>
+    <id>http://myblog.com/articles/jp/2021/06/13/six-months/</id>
+    <published>2021-06-13T00:00:00+02:00</published>
+    <updated>2021-07-09T15:04:19+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ベルリンにもようやく桜咲く春がやってきた５月。&lt;br&gt;
+妊娠６ヶ月に入った。&lt;/p&gt;
+
+&lt;p&gt;もう折り返しか…&lt;br&gt;
+まだ検査結果がすべて出ていないもやもやな気持ちとは裏腹に、お腹は...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>遺伝子検査</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/12/dna/"/>
     <id>http://myblog.com/articles/jp/2021/06/12/dna/</id>
     <published>2021-06-12T00:00:00+02:00</published>
-    <updated>2021-07-09T14:38:23+02:00</updated>
+    <updated>2021-07-09T14:48:15+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -85,20 +100,5 @@
 １８週のころだった。&lt;/p&gt;
 
 &lt;p&gt;主人は「あかちゃ〜ん、おはようございます」と声をかけるので、何...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>羊水検査の結果　22q11</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/07/amniocentesis/"/>
-    <id>http://myblog.com/articles/jp/2021/06/07/amniocentesis/</id>
-    <published>2021-06-07T00:00:00+02:00</published>
-    <updated>2021-07-05T11:19:06+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;採取した羊水からは３段階で検査結果が出ることになった。&lt;/p&gt;
-
-&lt;p&gt;まずは心疾患の原因として最も多い22q11欠失症候群という染色体異常。&lt;/p&gt;
-
-&lt;p&gt;心疾患の９０％は原因不...&lt;/p&gt;</summary>
   </entry>
 </feed>
