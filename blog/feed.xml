@@ -5,10 +5,39 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-13T00:00:00+02:00</updated>
+  <updated>2021-06-15T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ドイツでの妊娠　へバメさんワークショップ</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/15/hebamme-2/"/>
+    <id>http://myblog.com/articles/jp/2021/06/15/hebamme-2/</id>
+    <published>2021-06-15T00:00:00+02:00</published>
+    <updated>2021-07-11T13:44:00+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;へバメさんとは月１クリニックで行われる面談とは別に、妊娠５ヶ月目から週に１回&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;「妊娠について」の講義&lt;/li&gt;
+  &lt;li&gt;マタニティエクササイズ&lt;/li&gt;
+  &lt;li&gt;呼吸の練習&lt;/li&gt;
+ ...&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>ドイツでの妊娠にかかせない存在</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/14/hebamme/"/>
+    <id>http://myblog.com/articles/jp/2021/06/14/hebamme/</id>
+    <published>2021-06-14T00:00:00+02:00</published>
+    <updated>2021-07-11T12:01:39+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツで妊娠したらまずやることはHebamme&lt;span style="font-size:12px;"&gt;（へバメ）&lt;/span&gt;と呼ばれる助産婦さん探し。&lt;/p&gt;
+
+&lt;p&gt;へバメは妊娠がわかってから出産数ヶ月後まで母子ともにいろいろとお世話...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>妊娠折り返し</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/13/six-months/"/>
@@ -72,33 +101,5 @@
 ５ヶ月目最後の週。&lt;/p&gt;
 
 &lt;p&gt;先週くらいからおへその下あたりで魚がうにょにょっと動くような感じがあり、今朝起きた瞬間「うにょ」「ぽこ」という動きが結...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>小児心臓外科医の先生から言われたこと</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/09/cardiac-surgeon/"/>
-    <id>http://myblog.com/articles/jp/2021/06/09/cardiac-surgeon/</id>
-    <published>2021-06-09T00:00:00+02:00</published>
-    <updated>2021-07-07T17:45:16+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日は午前中に実際に産むことになる病院の小児心臓外科医の先生から電話がかかってくることになっていた。&lt;br&gt;
-この病院はメルケル首相をはじめ著名な人が入院したヨー...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>胎児ネーム</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/08/wakamaru/"/>
-    <id>http://myblog.com/articles/jp/2021/06/08/wakamaru/</id>
-    <published>2021-06-08T00:00:00+02:00</published>
-    <updated>2021-07-05T11:38:27+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;なぜ胎児ネームが若丸くんになったかというと。&lt;/p&gt;
-
-&lt;p&gt;苺が出始めた４月。&lt;br&gt;
-１８週のころだった。&lt;/p&gt;
-
-&lt;p&gt;主人は「あかちゃ〜ん、おはようございます」と声をかけるので、何...&lt;/p&gt;</summary>
   </entry>
 </feed>
