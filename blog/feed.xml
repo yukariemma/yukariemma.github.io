@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-15T00:00:00+02:00</updated>
+  <updated>2021-06-16T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ドイツでの妊娠　へバメさん母父学級</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/16/hebamme-3/"/>
+    <id>http://myblog.com/articles/jp/2021/06/16/hebamme-3/</id>
+    <published>2021-06-16T00:00:00+02:00</published>
+    <updated>2021-07-12T10:08:19+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２１週と３日の今日は午後からへバメのBabypflegekurs&lt;span style="font-size:12px;"&gt;（ベビーケアコース）&lt;/span&gt;が始まった。&lt;/p&gt;
+
+&lt;p&gt;今日必要なものは赤ちゃんの人形、おしめ、ボディオイル。&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ドイツでの妊娠　へバメさんワークショップ</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/15/hebamme-2/"/>
@@ -87,19 +100,5 @@
 
 &lt;p&gt;２コール、３コール。&lt;br&gt;
 主人が出ないので、聞こえてないのかなと書斎へ行こうとした...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>これが胎動か！</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/10/fetal-activity/"/>
-    <id>http://myblog.com/articles/jp/2021/06/10/fetal-activity/</id>
-    <published>2021-06-10T00:00:00+02:00</published>
-    <updated>2021-07-07T17:55:02+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１９週０日。&lt;br&gt;
-５ヶ月目最後の週。&lt;/p&gt;
-
-&lt;p&gt;先週くらいからおへその下あたりで魚がうにょにょっと動くような感じがあり、今朝起きた瞬間「うにょ」「ぽこ」という動きが結...&lt;/p&gt;</summary>
   </entry>
 </feed>
