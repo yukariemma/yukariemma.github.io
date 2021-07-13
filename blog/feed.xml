@@ -5,10 +5,42 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-16T00:00:00+02:00</updated>
+  <updated>2021-06-18T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ドイツの病院事情</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/18/krankenhaus/"/>
+    <id>http://myblog.com/articles/jp/2021/06/18/krankenhaus/</id>
+    <published>2021-06-18T00:00:00+02:00</published>
+    <updated>2021-07-13T17:33:25+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツの妊娠における病院事情はややこしい。&lt;/p&gt;
+
+&lt;p&gt;まず妊娠がわかったら探すのは婦人科とへバメ&lt;span style="font-size:12px;"&gt;（助産婦さん）&lt;/span&gt;。&lt;br&gt;
+あたしたちの場合はおばあちゃんとへバメのオクサナ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>３度目の心臓チェック</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/17/third-checkup/"/>
+    <id>http://myblog.com/articles/jp/2021/06/17/third-checkup/</id>
+    <published>2021-06-17T00:00:00+02:00</published>
+    <updated>2021-07-13T17:07:37+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２２週と２日。&lt;/p&gt;
+
+&lt;p&gt;今日は朝から３回目のウルトラ超音波検診だった。&lt;/p&gt;
+
+&lt;p&gt;昨日からずっとどきどきしてて、&lt;br&gt;
+なんかあったらどうしよう、&lt;br&gt;
+成長してなかったら、、&lt;br&gt;
+心...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ドイツでの妊娠　へバメさん母父学級</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/16/hebamme-3/"/>
@@ -65,40 +97,5 @@
 
 &lt;p&gt;もう折り返しか…&lt;br&gt;
 まだ検査結果がすべて出ていないもやもやな気持ちとは裏腹に、お腹は...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>遺伝子検査</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/12/dna/"/>
-    <id>http://myblog.com/articles/jp/2021/06/12/dna/</id>
-    <published>2021-06-12T00:00:00+02:00</published>
-    <updated>2021-07-09T14:48:15+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;染色体の検査結果が知らされた翌日のお昼過ぎ。&lt;br&gt;
-主人の電話がなった。&lt;/p&gt;
-
-&lt;p&gt;長い電話のあとわかったことは、&lt;/p&gt;
-
-&lt;p&gt;遺伝子検査の結果、ほぼすべての検査が終わり、何も異...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>羊水検査の結果　染色体</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/11/amniocentesis-2/"/>
-    <id>http://myblog.com/articles/jp/2021/06/11/amniocentesis-2/</id>
-    <published>2021-06-11T00:00:00+02:00</published>
-    <updated>2021-07-09T11:37:42+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１９週と２日。&lt;/p&gt;
-
-&lt;p&gt;突然、主人の電話がなった。&lt;/p&gt;
-
-&lt;p&gt;！！！！！&lt;br&gt;
-もしかして！&lt;/p&gt;
-
-&lt;p&gt;２コール、３コール。&lt;br&gt;
-主人が出ないので、聞こえてないのかなと書斎へ行こうとした...&lt;/p&gt;</summary>
   </entry>
 </feed>
