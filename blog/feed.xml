@@ -5,10 +5,42 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-18T00:00:00+02:00</updated>
+  <updated>2021-06-20T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>主人と息子の会話</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/20/conversation/"/>
+    <id>http://myblog.com/articles/jp/2021/06/20/conversation/</id>
+    <published>2021-06-20T00:00:00+02:00</published>
+    <updated>2021-07-14T14:06:54+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;主人はよくお腹の音を聞きたがる。&lt;/p&gt;
+
+&lt;p&gt;水が流れる音がするのと、心臓の音が聞こえるらしい。&lt;/p&gt;
+
+&lt;p&gt;すると最近主人はお腹に耳を当てながら、&lt;/p&gt;
+
+&lt;p&gt;「あーはいはい。うん、...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>鉄分不足</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/19/need-eisen/"/>
+    <id>http://myblog.com/articles/jp/2021/06/19/need-eisen/</id>
+    <published>2021-06-19T00:00:00+02:00</published>
+    <updated>2021-07-14T13:58:33+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今日はおばあちゃんのところで診察だった。&lt;/p&gt;
+
+&lt;p&gt;昨日超音波をしているので、おばあちゃんのところではなし。&lt;/p&gt;
+
+&lt;p&gt;いつも通り、体重、血圧、尿検査があり、おばあちゃん...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ドイツの病院事情</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/18/krankenhaus/"/>
@@ -69,33 +101,5 @@
   &lt;li&gt;マタニティエクササイズ&lt;/li&gt;
   &lt;li&gt;呼吸の練習&lt;/li&gt;
  ...&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツでの妊娠にかかせない存在</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/14/hebamme/"/>
-    <id>http://myblog.com/articles/jp/2021/06/14/hebamme/</id>
-    <published>2021-06-14T00:00:00+02:00</published>
-    <updated>2021-07-11T12:01:39+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツで妊娠したらまずやることはHebamme&lt;span style="font-size:12px;"&gt;（へバメ）&lt;/span&gt;と呼ばれる助産婦さん探し。&lt;/p&gt;
-
-&lt;p&gt;へバメは妊娠がわかってから出産数ヶ月後まで母子ともにいろいろとお世話...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>妊娠折り返し</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/13/six-months/"/>
-    <id>http://myblog.com/articles/jp/2021/06/13/six-months/</id>
-    <published>2021-06-13T00:00:00+02:00</published>
-    <updated>2021-07-09T15:04:19+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ベルリンにもようやく桜咲く春がやってきた５月。&lt;br&gt;
-妊娠６ヶ月に入った。&lt;/p&gt;
-
-&lt;p&gt;もう折り返しか…&lt;br&gt;
-まだ検査結果がすべて出ていないもやもやな気持ちとは裏腹に、お腹は...&lt;/p&gt;</summary>
   </entry>
 </feed>
