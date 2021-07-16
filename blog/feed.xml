@@ -5,10 +5,50 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-20T00:00:00+02:00</updated>
+  <updated>2021-06-23T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Hope</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/23/hope/"/>
+    <id>http://myblog.com/articles/jp/2021/06/23/hope/</id>
+    <published>2021-06-23T00:00:00+02:00</published>
+    <updated>2021-07-16T11:55:53+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;３月１７日のあの日、心疾患があると伝えられた日から２ヶ月半、長かったなぁ。&lt;/p&gt;
+
+&lt;p&gt;これまでの人生で聞いたことも見たことももなかった単語を聞いては調べ、あらゆる...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>羊水検査の結果　遺伝子</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/22/amniocentesis-3/"/>
+    <id>http://myblog.com/articles/jp/2021/06/22/amniocentesis-3/</id>
+    <published>2021-06-22T00:00:00+02:00</published>
+    <updated>2021-07-16T11:49:57+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２３週と５日。&lt;/p&gt;
+
+&lt;p&gt;チームへの報告も済ませ、日本から届いた荷物の税関申告も終わり、先週からむずむずしてたことの３分の２が片付いた金曜日。&lt;br&gt;
+今日で遺伝子検査の...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ドイツの産休育休事情</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/21/parental-leave/"/>
+    <id>http://myblog.com/articles/jp/2021/06/21/parental-leave/</id>
+    <published>2021-06-21T00:00:00+02:00</published>
+    <updated>2021-07-16T11:34:11+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ドイツでは日本と一緒で予定日前６週、後８週産休がとれる。&lt;br&gt;
+その後夫婦で最大３６ヶ月の育休がとれる。&lt;br&gt;
+お母さんがまるまるとってもいいし、夫婦（あるいはパート...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>主人と息子の会話</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/20/conversation/"/>
@@ -54,52 +94,5 @@
 
 &lt;p&gt;まず妊娠がわかったら探すのは婦人科とへバメ&lt;span style="font-size:12px;"&gt;（助産婦さん）&lt;/span&gt;。&lt;br&gt;
 あたしたちの場合はおばあちゃんとへバメのオクサナ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>３度目の心臓チェック</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/17/third-checkup/"/>
-    <id>http://myblog.com/articles/jp/2021/06/17/third-checkup/</id>
-    <published>2021-06-17T00:00:00+02:00</published>
-    <updated>2021-07-13T17:07:37+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２２週と２日。&lt;/p&gt;
-
-&lt;p&gt;今日は朝から３回目のウルトラ超音波検診だった。&lt;/p&gt;
-
-&lt;p&gt;昨日からずっとどきどきしてて、&lt;br&gt;
-なんかあったらどうしよう、&lt;br&gt;
-成長してなかったら、、&lt;br&gt;
-心...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツでの妊娠　へバメさん母父学級</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/16/hebamme-3/"/>
-    <id>http://myblog.com/articles/jp/2021/06/16/hebamme-3/</id>
-    <published>2021-06-16T00:00:00+02:00</published>
-    <updated>2021-07-12T10:08:19+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２１週と３日の今日は午後からへバメのBabypflegekurs&lt;span style="font-size:12px;"&gt;（ベビーケアコース）&lt;/span&gt;が始まった。&lt;/p&gt;
-
-&lt;p&gt;今日必要なものは赤ちゃんの人形、おしめ、ボディオイル。&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツでの妊娠　へバメさんワークショップ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/15/hebamme-2/"/>
-    <id>http://myblog.com/articles/jp/2021/06/15/hebamme-2/</id>
-    <published>2021-06-15T00:00:00+02:00</published>
-    <updated>2021-07-11T13:44:00+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;へバメさんとは月１クリニックで行われる面談とは別に、妊娠５ヶ月目から週に１回&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;「妊娠について」の講義&lt;/li&gt;
-  &lt;li&gt;マタニティエクササイズ&lt;/li&gt;
-  &lt;li&gt;呼吸の練習&lt;/li&gt;
- ...&lt;/ul&gt;</summary>
   </entry>
 </feed>
