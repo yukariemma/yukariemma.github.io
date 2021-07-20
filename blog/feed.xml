@@ -5,10 +5,57 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-23T00:00:00+02:00</updated>
+  <updated>2021-06-26T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>夢のなかで…</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/26/yume-no-naka/"/>
+    <id>http://myblog.com/articles/jp/2021/06/26/yume-no-naka/</id>
+    <published>2021-06-26T00:00:00+02:00</published>
+    <updated>2021-07-20T17:17:02+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２５週と３日。&lt;/p&gt;
+
+&lt;p&gt;最近夢のなかの自分も妊娠している。&lt;/p&gt;
+
+&lt;p&gt;実際に若丸くんが動いてるのか、夢のなかのことなのかわからんけど、若丸くんがすんごい動いてる夢を見た...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>りんごひとつ分</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/25/ringo-hitotsu/"/>
+    <id>http://myblog.com/articles/jp/2021/06/25/ringo-hitotsu/</id>
+    <published>2021-06-25T00:00:00+02:00</published>
+    <updated>2021-07-20T16:49:36+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;先週でへバメコースが終了した。&lt;/p&gt;
+
+&lt;p&gt;日に日に胎動が強くなる今日この頃。&lt;/p&gt;
+
+&lt;p&gt;最初は「にょろにょろ」だったのが「ぽこん」に変わり、今は「ボコっ」と動く。&lt;br&gt;
+動く場...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>着帯式inベルリン</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/24/chakutaishiki/"/>
+    <id>http://myblog.com/articles/jp/2021/06/24/chakutaishiki/</id>
+    <published>2021-06-24T00:00:00+02:00</published>
+    <updated>2021-07-20T16:39:01+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２５週と１日。&lt;/p&gt;
+
+&lt;p&gt;今日は戌の日ということで着帯式をした。&lt;/p&gt;
+
+&lt;p&gt;両親が５ヶ月の戌の日に中山寺に安産祈願に行ってくれ、腹帯をいただいてきてくれました。&lt;br&gt;
+コロナ禍...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Hope</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/23/hope/"/>
@@ -48,51 +95,5 @@
     <summary type="html">&lt;p&gt;ドイツでは日本と一緒で予定日前６週、後８週産休がとれる。&lt;br&gt;
 その後夫婦で最大３６ヶ月の育休がとれる。&lt;br&gt;
 お母さんがまるまるとってもいいし、夫婦（あるいはパート...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>主人と息子の会話</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/20/conversation/"/>
-    <id>http://myblog.com/articles/jp/2021/06/20/conversation/</id>
-    <published>2021-06-20T00:00:00+02:00</published>
-    <updated>2021-07-14T14:06:54+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;主人はよくお腹の音を聞きたがる。&lt;/p&gt;
-
-&lt;p&gt;水が流れる音がするのと、心臓の音が聞こえるらしい。&lt;/p&gt;
-
-&lt;p&gt;すると最近主人はお腹に耳を当てながら、&lt;/p&gt;
-
-&lt;p&gt;「あーはいはい。うん、...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>鉄分不足</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/19/need-eisen/"/>
-    <id>http://myblog.com/articles/jp/2021/06/19/need-eisen/</id>
-    <published>2021-06-19T00:00:00+02:00</published>
-    <updated>2021-07-14T13:58:33+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日はおばあちゃんのところで診察だった。&lt;/p&gt;
-
-&lt;p&gt;昨日超音波をしているので、おばあちゃんのところではなし。&lt;/p&gt;
-
-&lt;p&gt;いつも通り、体重、血圧、尿検査があり、おばあちゃん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツの病院事情</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/18/krankenhaus/"/>
-    <id>http://myblog.com/articles/jp/2021/06/18/krankenhaus/</id>
-    <published>2021-06-18T00:00:00+02:00</published>
-    <updated>2021-07-13T17:33:25+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツの妊娠における病院事情はややこしい。&lt;/p&gt;
-
-&lt;p&gt;まず妊娠がわかったら探すのは婦人科とへバメ&lt;span style="font-size:12px;"&gt;（助産婦さん）&lt;/span&gt;。&lt;br&gt;
-あたしたちの場合はおばあちゃんとへバメのオクサナ...&lt;/p&gt;</summary>
   </entry>
 </feed>
