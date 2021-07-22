@@ -5,10 +5,47 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-26T00:00:00+02:00</updated>
+  <updated>2021-06-28T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>明日から産休です</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/28/last-day-at-work/"/>
+    <id>http://myblog.com/articles/jp/2021/06/28/last-day-at-work/</id>
+    <published>2021-06-28T00:00:00+02:00</published>
+    <updated>2021-07-22T10:46:35+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２５週と６日。&lt;/p&gt;
+
+&lt;p&gt;スイカが美味しくなってきた６月。&lt;/p&gt;
+
+&lt;p&gt;今日は仕事最後の日だった。&lt;/p&gt;
+
+&lt;p&gt;今週は最後の引き継ぎや、やり残したコードを書いたりしてた。&lt;/p&gt;
+
+&lt;p&gt;チームが...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>あと１００日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/27/100-days/"/>
+    <id>http://myblog.com/articles/jp/2021/06/27/100-days/</id>
+    <published>2021-06-27T00:00:00+02:00</published>
+    <updated>2021-07-22T10:40:04+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２５週と５日。&lt;/p&gt;
+
+&lt;p&gt;今日で出産予定日まで残り１００日！&lt;/p&gt;
+
+&lt;p&gt;あと３ヶ月ちょっとか〜。&lt;/p&gt;
+
+&lt;p&gt;最初の２ヶ月はとにかく遅々として進まなかった。&lt;br&gt;
+１２週を過ぎ、ほっと安...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>夢のなかで…</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/26/yume-no-naka/"/>
@@ -68,32 +105,5 @@
     <summary type="html">&lt;p&gt;３月１７日のあの日、心疾患があると伝えられた日から２ヶ月半、長かったなぁ。&lt;/p&gt;
 
 &lt;p&gt;これまでの人生で聞いたことも見たことももなかった単語を聞いては調べ、あらゆる...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>羊水検査の結果　遺伝子</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/22/amniocentesis-3/"/>
-    <id>http://myblog.com/articles/jp/2021/06/22/amniocentesis-3/</id>
-    <published>2021-06-22T00:00:00+02:00</published>
-    <updated>2021-07-16T11:49:57+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２３週と５日。&lt;/p&gt;
-
-&lt;p&gt;チームへの報告も済ませ、日本から届いた荷物の税関申告も終わり、先週からむずむずしてたことの３分の２が片付いた金曜日。&lt;br&gt;
-今日で遺伝子検査の...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツの産休育休事情</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/21/parental-leave/"/>
-    <id>http://myblog.com/articles/jp/2021/06/21/parental-leave/</id>
-    <published>2021-06-21T00:00:00+02:00</published>
-    <updated>2021-07-16T18:51:16+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ドイツでは日本と一緒で予定日前６週、後８週産休がとれる。&lt;br&gt;
-その後夫婦で最大３６ヶ月の育休がとれる。&lt;br&gt;
-お母さんがまるまるとってもいいし、夫婦（あるいはパート...&lt;/p&gt;</summary>
   </entry>
 </feed>
