@@ -5,10 +5,27 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-28T00:00:00+02:00</updated>
+  <updated>2021-06-29T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ドイツの婦人科事情</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/29/gynecologist/"/>
+    <id>http://myblog.com/articles/jp/2021/06/29/gynecologist/</id>
+    <published>2021-06-29T00:00:00+02:00</published>
+    <updated>2021-07-24T09:46:23+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;２６週と２日。&lt;/p&gt;
+
+&lt;p&gt;今日は朝からおばあちゃん&lt;span style="font-size:12px;"&gt;（かかりつけの婦人科の先生）&lt;/span&gt;のところだった。&lt;/p&gt;
+
+&lt;p&gt;血糖値検査があるので、朝から何も食べないよう言われてた。&lt;/p&gt;
+
+&lt;p&gt;着い...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>明日から産休です</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/28/last-day-at-work/"/>
@@ -92,18 +109,5 @@
 
 &lt;p&gt;両親が５ヶ月の戌の日に中山寺に安産祈願に行ってくれ、腹帯をいただいてきてくれました。&lt;br&gt;
 コロナ禍...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Hope</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/23/hope/"/>
-    <id>http://myblog.com/articles/jp/2021/06/23/hope/</id>
-    <published>2021-06-23T00:00:00+02:00</published>
-    <updated>2021-07-16T11:55:53+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;３月１７日のあの日、心疾患があると伝えられた日から２ヶ月半、長かったなぁ。&lt;/p&gt;
-
-&lt;p&gt;これまでの人生で聞いたことも見たことももなかった単語を聞いては調べ、あらゆる...&lt;/p&gt;</summary>
   </entry>
 </feed>
