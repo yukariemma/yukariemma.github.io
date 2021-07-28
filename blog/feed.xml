@@ -5,16 +5,43 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-06-30T00:00:00+02:00</updated>
+  <updated>2021-07-02T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>小児心臓外科医による初めての診断　つづき</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/02/pediatric-cardiology-2/"/>
+    <id>http://myblog.com/articles/jp/2021/07/02/pediatric-cardiology-2/</id>
+    <published>2021-07-02T00:00:00+02:00</published>
+    <updated>2021-07-28T16:05:32+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ウェーブの先生はまずDr. Liepeからの診断書を読み、赤ちゃんの問題は理解してるか、と聞かれた。&lt;/p&gt;
+
+&lt;p&gt;そして「ぼくの心臓外科医の友達をちょっと呼ぶよ」と...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>小児心臓外科医による初めての診断</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/01/pediatric-cardiology/"/>
+    <id>http://myblog.com/articles/jp/2021/07/01/pediatric-cardiology/</id>
+    <published>2021-07-01T00:00:00+02:00</published>
+    <updated>2021-07-28T16:02:36+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;８ヶ月も２週過ぎた３０週と１日。&lt;br&gt;
+今日は初めて出産する病院での検診だった。&lt;/p&gt;
+
+&lt;p&gt;ヨーロッパを代表するこの病院は、壮大な門を抜けると、真ん中の芝生を挟んで、診...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>４度目の心臓チェック</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/30/fourth-checkup/"/>
     <id>http://myblog.com/articles/jp/2021/06/30/fourth-checkup/</id>
     <published>2021-06-30T00:00:00+02:00</published>
-    <updated>2021-07-26T15:54:04+02:00</updated>
+    <updated>2021-07-26T15:57:28+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -77,36 +104,5 @@
 
 &lt;p&gt;最初の２ヶ月はとにかく遅々として進まなかった。&lt;br&gt;
 １２週を過ぎ、ほっと安...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>夢のなかで…</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/26/yume-no-naka/"/>
-    <id>http://myblog.com/articles/jp/2021/06/26/yume-no-naka/</id>
-    <published>2021-06-26T00:00:00+02:00</published>
-    <updated>2021-07-20T17:17:02+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２５週と３日。&lt;/p&gt;
-
-&lt;p&gt;最近夢のなかの自分も妊娠している。&lt;/p&gt;
-
-&lt;p&gt;実際に若丸くんが動いてるのか、夢のなかのことなのかわからんけど、若丸くんがすんごい動いてる夢を見た...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>りんごひとつ分</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/25/ringo-hitotsu/"/>
-    <id>http://myblog.com/articles/jp/2021/06/25/ringo-hitotsu/</id>
-    <published>2021-06-25T00:00:00+02:00</published>
-    <updated>2021-07-20T16:49:36+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;先週でへバメコースが終了した。&lt;/p&gt;
-
-&lt;p&gt;日に日に胎動が強くなる今日この頃。&lt;/p&gt;
-
-&lt;p&gt;最初は「にょろにょろ」だったのが「ぽこん」に変わり、今は「ボコっ」と動く。&lt;br&gt;
-動く場...&lt;/p&gt;</summary>
   </entry>
 </feed>
