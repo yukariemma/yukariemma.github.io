@@ -5,10 +5,41 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-07-02T00:00:00+02:00</updated>
+  <updated>2021-07-25T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>いきなりお腹が重くなった</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/25/nine-months/"/>
+    <id>http://myblog.com/articles/jp/2021/07/25/nine-months/</id>
+    <published>2021-07-25T00:00:00+02:00</published>
+    <updated>2021-07-29T17:36:18+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;９ヶ月&lt;span style="font-size:12px;"&gt;（３２週）&lt;/span&gt;に入った。&lt;br&gt;
+臨月まで１ヶ月をきった。&lt;/p&gt;
+
+&lt;p&gt;３週間前のホリデーから帰ってきてから、一段とお腹が重く、動きにくくなった気がする。&lt;/p&gt;
+
+&lt;p&gt;動きづらいし...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>優しさに感動した日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/03/kindness/"/>
+    <id>http://myblog.com/articles/jp/2021/07/03/kindness/</id>
+    <published>2021-07-03T00:00:00+02:00</published>
+    <updated>2021-07-29T17:14:56+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;３０週と５日。&lt;/p&gt;
+
+&lt;p&gt;今日は大使館に用事があったのでひとりお出かけしていた。&lt;/p&gt;
+
+&lt;p&gt;その帰り、Ubahn&lt;span style="font-size:12px;"&gt;（ドイツの地下鉄）&lt;/span&gt;に乗るとすごい混んでて仕方なくドアのとこ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>小児心臓外科医による初めての診断　つづき</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/02/pediatric-cardiology-2/"/>
@@ -67,42 +98,5 @@
 &lt;p&gt;血糖値検査があるので、朝から何も食べないよう言われてた。&lt;/p&gt;
 
 &lt;p&gt;着い...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>明日から産休です</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/28/last-day-at-work/"/>
-    <id>http://myblog.com/articles/jp/2021/06/28/last-day-at-work/</id>
-    <published>2021-06-28T00:00:00+02:00</published>
-    <updated>2021-07-22T10:46:35+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２５週と６日。&lt;/p&gt;
-
-&lt;p&gt;スイカが美味しくなってきた６月。&lt;/p&gt;
-
-&lt;p&gt;今日は仕事最後の日だった。&lt;/p&gt;
-
-&lt;p&gt;今週は最後の引き継ぎや、やり残したコードを書いたりしてた。&lt;/p&gt;
-
-&lt;p&gt;チームが...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>あと１００日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/27/100-days/"/>
-    <id>http://myblog.com/articles/jp/2021/06/27/100-days/</id>
-    <published>2021-06-27T00:00:00+02:00</published>
-    <updated>2021-07-22T10:40:04+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２５週と５日。&lt;/p&gt;
-
-&lt;p&gt;今日で出産予定日まで残り１００日！&lt;/p&gt;
-
-&lt;p&gt;あと３ヶ月ちょっとか〜。&lt;/p&gt;
-
-&lt;p&gt;最初の２ヶ月はとにかく遅々として進まなかった。&lt;br&gt;
-１２週を過ぎ、ほっと安...&lt;/p&gt;</summary>
   </entry>
 </feed>
