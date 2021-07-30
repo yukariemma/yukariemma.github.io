@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-07-25T00:00:00+02:00</updated>
+  <updated>2021-07-30T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>コンビニに行きたくて</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/30/convenience-store/"/>
+    <id>http://myblog.com/articles/jp/2021/07/30/convenience-store/</id>
+    <published>2021-07-30T00:00:00+02:00</published>
+    <updated>2021-07-30T10:58:48+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;オリンピックもあっという間に半分過ぎ、明日で７月も終わろうかという今日この頃。&lt;/p&gt;
+
+&lt;p&gt;産休をいいことに、開会式は最初から最後まで見ましたが、肝心の試合は時差も...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>いきなりお腹が重くなった</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/25/nine-months/"/>
@@ -81,22 +94,5 @@
 &lt;p&gt;今日は４回目のウルトラ超音波検診だった。&lt;/p&gt;
 
 &lt;p&gt;ここドイツでは長くて暗いロックダウンがようやく終わり、レストランやお店も今月&lt;span style="font-size:12px;"&gt;（６月）&lt;/span&gt;から一斉...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツの婦人科事情</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/29/gynecologist/"/>
-    <id>http://myblog.com/articles/jp/2021/06/29/gynecologist/</id>
-    <published>2021-06-29T00:00:00+02:00</published>
-    <updated>2021-07-25T17:39:01+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２６週と２日。&lt;/p&gt;
-
-&lt;p&gt;今日は朝からおばあちゃん&lt;span style="font-size:12px;"&gt;（かかりつけの婦人科の先生）&lt;/span&gt;のところだった。&lt;/p&gt;
-
-&lt;p&gt;血糖値検査があるので、朝から何も食べないよう言われてた。&lt;/p&gt;
-
-&lt;p&gt;着い...&lt;/p&gt;</summary>
   </entry>
 </feed>
