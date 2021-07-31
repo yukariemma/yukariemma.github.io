@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-07-30T00:00:00+02:00</updated>
+  <updated>2021-07-31T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ベイビームーン</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/31/babymoon/"/>
+    <id>http://myblog.com/articles/jp/2021/07/31/babymoon/</id>
+    <published>2021-07-31T00:00:00+02:00</published>
+    <updated>2021-07-30T11:29:27+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;旅編第六回は&lt;strong&gt;オーストリア（2021.6月）&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;出産前に旅行に行こう！ということで、行ってきました「産前旅行」。&lt;/p&gt;
+
+&lt;p&gt;英語では"Babymoon"というらし...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>コンビニに行きたくて</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/30/convenience-store/"/>
@@ -79,20 +94,5 @@
 今日は初めて出産する病院での検診だった。&lt;/p&gt;
 
 &lt;p&gt;ヨーロッパを代表するこの病院は、壮大な門を抜けると、真ん中の芝生を挟んで、診...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>４度目の心臓チェック</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/06/30/fourth-checkup/"/>
-    <id>http://myblog.com/articles/jp/2021/06/30/fourth-checkup/</id>
-    <published>2021-06-30T00:00:00+02:00</published>
-    <updated>2021-07-26T15:57:28+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;２６週と４日。&lt;/p&gt;
-
-&lt;p&gt;今日は４回目のウルトラ超音波検診だった。&lt;/p&gt;
-
-&lt;p&gt;ここドイツでは長くて暗いロックダウンがようやく終わり、レストランやお店も今月&lt;span style="font-size:12px;"&gt;（６月）&lt;/span&gt;から一斉...&lt;/p&gt;</summary>
   </entry>
 </feed>
