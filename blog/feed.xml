@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-07-31T00:00:00+02:00</updated>
+  <updated>2021-08-01T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>お誕生日はザルツブルクで</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/01/salzburg/"/>
+    <id>http://myblog.com/articles/jp/2021/08/01/salzburg/</id>
+    <published>2021-08-01T00:00:00+02:00</published>
+    <updated>2021-07-31T17:59:36+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/07/31/babymoon/" target="_blank" class="external-link"&gt;旅編第六回オーストリア&lt;/a&gt; はこちら。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;あたしのお誕生日にスタートしたオーストリアへの旅は&lt;strong&gt;ザルツブルク&lt;/strong&gt;から始まりました。&lt;/p&gt;
+
+&lt;p&gt;ベルリンからザルツブルクまでいっ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ベイビームーン</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/31/babymoon/"/>
@@ -80,19 +95,5 @@
     <summary type="html">&lt;p&gt;ウェーブの先生はまずDr. Liepeからの診断書を読み、赤ちゃんの問題は理解してるか、と聞かれた。&lt;/p&gt;
 
 &lt;p&gt;そして「ぼくの心臓外科医の友達をちょっと呼ぶよ」と...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>小児心臓外科医による初めての診断</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/01/pediatric-cardiology/"/>
-    <id>http://myblog.com/articles/jp/2021/07/01/pediatric-cardiology/</id>
-    <published>2021-07-01T00:00:00+02:00</published>
-    <updated>2021-07-28T16:02:36+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;８ヶ月も２週過ぎた３０週と１日。&lt;br&gt;
-今日は初めて出産する病院での検診だった。&lt;/p&gt;
-
-&lt;p&gt;ヨーロッパを代表するこの病院は、壮大な門を抜けると、真ん中の芝生を挟んで、診...&lt;/p&gt;</summary>
   </entry>
 </feed>
