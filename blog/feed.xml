@@ -5,22 +5,41 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-08-02T00:00:00+02:00</updated>
+  <updated>2021-08-03T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>音楽の都　ウィーン</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/03/vienna/"/>
+    <id>http://myblog.com/articles/jp/2021/08/03/vienna/</id>
+    <published>2021-08-03T00:00:00+02:00</published>
+    <updated>2021-08-03T14:48:01+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/07/31/babymoon/" target="_blank" class="external-link"&gt;旅編第六回オーストリア&lt;/a&gt;｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/01/salzburg/" target="_blank" class="external-link"&gt;ザルツブルク前編&lt;/a&gt; ｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/02/sound-of-music/" target="_blank" class="external-link"&gt;ザルツブルク後編&lt;/a&gt;
+はこちら。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;ザルツブルクより車で約３時間。&lt;br&gt;
+やってきました音楽の都&lt;strong&gt;ウィーン&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;主人の...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>サウンドオブミュージックとモーツァルト</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/02/sound-of-music/"/>
     <id>http://myblog.com/articles/jp/2021/08/02/sound-of-music/</id>
     <published>2021-08-02T00:00:00+02:00</published>
-    <updated>2021-08-02T11:51:50+02:00</updated>
+    <updated>2021-08-02T11:54:52+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/07/31/babymoon/" target="_blank" class="external-link"&gt;旅編第六回オーストリア&lt;/a&gt;｜
-&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/08/01/salzburg/" target="_blank" class="external-link"&gt;ザルツブルク前編&lt;/a&gt;
-はこちら。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/01/salzburg/" target="_blank" class="external-link"&gt;ザルツブルク前編&lt;/a&gt;
+はこちら。&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ザルツブルク&lt;/strong&gt;２日目の朝。&lt;/p&gt;
 
@@ -85,20 +104,5 @@
 &lt;p&gt;３週間前のホリデーから帰ってきてから、一段とお腹が重く、動きにくくなった気がする。&lt;/p&gt;
 
 &lt;p&gt;動きづらいし...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>優しさに感動した日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/03/kindness/"/>
-    <id>http://myblog.com/articles/jp/2021/07/03/kindness/</id>
-    <published>2021-07-03T00:00:00+02:00</published>
-    <updated>2021-07-29T17:14:56+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;３０週と５日。&lt;/p&gt;
-
-&lt;p&gt;今日は大使館に用事があったのでひとりお出かけしていた。&lt;/p&gt;
-
-&lt;p&gt;その帰り、Ubahn&lt;span style="font-size:12px;"&gt;（ドイツの地下鉄）&lt;/span&gt;に乗るとすごい混んでて仕方なくドアのとこ...&lt;/p&gt;</summary>
   </entry>
 </feed>
