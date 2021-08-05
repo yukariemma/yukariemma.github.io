@@ -5,10 +5,28 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-08-04T00:00:00+02:00</updated>
+  <updated>2021-08-05T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>オリンピックの町　インスブルック</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/05/innsbruck/"/>
+    <id>http://myblog.com/articles/jp/2021/08/05/innsbruck/</id>
+    <published>2021-08-05T00:00:00+02:00</published>
+    <updated>2021-08-05T08:47:03+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/07/31/babymoon/" target="_blank" class="external-link"&gt;旅編第六回オーストリア&lt;/a&gt;｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/01/salzburg/" target="_blank" class="external-link"&gt;ザルツブルク前編&lt;/a&gt; ｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/02/sound-of-music/" target="_blank" class="external-link"&gt;ザルツブルク後編&lt;/a&gt; ｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/03/vienna/" target="_blank" class="external-link"&gt;ウィーン前編&lt;/a&gt;｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/04/vienna-2/" target="_blank" class="external-link"&gt;ウィーン後編&lt;/a&gt;
+はこちら。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;クロワッサンとコーヒーで簡単に朝ごはんを...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>１０キロ歩いたウィーンの町</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/04/vienna-2/"/>
@@ -94,18 +112,5 @@
 &lt;p&gt;出産前に旅行に行こう！ということで、行ってきました「産前旅行」。&lt;/p&gt;
 
 &lt;p&gt;英語では"Babymoon"というらし...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>コンビニに行きたくて</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/30/convenience-store/"/>
-    <id>http://myblog.com/articles/jp/2021/07/30/convenience-store/</id>
-    <published>2021-07-30T00:00:00+02:00</published>
-    <updated>2021-07-30T10:58:48+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;オリンピックもあっという間に半分過ぎ、明日で７月も終わろうかという今日この頃。&lt;/p&gt;
-
-&lt;p&gt;産休をいいことに、開会式は最初から最後まで見ましたが、肝心の試合は時差も...&lt;/p&gt;</summary>
   </entry>
 </feed>
