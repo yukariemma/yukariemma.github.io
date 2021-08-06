@@ -5,27 +5,47 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-08-05T00:00:00+02:00</updated>
+  <updated>2021-08-06T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>オリンピックの町　インスブルック</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/05/innsbruck/"/>
-    <id>http://myblog.com/articles/jp/2021/08/05/innsbruck/</id>
-    <published>2021-08-05T00:00:00+02:00</published>
-    <updated>2021-08-05T08:47:03+02:00</updated>
+    <title>ノイシュバンシュタイン城とローテンブルク</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/06/neuschwanstein/"/>
+    <id>http://myblog.com/articles/jp/2021/08/06/neuschwanstein/</id>
+    <published>2021-08-06T00:00:00+02:00</published>
+    <updated>2021-08-06T09:44:14+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/07/31/babymoon/" target="_blank" class="external-link"&gt;旅編第六回オーストリア&lt;/a&gt;｜
 &lt;a href="http://mycoupy.com/articles/jp/2021/08/01/salzburg/" target="_blank" class="external-link"&gt;ザルツブルク前編&lt;/a&gt; ｜
 &lt;a href="http://mycoupy.com/articles/jp/2021/08/02/sound-of-music/" target="_blank" class="external-link"&gt;ザルツブルク後編&lt;/a&gt; ｜
-&lt;a href="http://mycoupy.com/articles/jp/2021/08/03/vienna/" target="_blank" class="external-link"&gt;ウィーン前編&lt;/a&gt;｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/03/vienna/" target="_blank" class="external-link"&gt;ウィーン前編&lt;/a&gt; |
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/04/vienna-2/" target="_blank" class="external-link"&gt;ウィーン後編&lt;/a&gt; |
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/05/innsbruck/" target="_blank" class="external-link"&gt;インスブルック&lt;/a&gt; 
+はこちら。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;かなしいかな。&lt;br&gt;
+...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>オリンピックの町　インスブルック</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/05/innsbruck/"/>
+    <id>http://myblog.com/articles/jp/2021/08/05/innsbruck/</id>
+    <published>2021-08-05T00:00:00+02:00</published>
+    <updated>2021-08-05T09:41:58+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;&lt;a href="http://mycoupy.com/articles/jp/2021/07/31/babymoon/" target="_blank" class="external-link"&gt;旅編第六回オーストリア&lt;/a&gt;｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/01/salzburg/" target="_blank" class="external-link"&gt;ザルツブルク前編&lt;/a&gt; ｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/02/sound-of-music/" target="_blank" class="external-link"&gt;ザルツブルク後編&lt;/a&gt; ｜
+&lt;a href="http://mycoupy.com/articles/jp/2021/08/03/vienna/" target="_blank" class="external-link"&gt;ウィーン前編&lt;/a&gt; |
 &lt;a href="http://mycoupy.com/articles/jp/2021/08/04/vienna-2/" target="_blank" class="external-link"&gt;ウィーン後編&lt;/a&gt;
 はこちら。&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;クロワッサンとコーヒーで簡単に朝ごはんを...&lt;/p&gt;</summary>
+&lt;p&gt;クロワッサンとコーヒーで簡単に朝ごはん...&lt;/p&gt;</summary>
   </entry>
   <entry>
     <title>１０キロ歩いたウィーンの町</title>
@@ -97,20 +117,5 @@
 &lt;p&gt;あたしのお誕生日にスタートしたオーストリアへの旅は&lt;strong&gt;ザルツブルク&lt;/strong&gt;から始まりました。&lt;/p&gt;
 
 &lt;p&gt;ベルリンからザルツブルクまでいっ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ベイビームーン</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/07/31/babymoon/"/>
-    <id>http://myblog.com/articles/jp/2021/07/31/babymoon/</id>
-    <published>2021-07-31T00:00:00+02:00</published>
-    <updated>2021-07-30T11:29:27+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;旅編第六回は&lt;strong&gt;オーストリア（2021.6月）&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;出産前に旅行に行こう！ということで、行ってきました「産前旅行」。&lt;/p&gt;
-
-&lt;p&gt;英語では"Babymoon"というらし...&lt;/p&gt;</summary>
   </entry>
 </feed>
