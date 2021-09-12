@@ -5,10 +5,42 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-09-02T00:00:00+02:00</updated>
+  <updated>2021-09-10T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>決断と決心</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/10/kaiserschnitt/"/>
+    <id>http://myblog.com/articles/jp/2021/09/10/kaiserschnitt/</id>
+    <published>2021-09-10T00:00:00+02:00</published>
+    <updated>2021-09-12T19:34:32+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;３８週と５日。&lt;/p&gt;
+
+&lt;p&gt;病院としてなぜ帝王切開を勧めるかの説明を受け、&lt;br&gt;
+それでも自然分娩を望む場合は病院としてその意思を尊重すること、&lt;br&gt;
+大切なことなのであたしが...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>まさかの</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/09/last-surprise/"/>
+    <id>http://myblog.com/articles/jp/2021/09/09/last-surprise/</id>
+    <published>2021-09-09T00:00:00+02:00</published>
+    <updated>2021-09-12T18:51:44+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;３８週と４日。&lt;/p&gt;
+
+&lt;p&gt;陣痛はまだかまだかと待つ日々にそれは突然訪れた。&lt;/p&gt;
+
+&lt;p&gt;産む病院の先生から届いた１通のメール。&lt;/p&gt;
+
+&lt;p&gt;そこには「過去に行われた手術内容から帝王切...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>人生</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/02/life/"/>
@@ -69,35 +101,5 @@
 &lt;p&gt;頻繁にポジションを変えないと寝れない。&lt;/p&gt;
 
 &lt;p&gt;でも寝返りを打つのも簡単ではな...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>生まれる前にやっとくこと</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/20/todo-before-birth/"/>
-    <id>http://myblog.com/articles/jp/2021/08/20/todo-before-birth/</id>
-    <published>2021-08-20T00:00:00+02:00</published>
-    <updated>2021-08-23T10:44:14+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;臨月も近づき、生まれる前にやっとくことがようやっと片付きました。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;その１＜歯医者＞&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ドイツに来てから最初の２年は年一で日本に帰ってたので、その度に検診...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>胎児心拍陣痛図</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/19/ctg/"/>
-    <id>http://myblog.com/articles/jp/2021/08/19/ctg/</id>
-    <published>2021-08-19T00:00:00+02:00</published>
-    <updated>2021-08-23T10:00:21+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;３５週と４日。&lt;/p&gt;
-
-&lt;p&gt;おばあちゃん&lt;span style="font-size:12px;"&gt;（あたしのかかりつけ婦人科医）&lt;/span&gt;のところで若丸くんの心拍数を測ってくれた。&lt;/p&gt;
-
-&lt;p&gt;これはCTG&lt;span style="font-size:12px;"&gt;（胎児心拍陣痛図）&lt;/span&gt;というもので、寝転...&lt;/p&gt;</summary>
   </entry>
 </feed>
