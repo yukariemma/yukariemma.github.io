@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-09-13T00:00:00+02:00</updated>
+  <updated>2021-09-14T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>母になった日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/14/a-day-i-became-a-mother/"/>
+    <id>http://myblog.com/articles/jp/2021/09/14/a-day-i-became-a-mother/</id>
+    <published>2021-09-14T00:00:00+02:00</published>
+    <updated>2021-10-03T17:37:15+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;母になった日のことを、初めて我が子に会ったあの瞬間のことを、表現できる言葉は見つからない。&lt;/p&gt;
+
+&lt;p&gt;最初は泣き声だった。&lt;/p&gt;
+
+&lt;p&gt;帝王切開だし、心疾患があるし、泣いて...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>A Day To Be A Mother</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/13/a-day-to-be-a-mother/"/>
@@ -87,17 +102,5 @@
 
 &lt;p&gt;そしてなにか考え中の主人。&lt;/p&gt;
 ...</summary>
-  </entry>
-  <entry>
-    <title>梨と読書とガールズトーク</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/27/pair-and-book/"/>
-    <id>http://myblog.com/articles/jp/2021/08/27/pair-and-book/</id>
-    <published>2021-08-27T00:00:00+02:00</published>
-    <updated>2021-09-02T14:44:54+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;a href="http://mycoupy.com/articles/jp/2020/06/13/strawberry/" target="_blank" class="external-link"&gt;いちごスタンド&lt;/a&gt;がクローズし、梨がおいしくなってきた８月後半。&lt;br&gt;
-ベルリンは最高気温も２３度くらいの過ごしやすい季節になり、早くもしかし着実に秋は近づいてきて...&lt;/p&gt;</summary>
   </entry>
 </feed>
