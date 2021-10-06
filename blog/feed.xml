@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-09-14T00:00:00+02:00</updated>
+  <updated>2021-09-15T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>出産から手術まで（１. 出産当日）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/15/birth/"/>
+    <id>http://myblog.com/articles/jp/2021/09/15/birth/</id>
+    <published>2021-09-15T00:00:00+02:00</published>
+    <updated>2021-10-06T22:01:31+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;生まれてすぐ若丸くんは隣の部屋に連れて行かれ、検査が行われた。&lt;/p&gt;
+
+&lt;p&gt;あたしはまだお腹が開いたまま出産後の抑揚感と緊張と麻酔で空中を彷徨ってるような感覚で、今...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>母になった日</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/14/a-day-i-became-a-mother/"/>
@@ -85,22 +98,5 @@
     <summary type="html">&lt;p&gt;壮大なタイトルですが、息子を産み母になる前に、この２０年ぐらいを振り返ってみて思うことを綴っておこうと。&lt;/p&gt;
 
 &lt;p&gt;人生を変える&lt;span style="font-size:12px;"&gt;（「変える」というには後付けで言う...&lt;/span&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>二人きりの最後の結婚記念日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/08/29/wedding-anniversary/"/>
-    <id>http://myblog.com/articles/jp/2021/08/29/wedding-anniversary/</id>
-    <published>2021-08-29T00:00:00+02:00</published>
-    <updated>2021-09-02T14:50:13+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;結婚記念日が迫ったある日。&lt;/p&gt;
-
-&lt;p&gt;「あのイタリアン行こうよー。何年か前に夜の１０時から行ったとこ。」&lt;br&gt;
-&lt;span style="font-size:12px;"&gt;（それについては&lt;a href="http://mycoupy.com/articles/jp/2020/02/19/three-years/" target="_blank" class="external-link"&gt;こちら&lt;/a&gt;）&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;そしてなにか考え中の主人。&lt;/p&gt;
-...</summary>
   </entry>
 </feed>
