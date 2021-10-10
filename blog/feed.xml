@@ -5,98 +5,93 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-09-15T00:00:00+02:00</updated>
+  <updated>2021-09-24T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>出産から手術まで（１. 出産当日）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/15/birth/"/>
-    <id>http://myblog.com/articles/jp/2021/09/15/birth/</id>
-    <published>2021-09-15T00:00:00+02:00</published>
-    <updated>2021-10-06T22:01:31+02:00</updated>
+    <title>出産から手術まで（８. 手術当日）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/24/surgery/"/>
+    <id>http://myblog.com/articles/jp/2021/09/24/surgery/</id>
+    <published>2021-09-24T00:00:00+02:00</published>
+    <updated>2021-10-10T10:48:47+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;生まれてすぐ若丸くんは隣の部屋に連れて行かれ、検査が行われた。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;予定通り朝の７時半に手術室に入っていった。&lt;/p&gt;
 
-&lt;p&gt;あたしはまだお腹が開いたまま出産後の抑揚感と緊張と麻酔で空中を彷徨ってるような感覚で、今...&lt;/p&gt;</summary>
+&lt;p&gt;執刀医の先生がやってきて、話をしてくれた。&lt;/p&gt;
+
+&lt;p&gt;若丸くんの冠動脈は壁内走行ではないにせよ、最もよくある形でもな...&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>母になった日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/14/a-day-i-became-a-mother/"/>
-    <id>http://myblog.com/articles/jp/2021/09/14/a-day-i-became-a-mother/</id>
-    <published>2021-09-14T00:00:00+02:00</published>
-    <updated>2021-10-03T17:37:15+02:00</updated>
+    <title>出産から手術まで（７. 心臓カテーテル）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/22/heart-catheter/"/>
+    <id>http://myblog.com/articles/jp/2021/09/22/heart-catheter/</id>
+    <published>2021-09-22T00:00:00+02:00</published>
+    <updated>2021-10-10T10:30:41+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;母になった日のことを、初めて我が子に会ったあの瞬間のことを、表現できる言葉は見つからない。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;冠動脈壁内走行の疑いから２日後、手術前にできるだけ詳しいことがわかっているほうがいいからと心臓カテーテルをすることになった。&lt;/p&gt;
 
-&lt;p&gt;最初は泣き声だった。&lt;/p&gt;
-
-&lt;p&gt;帝王切開だし、心疾患があるし、泣いて...&lt;/p&gt;</summary>
+&lt;p&gt;待っているあいだ壁内走行で...&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>A Day To Be A Mother</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/13/a-day-to-be-a-mother/"/>
-    <id>http://myblog.com/articles/jp/2021/09/13/a-day-to-be-a-mother/</id>
-    <published>2021-09-13T00:00:00+02:00</published>
-    <updated>2021-09-13T18:45:28+02:00</updated>
+    <title>出産から手術まで（６. 冠動脈）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/20/coronary-arteries/"/>
+    <id>http://myblog.com/articles/jp/2021/09/20/coronary-arteries/</id>
+    <published>2021-09-20T00:00:00+02:00</published>
+    <updated>2021-10-10T10:24:10+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;３９週と１日&lt;span style="font-size:12px;"&gt;（若丸くん誕生前日）&lt;/span&gt;。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;出産前から若丸くんの心臓を見てくれていた小児心臓病理学のドクター&lt;span style="font-size:12px;"&gt;（Dr. Wと呼ぶことにします）&lt;/span&gt;がホリデーから帰ってきた。&lt;/p&gt;
 
-&lt;p&gt;病院へPCR検査を受けに行った。&lt;br&gt;
-そして先生と最後の確認。&lt;/p&gt;
-
-&lt;p&gt;日に日に重くなるからだ。&lt;br&gt;
-ずっと起きてる姿勢は骨盤と膀...&lt;/p&gt;</summary>
+&lt;p&gt;ここから良くも悪くも全てが始...&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>決断と決心</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/10/kaiserschnitt/"/>
-    <id>http://myblog.com/articles/jp/2021/09/10/kaiserschnitt/</id>
-    <published>2021-09-10T00:00:00+02:00</published>
-    <updated>2021-09-12T19:34:32+02:00</updated>
+    <title>出産から手術まで（５. 搾乳合宿）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/19/pumping/"/>
+    <id>http://myblog.com/articles/jp/2021/09/19/pumping/</id>
+    <published>2021-09-19T00:00:00+02:00</published>
+    <updated>2021-10-10T10:23:39+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;３８週と５日。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;あたしは出産後３日で退院し、家に帰る予定だった。&lt;/p&gt;
 
-&lt;p&gt;病院としてなぜ帝王切開を勧めるかの説明を受け、&lt;br&gt;
-それでも自然分娩を望む場合は病院としてその意思を尊重すること、&lt;br&gt;
-大切なことなのであたしが...&lt;/p&gt;</summary>
+&lt;p&gt;しかし、手術が中止になった日、搾乳機が家にないことを知ったNICUのナースが、&lt;/p&gt;
+
+&lt;p&gt;「それは大変だから『...&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>まさかの</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/09/last-surprise/"/>
-    <id>http://myblog.com/articles/jp/2021/09/09/last-surprise/</id>
-    <published>2021-09-09T00:00:00+02:00</published>
-    <updated>2021-09-12T18:51:44+02:00</updated>
+    <title>出産から手術まで（４. 手術の中止）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/18/surgery-canceled/"/>
+    <id>http://myblog.com/articles/jp/2021/09/18/surgery-canceled/</id>
+    <published>2021-09-18T00:00:00+02:00</published>
+    <updated>2021-10-10T10:42:40+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;３８週と４日。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;生後3日目。手術の朝。&lt;/p&gt;
 
-&lt;p&gt;陣痛はまだかまだかと待つ日々にそれは突然訪れた。&lt;/p&gt;
+&lt;p&gt;予定より2時間遅れてオペ室へ入っていった。&lt;br&gt;
+これから８時間かぁ、とふたりで病室に帰った瞬間、主人の携帯が鳴った。&lt;/p&gt;
 
-&lt;p&gt;産む病院の先生から届いた１通のメール。&lt;/p&gt;
-
-&lt;p&gt;そこには「過去に行われた手術内容から帝王切...&lt;/p&gt;</summary>
+&lt;p&gt;「緊急の手術...&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>人生</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/02/life/"/>
-    <id>http://myblog.com/articles/jp/2021/09/02/life/</id>
-    <published>2021-09-02T00:00:00+02:00</published>
-    <updated>2021-09-02T15:27:37+02:00</updated>
+    <title>出産から手術まで（３. ＴＧＡ）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/17/tga/"/>
+    <id>http://myblog.com/articles/jp/2021/09/17/tga/</id>
+    <published>2021-09-17T00:00:00+02:00</published>
+    <updated>2021-10-10T09:58:06+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;壮大なタイトルですが、息子を産み母になる前に、この２０年ぐらいを振り返ってみて思うことを綴っておこうと。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;出産後２日目の朝、ドクターがやってきて、手術は明日に予定されたこと、小児心臓外科からドクターが説明に来ることを教えてくれた。&lt;/p&gt;
 
-&lt;p&gt;人生を変える&lt;span style="font-size:12px;"&gt;（「変える」というには後付けで言う...&lt;/span&gt;&lt;/p&gt;</summary>
+&lt;p&gt;若丸くんが生まれた病院は隣...&lt;/p&gt;</summary>
   </entry>
 </feed>
