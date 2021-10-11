@@ -5,10 +5,39 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-09-24T00:00:00+02:00</updated>
+  <updated>2021-10-08T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>術後レポート（２）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/08/after-surgery-report-2/"/>
+    <id>http://myblog.com/articles/jp/2021/10/08/after-surgery-report-2/</id>
+    <published>2021-10-08T00:00:00+02:00</published>
+    <updated>2021-10-11T08:38:20+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;○ 術後９日目&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;体重が出生体重より600gも減っていて悲しくなった。&lt;br&gt;
+それでも大きく生まれてきてくれたので小さいわけではなかったけど、お尻まわりや足が細...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>術後レポート（１）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/01/after-surgery-report-1/"/>
+    <id>http://myblog.com/articles/jp/2021/10/01/after-surgery-report-1/</id>
+    <published>2021-10-01T00:00:00+02:00</published>
+    <updated>2021-10-11T08:33:20+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;ICUはNICUと違って面会時間が決まっており、コロナ禍のため一回につき両親どちらかしか会いに行けなかった。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;○  術後すぐ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;胸は開いたまま、顔は浮腫...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>出産から手術まで（８. 手術当日）</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/24/surgery/"/>
@@ -42,7 +71,7 @@
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/20/coronary-arteries/"/>
     <id>http://myblog.com/articles/jp/2021/09/20/coronary-arteries/</id>
     <published>2021-09-20T00:00:00+02:00</published>
-    <updated>2021-10-10T10:24:10+02:00</updated>
+    <updated>2021-10-11T08:39:17+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -64,34 +93,5 @@
 &lt;p&gt;しかし、手術が中止になった日、搾乳機が家にないことを知ったNICUのナースが、&lt;/p&gt;
 
 &lt;p&gt;「それは大変だから『...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>出産から手術まで（４. 手術の中止）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/18/surgery-canceled/"/>
-    <id>http://myblog.com/articles/jp/2021/09/18/surgery-canceled/</id>
-    <published>2021-09-18T00:00:00+02:00</published>
-    <updated>2021-10-10T10:42:40+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;生後3日目。手術の朝。&lt;/p&gt;
-
-&lt;p&gt;予定より2時間遅れてオペ室へ入っていった。&lt;br&gt;
-これから８時間かぁ、とふたりで病室に帰った瞬間、主人の携帯が鳴った。&lt;/p&gt;
-
-&lt;p&gt;「緊急の手術...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>出産から手術まで（３. ＴＧＡ）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/17/tga/"/>
-    <id>http://myblog.com/articles/jp/2021/09/17/tga/</id>
-    <published>2021-09-17T00:00:00+02:00</published>
-    <updated>2021-10-10T09:58:06+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;出産後２日目の朝、ドクターがやってきて、手術は明日に予定されたこと、小児心臓外科からドクターが説明に来ることを教えてくれた。&lt;/p&gt;
-
-&lt;p&gt;若丸くんが生まれた病院は隣...&lt;/p&gt;</summary>
   </entry>
 </feed>
