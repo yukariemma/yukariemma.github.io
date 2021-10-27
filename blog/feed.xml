@@ -5,10 +5,42 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-10-08T00:00:00+02:00</updated>
+  <updated>2021-10-16T00:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>coming home!</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/16/coming-home/"/>
+    <id>http://myblog.com/articles/jp/2021/10/16/coming-home/</id>
+    <published>2021-10-16T00:00:00+02:00</published>
+    <updated>2021-10-27T15:16:22+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;生後３２日目。&lt;br&gt;
+術後２２日目。&lt;/p&gt;
+
+&lt;p&gt;とうとう息子が退院することになりました。&lt;/p&gt;
+
+&lt;p&gt;モニターのためについていたコードをすべて体からとり、日本から両親が送ってくれ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>術後レポート（３）</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/15/after-surgery-report-3/"/>
+    <id>http://myblog.com/articles/jp/2021/10/15/after-surgery-report-3/</id>
+    <published>2021-10-15T00:00:00+02:00</published>
+    <updated>2021-10-27T12:03:55+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;○ 術後１６日目&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;生まれて初めて外に出ることができた！&lt;br&gt;
+人生初めてのお散歩には最高のお天気で、雲ひとつない快晴だった。&lt;/p&gt;
+
+&lt;p&gt;初めて見る景色、ベッドも窓も機...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>術後レポート（２）</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/08/after-surgery-report-2/"/>
@@ -65,33 +97,5 @@
     <summary type="html">&lt;p&gt;冠動脈壁内走行の疑いから２日後、手術前にできるだけ詳しいことがわかっているほうがいいからと心臓カテーテルをすることになった。&lt;/p&gt;
 
 &lt;p&gt;待っているあいだ壁内走行で...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>出産から手術まで（６. 冠動脈）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/20/coronary-arteries/"/>
-    <id>http://myblog.com/articles/jp/2021/09/20/coronary-arteries/</id>
-    <published>2021-09-20T00:00:00+02:00</published>
-    <updated>2021-10-11T08:39:17+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;出産前から若丸くんの心臓を見てくれていた小児心臓病理学のドクター&lt;span style="font-size:12px;"&gt;（Dr. Wと呼ぶことにします）&lt;/span&gt;がホリデーから帰ってきた。&lt;/p&gt;
-
-&lt;p&gt;ここから良くも悪くも全てが始...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>出産から手術まで（５. 搾乳合宿）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/19/pumping/"/>
-    <id>http://myblog.com/articles/jp/2021/09/19/pumping/</id>
-    <published>2021-09-19T00:00:00+02:00</published>
-    <updated>2021-10-10T10:23:39+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あたしは出産後３日で退院し、家に帰る予定だった。&lt;/p&gt;
-
-&lt;p&gt;しかし、手術が中止になった日、搾乳機が家にないことを知ったNICUのナースが、&lt;/p&gt;
-
-&lt;p&gt;「それは大変だから『...&lt;/p&gt;</summary>
   </entry>
 </feed>
