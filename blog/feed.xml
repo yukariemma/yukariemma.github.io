@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-10-16T00:00:00+02:00</updated>
+  <updated>2021-12-08T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>おっぱい、おしめ時々自分</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/08/wochenbett/"/>
+    <id>http://myblog.com/articles/jp/2021/12/08/wochenbett/</id>
+    <published>2021-12-08T00:00:00+01:00</published>
+    <updated>2021-12-08T14:08:04+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;若丸くんもうすぐ生まれて３ヶ月です。&lt;/p&gt;
+
+&lt;p&gt;今日の今日までブログを綴る余裕も時間も気力もゼロ、むしろマイナスでした。&lt;/p&gt;
+
+&lt;p&gt;３ヶ月を目前にようやくこころに余裕がで...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>coming home!</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/16/coming-home/"/>
@@ -84,18 +99,5 @@
 &lt;p&gt;執刀医の先生がやってきて、話をしてくれた。&lt;/p&gt;
 
 &lt;p&gt;若丸くんの冠動脈は壁内走行ではないにせよ、最もよくある形でもな...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>出産から手術まで（７. 心臓カテーテル）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/09/22/heart-catheter/"/>
-    <id>http://myblog.com/articles/jp/2021/09/22/heart-catheter/</id>
-    <published>2021-09-22T00:00:00+02:00</published>
-    <updated>2021-10-10T10:30:41+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;冠動脈壁内走行の疑いから２日後、手術前にできるだけ詳しいことがわかっているほうがいいからと心臓カテーテルをすることになった。&lt;/p&gt;
-
-&lt;p&gt;待っているあいだ壁内走行で...&lt;/p&gt;</summary>
   </entry>
 </feed>
