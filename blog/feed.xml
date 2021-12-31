@@ -5,10 +5,41 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-12-21T00:00:00+01:00</updated>
+  <updated>2021-12-31T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>２０２１年の最後に</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/31/saigoni/"/>
+    <id>http://myblog.com/articles/jp/2021/12/31/saigoni/</id>
+    <published>2021-12-31T00:00:00+01:00</published>
+    <updated>2021-12-31T18:36:35+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;おせち作りと今晩の鍋の準備を終え、日本が新年を迎え、息子がご機嫌なうちに今年一年を振り返ってみようとパソコンを開いた。&lt;/p&gt;
+
+&lt;p&gt;今年はオリンピック・パラリンピッ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>煮しめの師走</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/30/okuizome/"/>
+    <id>http://myblog.com/articles/jp/2021/12/30/okuizome/</id>
+    <published>2021-12-30T00:00:00+01:00</published>
+    <updated>2021-12-31T18:40:14+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今年も残り１週間とせまった日。&lt;br&gt;
+息子が生誕１００日を迎えた。&lt;/p&gt;
+
+&lt;p&gt;そうか、お食い初めか。&lt;/p&gt;
+
+&lt;p&gt;そもそもお食い初めって何作るんだ？&lt;/p&gt;
+
+&lt;p&gt;そして主人と共に探しまくっ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>クリスマスツリーと読書</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/21/christmastree-and-book/"/>
@@ -70,34 +101,5 @@
 人生初めてのお散歩には最高のお天気で、雲ひとつない快晴だった。&lt;/p&gt;
 
 &lt;p&gt;初めて見る景色、ベッドも窓も機...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>術後レポート（２）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/08/after-surgery-report-2/"/>
-    <id>http://myblog.com/articles/jp/2021/10/08/after-surgery-report-2/</id>
-    <published>2021-10-08T00:00:00+02:00</published>
-    <updated>2021-10-11T08:38:20+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;○ 術後９日目&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;体重が出生体重より600gも減っていて悲しくなった。&lt;br&gt;
-それでも大きく生まれてきてくれたので小さいわけではなかったけど、お尻まわりや足が細...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>術後レポート（１）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/01/after-surgery-report-1/"/>
-    <id>http://myblog.com/articles/jp/2021/10/01/after-surgery-report-1/</id>
-    <published>2021-10-01T00:00:00+02:00</published>
-    <updated>2021-10-11T08:33:20+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;ICUはNICUと違って面会時間が決まっており、コロナ禍のため一回につき両親どちらかしか会いに行けなかった。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;○  術後すぐ&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;胸は開いたまま、顔は浮腫...&lt;/p&gt;</summary>
   </entry>
 </feed>
