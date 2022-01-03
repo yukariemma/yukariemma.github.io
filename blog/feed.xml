@@ -5,10 +5,27 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2021-12-31T00:00:00+01:00</updated>
+  <updated>2022-01-01T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ベルリンdeおせち</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/01/frohes-neues-jahr/"/>
+    <id>http://myblog.com/articles/jp/2022/01/01/frohes-neues-jahr/</id>
+    <published>2022-01-01T00:00:00+01:00</published>
+    <updated>2022-01-03T15:38:40+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;あけましておめでとうございます。&lt;/p&gt;
+
+&lt;p&gt;さて、あけました。&lt;/p&gt;
+
+&lt;p&gt;初めてのおせち作りに精を出し、寝不足に拍車がかかった眠い年明けです。&lt;/p&gt;
+
+&lt;p&gt;我が家は朝はパンとコーヒ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>２０２１年の最後に</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/31/saigoni/"/>
@@ -85,21 +102,5 @@
 &lt;p&gt;とうとう息子が退院することになりました。&lt;/p&gt;
 
 &lt;p&gt;モニターのためについていたコードをすべて体からとり、日本から両親が送ってくれ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>術後レポート（３）</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/15/after-surgery-report-3/"/>
-    <id>http://myblog.com/articles/jp/2021/10/15/after-surgery-report-3/</id>
-    <published>2021-10-15T00:00:00+02:00</published>
-    <updated>2021-10-27T12:03:55+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;○ 術後１６日目&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;生まれて初めて外に出ることができた！&lt;br&gt;
-人生初めてのお散歩には最高のお天気で、雲ひとつない快晴だった。&lt;/p&gt;
-
-&lt;p&gt;初めて見る景色、ベッドも窓も機...&lt;/p&gt;</summary>
   </entry>
 </feed>
