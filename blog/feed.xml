@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-01-01T00:00:00+01:00</updated>
+  <updated>2022-01-04T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>トラムで見た衝撃的な光景</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/04/in-tram/"/>
+    <id>http://myblog.com/articles/jp/2022/01/04/in-tram/</id>
+    <published>2022-01-04T00:00:00+01:00</published>
+    <updated>2022-01-04T18:49:03+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;今日は朝から息子のパスポート申請に大使館へ行きました。&lt;/p&gt;
+
+&lt;p&gt;その帰りにトラムで見た衝撃的な光景が目に焼きついて離れないので、綴っておこうと思います。&lt;/p&gt;
+
+&lt;p&gt;ベル...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ベルリンdeおせち</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/01/frohes-neues-jahr/"/>
@@ -86,21 +101,5 @@
 &lt;p&gt;今日の今日までブログを綴る余裕も時間も気力もゼロ、むしろマイナスでした。&lt;/p&gt;
 
 &lt;p&gt;３ヶ月を目前にようやくこころに余裕がで...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>coming home!</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/10/16/coming-home/"/>
-    <id>http://myblog.com/articles/jp/2021/10/16/coming-home/</id>
-    <published>2021-10-16T00:00:00+02:00</published>
-    <updated>2021-10-27T15:16:22+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;生後３２日目。&lt;br&gt;
-術後２２日目。&lt;/p&gt;
-
-&lt;p&gt;とうとう息子が退院することになりました。&lt;/p&gt;
-
-&lt;p&gt;モニターのためについていたコードをすべて体からとり、日本から両親が送ってくれ...&lt;/p&gt;</summary>
   </entry>
 </feed>
