@@ -5,10 +5,44 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-01-04T00:00:00+01:00</updated>
+  <updated>2022-01-12T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>人生一冊目のパスポート</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/12/passport/"/>
+    <id>http://myblog.com/articles/jp/2022/01/12/passport/</id>
+    <published>2022-01-12T00:00:00+01:00</published>
+    <updated>2022-01-12T13:29:09+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;うちの若丸ぼっちゃま、０歳３ヶ月２８日目にして人生初のパスポートをゲットいたしました。&lt;/p&gt;
+
+&lt;p&gt;申請から１週間。&lt;/p&gt;
+
+&lt;p&gt;受理の際は息子同伴で行かなきゃいけない。&lt;/p&gt;
+
+</summary>
+  </entry>
+  <entry>
+    <title>１月１１日から１年</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/11/january-eleven/"/>
+    <id>http://myblog.com/articles/jp/2022/01/11/january-eleven/</id>
+    <published>2022-01-11T00:00:00+01:00</published>
+    <updated>2022-01-12T13:34:44+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;１年前の今日。&lt;/p&gt;
+
+&lt;p&gt;若丸くんを授かったことがわかったんだった。&lt;/p&gt;
+
+&lt;p&gt;雪の降る寒い日だった。&lt;/p&gt;
+
+&lt;p&gt;そわそわした気持ちのままクリスマスツリーを片付け、回収場所まで持...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>トラムで見た衝撃的な光景</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/04/in-tram/"/>
@@ -71,35 +105,5 @@
 &lt;p&gt;そもそもお食い初めって何作るんだ？&lt;/p&gt;
 
 &lt;p&gt;そして主人と共に探しまくっ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>クリスマスツリーと読書</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/21/christmastree-and-book/"/>
-    <id>http://myblog.com/articles/jp/2021/12/21/christmastree-and-book/</id>
-    <published>2021-12-21T00:00:00+01:00</published>
-    <updated>2021-12-21T17:40:39+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今年もクリスマスツリーを買いに行きました。&lt;/p&gt;
-
-&lt;p&gt;人生２本目の『生・クリスマスツリー』&lt;/p&gt;
-
-&lt;p&gt;１２月あたまに降った雪がツリーに積もって、去年よりもおサレに見えたツ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>おっぱい、おしめ時々自分</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/08/wochenbett/"/>
-    <id>http://myblog.com/articles/jp/2021/12/08/wochenbett/</id>
-    <published>2021-12-08T00:00:00+01:00</published>
-    <updated>2021-12-08T14:08:04+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;若丸くんもうすぐ生まれて３ヶ月です。&lt;/p&gt;
-
-&lt;p&gt;今日の今日までブログを綴る余裕も時間も気力もゼロ、むしろマイナスでした。&lt;/p&gt;
-
-&lt;p&gt;３ヶ月を目前にようやくこころに余裕がで...&lt;/p&gt;</summary>
   </entry>
 </feed>
