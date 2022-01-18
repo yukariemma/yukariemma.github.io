@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-01-12T00:00:00+01:00</updated>
+  <updated>2022-01-18T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ネントレ</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/18/sleep-training/"/>
+    <id>http://myblog.com/articles/jp/2022/01/18/sleep-training/</id>
+    <published>2022-01-18T00:00:00+01:00</published>
+    <updated>2022-01-18T16:44:07+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;若丸くんが退院してからの最初の１ヶ月は自分のベッドで寝てくれていた。&lt;br&gt;
+夜間授乳もリビングに行ってしていた。&lt;br&gt;
+この頃はまだまだ吸う力も弱いし、起きたら１時間...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>人生一冊目のパスポート</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/12/passport/"/>
@@ -87,23 +100,5 @@
     <summary type="html">&lt;p&gt;おせち作りと今晩の鍋の準備を終え、日本が新年を迎え、息子がご機嫌なうちに今年一年を振り返ってみようとパソコンを開いた。&lt;/p&gt;
 
 &lt;p&gt;今年はオリンピック・パラリンピッ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>煮しめの師走</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2021/12/30/okuizome/"/>
-    <id>http://myblog.com/articles/jp/2021/12/30/okuizome/</id>
-    <published>2021-12-30T00:00:00+01:00</published>
-    <updated>2021-12-31T18:40:14+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今年も残り１週間とせまった日。&lt;br&gt;
-息子が生誕１００日を迎えた。&lt;/p&gt;
-
-&lt;p&gt;そうか、お食い初めか。&lt;/p&gt;
-
-&lt;p&gt;そもそもお食い初めって何作るんだ？&lt;/p&gt;
-
-&lt;p&gt;そして主人と共に探しまくっ...&lt;/p&gt;</summary>
   </entry>
 </feed>
