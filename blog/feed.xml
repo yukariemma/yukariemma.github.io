@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-01-20T00:00:00+01:00</updated>
+  <updated>2022-01-31T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ブースター</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/31/booster/"/>
+    <id>http://myblog.com/articles/jp/2022/01/31/booster/</id>
+    <published>2022-01-31T00:00:00+01:00</published>
+    <updated>2022-01-31T11:37:10+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;おとついブースターを打った。&lt;/p&gt;
+
+&lt;p&gt;ブースターは、ドイツでは&lt;span style="font-size:12px;"&gt;（日本も？）&lt;/span&gt;３０歳以上は基本的にモデルナなんですが、あたしは授乳中ということでファイザーになった。&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>産後のからだ総まとめ</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/20/after-birth-body/"/>
@@ -83,22 +96,5 @@
 &lt;p&gt;その帰りにトラムで見た衝撃的な光景が目に焼きついて離れないので、綴っておこうと思います。&lt;/p&gt;
 
 &lt;p&gt;ベル...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ベルリンdeおせち</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/01/frohes-neues-jahr/"/>
-    <id>http://myblog.com/articles/jp/2022/01/01/frohes-neues-jahr/</id>
-    <published>2022-01-01T00:00:00+01:00</published>
-    <updated>2022-01-03T15:38:40+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;あけましておめでとうございます。&lt;/p&gt;
-
-&lt;p&gt;さて、あけました。&lt;/p&gt;
-
-&lt;p&gt;初めてのおせち作りに精を出し、寝不足に拍車がかかった眠い年明けです。&lt;/p&gt;
-
-&lt;p&gt;我が家は朝はパンとコーヒ...&lt;/p&gt;</summary>
   </entry>
 </feed>
