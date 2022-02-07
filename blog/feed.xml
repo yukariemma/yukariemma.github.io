@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-01-31T00:00:00+01:00</updated>
+  <updated>2022-02-07T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>母になってもうすぐ５ヶ月</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/07/5-months/"/>
+    <id>http://myblog.com/articles/jp/2022/02/07/5-months/</id>
+    <published>2022-02-07T00:00:00+01:00</published>
+    <updated>2022-02-07T13:01:22+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;息子が産まれてもうすぐ５ヶ月。&lt;/p&gt;
+
+&lt;p&gt;５ヶ月前の今頃は、帝王切開になると言われて落ち込んでいたな。&lt;br&gt;
+生まれてからの生活が壮絶過ぎてしばらく忘れていたけど。&lt;br&gt;
+最...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ブースター</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/31/booster/"/>
@@ -81,20 +96,5 @@
 &lt;p&gt;雪の降る寒い日だった。&lt;/p&gt;
 
 &lt;p&gt;そわそわした気持ちのままクリスマスツリーを片付け、回収場所まで持...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>トラムで見た衝撃的な光景</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/04/in-tram/"/>
-    <id>http://myblog.com/articles/jp/2022/01/04/in-tram/</id>
-    <published>2022-01-04T00:00:00+01:00</published>
-    <updated>2022-01-04T18:49:03+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;今日は朝から息子のパスポート申請に大使館へ行きました。&lt;/p&gt;
-
-&lt;p&gt;その帰りにトラムで見た衝撃的な光景が目に焼きついて離れないので、綴っておこうと思います。&lt;/p&gt;
-
-&lt;p&gt;ベル...&lt;/p&gt;</summary>
   </entry>
 </feed>
