@@ -5,10 +5,27 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-02-07T00:00:00+01:00</updated>
+  <updated>2022-02-24T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>離乳食はじめました</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/24/first-food/"/>
+    <id>http://myblog.com/articles/jp/2022/02/24/first-food/</id>
+    <published>2022-02-24T00:00:00+01:00</published>
+    <updated>2022-02-24T17:54:50+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;冷やし中華、ではなく『離乳食はじめました！』&lt;/p&gt;
+
+&lt;p&gt;５ヶ月を迎えたその日から離乳食を始めたのです。&lt;/p&gt;
+
+&lt;p&gt;今日で１１日目。&lt;/p&gt;
+
+&lt;p&gt;いや〜意外と苦戦を強いられている若丸...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>母になってもうすぐ５ヶ月</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/07/5-months/"/>
@@ -79,22 +96,5 @@
 &lt;p&gt;受理の際は息子同伴で行かなきゃいけない。&lt;/p&gt;
 
 </summary>
-  </entry>
-  <entry>
-    <title>１月１１日から１年</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/11/january-eleven/"/>
-    <id>http://myblog.com/articles/jp/2022/01/11/january-eleven/</id>
-    <published>2022-01-11T00:00:00+01:00</published>
-    <updated>2022-01-12T13:34:44+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;１年前の今日。&lt;/p&gt;
-
-&lt;p&gt;若丸くんを授かったことがわかったんだった。&lt;/p&gt;
-
-&lt;p&gt;雪の降る寒い日だった。&lt;/p&gt;
-
-&lt;p&gt;そわそわした気持ちのままクリスマスツリーを片付け、回収場所まで持...&lt;/p&gt;</summary>
   </entry>
 </feed>
