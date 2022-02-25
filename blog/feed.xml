@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-02-24T00:00:00+01:00</updated>
+  <updated>2022-02-25T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ぼくはオランダ人です</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/25/oranda-jin-desu/"/>
+    <id>http://myblog.com/articles/jp/2022/02/25/oranda-jin-desu/</id>
+    <published>2022-02-25T00:00:00+01:00</published>
+    <updated>2022-02-25T18:15:51+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;主人の転職が決まり、日本への本帰国が決まった。&lt;/p&gt;
+
+&lt;p&gt;アメリカに本社がある会社の東京勤務になった。&lt;/p&gt;
+
+&lt;p&gt;日本に引っ越すための費用なんかを会社が負担してくれる「引...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>離乳食はじめました</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/24/first-food/"/>
@@ -79,22 +94,5 @@
     <summary type="html">&lt;p&gt;若丸くんが退院してからの最初の１ヶ月は自分のベッドで寝てくれていた。&lt;br&gt;
 夜間授乳もリビングに行ってしていた。&lt;br&gt;
 この頃はまだまだ吸う力も弱いし、起きたら１時間...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>人生一冊目のパスポート</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/12/passport/"/>
-    <id>http://myblog.com/articles/jp/2022/01/12/passport/</id>
-    <published>2022-01-12T00:00:00+01:00</published>
-    <updated>2022-01-12T13:29:09+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;うちの若丸ぼっちゃま、０歳３ヶ月２８日目にして人生初のパスポートをゲットいたしました。&lt;/p&gt;
-
-&lt;p&gt;申請から１週間。&lt;/p&gt;
-
-&lt;p&gt;受理の際は息子同伴で行かなきゃいけない。&lt;/p&gt;
-
-</summary>
   </entry>
 </feed>
