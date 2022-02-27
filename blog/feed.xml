@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-02-25T00:00:00+01:00</updated>
+  <updated>2022-02-27T00:00:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>母に感謝</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/27/thank-you-mama/"/>
+    <id>http://myblog.com/articles/jp/2022/02/27/thank-you-mama/</id>
+    <published>2022-02-27T00:00:00+01:00</published>
+    <updated>2022-02-27T07:30:08+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;(タイトルからは想像が難しいですが、うんちネタなので、読むタイミングにご注意ください笑。）&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;若丸くん、５日間うんちが出てなかったんです。&lt;/p&gt;
+
+&lt;p&gt;いつもは毎日...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ぼくはオランダ人です</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/25/oranda-jin-desu/"/>
@@ -81,18 +96,5 @@
     <summary type="html">&lt;p&gt;先日へバメさんのところへ行ったとき。&lt;/p&gt;
 
 &lt;p&gt;家を出る直前までボバラップで若丸くんを抱いていたらそのまま寝てしまったので、ボバラップのままへバメさんのところへ行...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ネントレ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/01/18/sleep-training/"/>
-    <id>http://myblog.com/articles/jp/2022/01/18/sleep-training/</id>
-    <published>2022-01-18T00:00:00+01:00</published>
-    <updated>2022-01-19T21:58:21+01:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;若丸くんが退院してからの最初の１ヶ月は自分のベッドで寝てくれていた。&lt;br&gt;
-夜間授乳もリビングに行ってしていた。&lt;br&gt;
-この頃はまだまだ吸う力も弱いし、起きたら１時間...&lt;/p&gt;</summary>
   </entry>
 </feed>
