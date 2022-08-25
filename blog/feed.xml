@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-08-17T07:00:00+09:00</updated>
+  <updated>2022-08-25T07:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>お買い物</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/25/shopping/"/>
+    <id>http://myblog.com/articles/jp/2022/08/25/shopping/</id>
+    <published>2022-08-25T07:00:00+09:00</published>
+    <updated>2022-08-25T14:10:32+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;最近、お買い物はめっきりオンラインで済ませてしまうようになった。&lt;/p&gt;
+
+&lt;p&gt;コロナ渦と育児が重なり、よけいにかもしれないけど、数年前までは、いや〜服はさすがにネッ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>東京deママ</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/17/tokyo-de-mama/"/>
@@ -86,22 +99,5 @@
 &lt;p&gt;アメリカに本社がある会社の東京勤務になった。&lt;/p&gt;
 
 &lt;p&gt;日本に引っ越すための費用なんかを会社が負担してくれる「引...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>離乳食はじめました</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/24/first-food/"/>
-    <id>http://myblog.com/articles/jp/2022/02/24/first-food/</id>
-    <published>2022-02-24T08:00:00+09:00</published>
-    <updated>2022-02-25T02:03:50+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;冷やし中華、ではなく『離乳食はじめました！』&lt;/p&gt;
-
-&lt;p&gt;５ヶ月を迎えたその日から離乳食を始めたのです。&lt;/p&gt;
-
-&lt;p&gt;今日で１１日目。&lt;/p&gt;
-
-&lt;p&gt;いや〜意外と苦戦を強いられている若丸...&lt;/p&gt;</summary>
   </entry>
 </feed>
