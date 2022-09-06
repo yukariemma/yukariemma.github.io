@@ -5,10 +5,28 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-08-25T07:00:00+09:00</updated>
+  <updated>2022-09-06T07:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>ぼくの１年</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/06/first-year/"/>
+    <id>http://myblog.com/articles/jp/2022/09/06/first-year/</id>
+    <published>2022-09-06T07:00:00+09:00</published>
+    <updated>2022-09-06T11:32:25+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;若丸くん、来週で１歳になります。&lt;/p&gt;
+
+&lt;p&gt;あの日から、１年。&lt;br&gt;
+あの日から、１年。&lt;/p&gt;
+
+&lt;p&gt;何度つぶやいても信じがたく、この１年が頭の中で何度もリプレイされる。&lt;/p&gt;
+
+&lt;p&gt;若丸...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>お買い物</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/25/shopping/"/>
@@ -84,20 +102,5 @@
 &lt;p&gt;若丸くん、５日間うんちが出てなかったんです。&lt;/p&gt;
 
 &lt;p&gt;いつもは毎日...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ぼくはオランダ人です</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/25/oranda-jin-desu/"/>
-    <id>http://myblog.com/articles/jp/2022/02/25/oranda-jin-desu/</id>
-    <published>2022-02-25T08:00:00+09:00</published>
-    <updated>2022-02-26T02:15:51+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;主人の転職が決まり、日本への本帰国が決まった。&lt;/p&gt;
-
-&lt;p&gt;アメリカに本社がある会社の東京勤務になった。&lt;/p&gt;
-
-&lt;p&gt;日本に引っ越すための費用なんかを会社が負担してくれる「引...&lt;/p&gt;</summary>
   </entry>
 </feed>
