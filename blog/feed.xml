@@ -5,16 +5,50 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-09-06T07:00:00+09:00</updated>
+  <updated>2022-09-20T07:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>あたらしい時代</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/20/new-time/"/>
+    <id>http://myblog.com/articles/jp/2022/09/20/new-time/</id>
+    <published>2022-09-20T07:00:00+09:00</published>
+    <updated>2022-09-20T11:48:54+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;令和４年７月８日　安倍晋三元首相が銃撃され亡くなった。&lt;/p&gt;
+
+&lt;p&gt;そのちょうど２ヶ月後。&lt;/p&gt;
+
+&lt;p&gt;令和４年９月８日　エリザベス２世が崩御された。&lt;/p&gt;
+
+&lt;p&gt;安倍元首相が亡くなっ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>３年目の結婚記念日</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/19/wedding-anniversary-2022/"/>
+    <id>http://myblog.com/articles/jp/2022/09/19/wedding-anniversary-2022/</id>
+    <published>2022-09-19T07:00:00+09:00</published>
+    <updated>2022-09-20T11:27:42+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;３年目にしてその日は静かに訪れ…&lt;/p&gt;
+
+&lt;p&gt;るはずだった。&lt;/p&gt;
+
+&lt;p&gt;前の日、今日の晩御飯の買い物に行こうと買い物リストをふたりで話していたとき。&lt;/p&gt;
+
+&lt;p&gt;主人の大好きなティラ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>ぼくの１年</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/06/first-year/"/>
     <id>http://myblog.com/articles/jp/2022/09/06/first-year/</id>
     <published>2022-09-06T07:00:00+09:00</published>
-    <updated>2022-09-06T11:32:25+09:00</updated>
+    <updated>2022-09-20T11:27:30+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -32,7 +66,7 @@
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/25/shopping/"/>
     <id>http://myblog.com/articles/jp/2022/08/25/shopping/</id>
     <published>2022-08-25T07:00:00+09:00</published>
-    <updated>2022-08-25T14:10:32+09:00</updated>
+    <updated>2022-09-20T11:27:15+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -45,7 +79,7 @@
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/17/tokyo-de-mama/"/>
     <id>http://myblog.com/articles/jp/2022/08/17/tokyo-de-mama/</id>
     <published>2022-08-17T07:00:00+09:00</published>
-    <updated>2022-08-17T10:54:30+09:00</updated>
+    <updated>2022-09-20T11:27:06+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -60,7 +94,7 @@
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/16/obon/"/>
     <id>http://myblog.com/articles/jp/2022/08/16/obon/</id>
     <published>2022-08-16T07:00:00+09:00</published>
-    <updated>2022-08-17T10:34:43+09:00</updated>
+    <updated>2022-09-20T11:26:53+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -71,36 +105,5 @@
 &lt;p&gt;ホーム、スイート、ホーム！&lt;/p&gt;
 
 &lt;p&gt;ベッドもテ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ドイツから日本へ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/06/13/back-in-japan/"/>
-    <id>http://myblog.com/articles/jp/2022/06/13/back-in-japan/</id>
-    <published>2022-06-13T07:00:00+09:00</published>
-    <updated>2022-06-13T10:19:49+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;若丸家族、４年間過ごしたドイツを離れ、日本へ本帰国いたしました。&lt;/p&gt;
-
-&lt;p&gt;最後にブログを綴ってから３ヶ月半。&lt;/p&gt;
-
-&lt;p&gt;主人の配偶者ビザ＆在留資格取得、 &lt;br&gt;
-ヨーロッパに...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>母に感謝</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/02/27/thank-you-mama/"/>
-    <id>http://myblog.com/articles/jp/2022/02/27/thank-you-mama/</id>
-    <published>2022-02-27T08:00:00+09:00</published>
-    <updated>2022-02-27T15:30:08+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;span style="font-size:12px;"&gt;(タイトルからは想像が難しいですが、うんちネタなので、読むタイミングにご注意ください笑。）&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;若丸くん、５日間うんちが出てなかったんです。&lt;/p&gt;
-
-&lt;p&gt;いつもは毎日...&lt;/p&gt;</summary>
   </entry>
 </feed>
