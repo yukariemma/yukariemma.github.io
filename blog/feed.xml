@@ -5,10 +5,28 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-09-20T07:00:00+09:00</updated>
+  <updated>2022-09-23T07:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>さきっぽのないスイカ</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/23/suica-without-top/"/>
+    <id>http://myblog.com/articles/jp/2022/09/23/suica-without-top/</id>
+    <published>2022-09-23T07:00:00+09:00</published>
+    <updated>2022-09-29T20:34:47+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;この１年を振り返ってみよう、と。&lt;br&gt;
+ノンアルビールを片手に、写真を繰った。&lt;/p&gt;
+
+&lt;p&gt;若丸くんが生まれて１年。&lt;/p&gt;
+
+&lt;p&gt;人生が変わった。&lt;/p&gt;
+
+&lt;p&gt;自分のからだは自分だけのもので...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>あたらしい時代</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/20/new-time/"/>
@@ -88,22 +106,5 @@
 &lt;p&gt;「へぇ〜あんなんあるんや〜。」&lt;br&gt;
 「あ〜そういう風にするといいのか〜。」&lt;br&gt;
 「おしゃれなマ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>東京deお盆</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/16/obon/"/>
-    <id>http://myblog.com/articles/jp/2022/08/16/obon/</id>
-    <published>2022-08-16T07:00:00+09:00</published>
-    <updated>2022-09-20T11:26:53+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;東京へ引っ越し、仮住まい用社宅とニューホームを往復すること、３週間。&lt;/p&gt;
-
-&lt;p&gt;ようやく新しいおうちに落ち着きました。&lt;/p&gt;
-
-&lt;p&gt;ホーム、スイート、ホーム！&lt;/p&gt;
-
-&lt;p&gt;ベッドもテ...&lt;/p&gt;</summary>
   </entry>
 </feed>
