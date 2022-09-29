@@ -667,6 +667,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/articles/jp-2022-09-24-after-surgery-report-4.html</loc>
+    <lastmod>2022-09-29T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/articles/jp-2021-08-27-pair-and-book.html</loc>
     <lastmod>2022-09-29T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1346,6 +1352,12 @@
   </url>
   <url>
     <loc>http://myblog.com/articles/2022/09.html</loc>
+    <lastmod>2022-09-29T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myblog.com/articles/2022/09/24.html</loc>
     <lastmod>2022-09-29T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2881,6 +2893,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/jp/articles29/index.html</loc>
+    <lastmod>2022-09-29T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/jp/tag/articles2.html</loc>
     <lastmod>2022-09-29T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3043,6 +3061,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myblog.com/jp/tag/articles29.html</loc>
+    <lastmod>2022-09-29T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myblog.com/articles/tags/国際結婚/articles2.html</loc>
     <lastmod>2022-09-29T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3158,6 +3182,12 @@
   </url>
   <url>
     <loc>http://myblog.com/articles/tags/国際結婚/articles21.html</loc>
+    <lastmod>2022-09-29T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myblog.com/articles/tags/国際結婚/articles22.html</loc>
     <lastmod>2022-09-29T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

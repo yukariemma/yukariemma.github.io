@@ -5,10 +5,27 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-09-23T07:00:00+09:00</updated>
+  <updated>2022-09-24T07:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>術後レポート（４）術後１年を迎えて</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/24/after-surgery-report-4/"/>
+    <id>http://myblog.com/articles/jp/2022/09/24/after-surgery-report-4/</id>
+    <published>2022-09-24T07:00:00+09:00</published>
+    <updated>2022-09-29T21:18:27+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;○ 術後１年&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;手術の日から１年経った。&lt;/p&gt;
+
+&lt;p&gt;あのときは記録しておきたくて「&lt;a href="http://mycoupy.com/articles/jp/2021/10/01/after-surgery-report-1/" target="_blank" class="external-link"&gt;術後レポート&lt;/a&gt;」として退院までを綴った。&lt;/p&gt;
+
+&lt;p&gt;退院後は血圧を下げる薬を１日に３回飲ん...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>さきっぽのないスイカ</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/23/suica-without-top/"/>
@@ -91,20 +108,5 @@
     <summary type="html">&lt;p&gt;最近、お買い物はめっきりオンラインで済ませてしまうようになった。&lt;/p&gt;
 
 &lt;p&gt;コロナ渦と育児が重なり、よけいにかもしれないけど、数年前までは、いや〜服はさすがにネッ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>東京deママ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/17/tokyo-de-mama/"/>
-    <id>http://myblog.com/articles/jp/2022/08/17/tokyo-de-mama/</id>
-    <published>2022-08-17T07:00:00+09:00</published>
-    <updated>2022-09-20T11:27:06+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;日本でママするの初めてなので、外に出てはきょろきょろするあたし。&lt;/p&gt;
-
-&lt;p&gt;「へぇ〜あんなんあるんや〜。」&lt;br&gt;
-「あ〜そういう風にするといいのか〜。」&lt;br&gt;
-「おしゃれなマ...&lt;/p&gt;</summary>
   </entry>
 </feed>
