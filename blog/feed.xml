@@ -5,10 +5,42 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-09-24T07:00:00+09:00</updated>
+  <updated>2022-11-24T08:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>秋の味覚without味覚</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/11/24/lost-taste/"/>
+    <id>http://myblog.com/articles/jp/2022/11/24/lost-taste/</id>
+    <published>2022-11-24T08:00:00+09:00</published>
+    <updated>2022-11-24T22:17:02+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;東北旅行から帰って２、３日経った朝。&lt;/p&gt;
+
+&lt;p&gt;若丸くんが人生初めてこんこんと咳をし始めた。&lt;/p&gt;
+
+&lt;p&gt;これは急がば直行ということで、朝一で小児科へ。&lt;/p&gt;
+
+&lt;p&gt;小児科の先生って...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>秋の東北</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/11/12/tohoku/"/>
+    <id>http://myblog.com/articles/jp/2022/11/12/tohoku/</id>
+    <published>2022-11-12T08:00:00+09:00</published>
+    <updated>2022-11-24T22:00:05+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;日本に帰国して初めてのホリデーで東北へ旅をした。&lt;/p&gt;
+
+&lt;p&gt;秋田→岩手→山形→宮城、と約３００kmの車旅。&lt;/p&gt;
+
+&lt;p&gt;移動が多くてちょっと疲れたけど、秋晴れの５日間で初め...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>術後レポート（４）術後１年を迎えて</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/24/after-surgery-report-4/"/>
@@ -77,36 +109,5 @@
 &lt;p&gt;前の日、今日の晩御飯の買い物に行こうと買い物リストをふたりで話していたとき。&lt;/p&gt;
 
 &lt;p&gt;主人の大好きなティラ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ぼくの１年</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/06/first-year/"/>
-    <id>http://myblog.com/articles/jp/2022/09/06/first-year/</id>
-    <published>2022-09-06T07:00:00+09:00</published>
-    <updated>2022-09-20T11:27:30+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;若丸くん、来週で１歳になります。&lt;/p&gt;
-
-&lt;p&gt;あの日から、１年。&lt;br&gt;
-あの日から、１年。&lt;/p&gt;
-
-&lt;p&gt;何度つぶやいても信じがたく、この１年が頭の中で何度もリプレイされる。&lt;/p&gt;
-
-&lt;p&gt;若丸...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>お買い物</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/08/25/shopping/"/>
-    <id>http://myblog.com/articles/jp/2022/08/25/shopping/</id>
-    <published>2022-08-25T07:00:00+09:00</published>
-    <updated>2022-09-20T11:27:15+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;最近、お買い物はめっきりオンラインで済ませてしまうようになった。&lt;/p&gt;
-
-&lt;p&gt;コロナ渦と育児が重なり、よけいにかもしれないけど、数年前までは、いや〜服はさすがにネッ...&lt;/p&gt;</summary>
   </entry>
 </feed>
