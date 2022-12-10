@@ -5,10 +5,23 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-11-24T08:00:00+09:00</updated>
+  <updated>2022-12-09T08:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Sinterklaas</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/09/sinterklaas/"/>
+    <id>http://myblog.com/articles/jp/2022/12/09/sinterklaas/</id>
+    <published>2022-12-09T08:00:00+09:00</published>
+    <updated>2022-12-10T11:10:23+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;さぁ今年もSinterklaasが無事やってきました。&lt;/p&gt;
+
+&lt;p&gt;Sinterklaas&lt;span style="font-size:12px;"&gt;（シンタクラース、セントニコラス）&lt;/span&gt;とは、毎年１２月５日にオランダにやってく...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>秋の味覚without味覚</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/11/24/lost-taste/"/>
@@ -92,22 +105,5 @@
 &lt;p&gt;令和４年９月８日　エリザベス２世が崩御された。&lt;/p&gt;
 
 &lt;p&gt;安倍元首相が亡くなっ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>３年目の結婚記念日</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/19/wedding-anniversary-2022/"/>
-    <id>http://myblog.com/articles/jp/2022/09/19/wedding-anniversary-2022/</id>
-    <published>2022-09-19T07:00:00+09:00</published>
-    <updated>2022-09-20T11:27:42+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;３年目にしてその日は静かに訪れ…&lt;/p&gt;
-
-&lt;p&gt;るはずだった。&lt;/p&gt;
-
-&lt;p&gt;前の日、今日の晩御飯の買い物に行こうと買い物リストをふたりで話していたとき。&lt;/p&gt;
-
-&lt;p&gt;主人の大好きなティラ...&lt;/p&gt;</summary>
   </entry>
 </feed>
