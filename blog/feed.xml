@@ -5,10 +5,75 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-12-09T08:00:00+09:00</updated>
+  <updated>2022-12-27T08:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>若丸くんツーのお話④</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/27/wakamarukun-two/"/>
+    <id>http://myblog.com/articles/jp/2022/12/27/wakamarukun-two/</id>
+    <published>2022-12-27T08:00:00+09:00</published>
+    <updated>2022-12-27T22:41:30+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;その日の夕方病院に行くと、先生が「もうそこに見えてるので出しますね」と言って胎嚢を取り出す処置をしてくれた。&lt;/p&gt;
+
+&lt;p&gt;え？先生、夜中にコロンと出たのは…&lt;/p&gt;
+
+&lt;p&gt;血の...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>若丸くんツーのお話③</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/26/wakamarukun-two/"/>
+    <id>http://myblog.com/articles/jp/2022/12/26/wakamarukun-two/</id>
+    <published>2022-12-26T08:00:00+09:00</published>
+    <updated>2022-12-27T21:40:12+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;最初は出血しては止まり、出血しては止まった。&lt;/p&gt;
+
+&lt;p&gt;それから少量の出血が続くようになった。&lt;/p&gt;
+
+&lt;p&gt;それが５日続いたクリスマスの夜。&lt;/p&gt;
+
+&lt;p&gt;主人がクリスマスディナーを作...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>若丸くんツーのお話②</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/25/wakamarukun-two/"/>
+    <id>http://myblog.com/articles/jp/2022/12/25/wakamarukun-two/</id>
+    <published>2022-12-25T08:00:00+09:00</published>
+    <updated>2022-12-27T21:27:09+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;心拍がゆっくり目と言われたときはショックだった。&lt;/p&gt;
+
+&lt;p&gt;流産は誰にでも起こるもの、とわかってはいても、まさか自分が、と思っていたと思う。&lt;/p&gt;
+
+&lt;p&gt;だめかもしれない、...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>若丸くんツーのお話</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/24/wakamarukun-two/"/>
+    <id>http://myblog.com/articles/jp/2022/12/24/wakamarukun-two/</id>
+    <published>2022-12-24T08:00:00+09:00</published>
+    <updated>2022-12-27T22:33:28+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;肌寒くなってきた１１月下旬。&lt;br&gt;
+妊娠した。&lt;/p&gt;
+
+&lt;p&gt;えーー！まじ？！&lt;/p&gt;
+
+&lt;p&gt;が頭に浮かんだひと言目だった。&lt;/p&gt;
+
+&lt;p&gt;妊娠検査薬をクリスマス包装紙に包み、若丸くんと一緒にパパ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Sinterklaas</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/09/sinterklaas/"/>
@@ -38,72 +103,5 @@
 &lt;p&gt;これは急がば直行ということで、朝一で小児科へ。&lt;/p&gt;
 
 &lt;p&gt;小児科の先生って...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>秋の東北</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/11/12/tohoku/"/>
-    <id>http://myblog.com/articles/jp/2022/11/12/tohoku/</id>
-    <published>2022-11-12T08:00:00+09:00</published>
-    <updated>2022-11-24T22:00:05+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;日本に帰国して初めてのホリデーで東北へ旅をした。&lt;/p&gt;
-
-&lt;p&gt;秋田→岩手→山形→宮城、と約３００kmの車旅。&lt;/p&gt;
-
-&lt;p&gt;移動が多くてちょっと疲れたけど、秋晴れの５日間で初め...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>術後レポート（４）術後１年を迎えて</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/24/after-surgery-report-4/"/>
-    <id>http://myblog.com/articles/jp/2022/09/24/after-surgery-report-4/</id>
-    <published>2022-09-24T07:00:00+09:00</published>
-    <updated>2022-09-29T21:18:27+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;○ 術後１年&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;手術の日から１年経った。&lt;/p&gt;
-
-&lt;p&gt;あのときは記録しておきたくて「&lt;a href="http://mycoupy.com/articles/jp/2021/10/01/after-surgery-report-1/" target="_blank" class="external-link"&gt;術後レポート&lt;/a&gt;」として退院までを綴った。&lt;/p&gt;
-
-&lt;p&gt;退院後は血圧を下げる薬を１日に３回飲ん...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>さきっぽのないスイカ</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/23/suica-without-top/"/>
-    <id>http://myblog.com/articles/jp/2022/09/23/suica-without-top/</id>
-    <published>2022-09-23T07:00:00+09:00</published>
-    <updated>2022-09-29T20:34:47+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;この１年を振り返ってみよう、と。&lt;br&gt;
-ノンアルビールを片手に、写真を繰った。&lt;/p&gt;
-
-&lt;p&gt;若丸くんが生まれて１年。&lt;/p&gt;
-
-&lt;p&gt;人生が変わった。&lt;/p&gt;
-
-&lt;p&gt;自分のからだは自分だけのもので...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>あたらしい時代</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/09/20/new-time/"/>
-    <id>http://myblog.com/articles/jp/2022/09/20/new-time/</id>
-    <published>2022-09-20T07:00:00+09:00</published>
-    <updated>2022-09-20T11:48:54+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;令和４年７月８日　安倍晋三元首相が銃撃され亡くなった。&lt;/p&gt;
-
-&lt;p&gt;そのちょうど２ヶ月後。&lt;/p&gt;
-
-&lt;p&gt;令和４年９月８日　エリザベス２世が崩御された。&lt;/p&gt;
-
-&lt;p&gt;安倍元首相が亡くなっ...&lt;/p&gt;</summary>
   </entry>
 </feed>
