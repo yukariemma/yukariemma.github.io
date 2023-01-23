@@ -5,10 +5,25 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2022-12-27T08:00:00+09:00</updated>
+  <updated>2023-01-19T08:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>浦島太郎</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2023/01/19/urashimataro/"/>
+    <id>http://myblog.com/articles/jp/2023/01/19/urashimataro/</id>
+    <published>2023-01-19T08:00:00+09:00</published>
+    <updated>2023-01-23T21:39:09+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;若丸くんが大好きな絵本のひとつに「にほんのおはなしえほん」というのがありまして。&lt;/p&gt;
+
+&lt;p&gt;ボタンを押すと日本むかしばなしが流れてくるんですね。&lt;/p&gt;
+
+&lt;p&gt;若丸くんはこれ...&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>若丸くんツーのお話④</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/27/wakamarukun-two/"/>
@@ -86,22 +101,5 @@
     <summary type="html">&lt;p&gt;さぁ今年もSinterklaasが無事やってきました。&lt;/p&gt;
 
 &lt;p&gt;Sinterklaas&lt;span style="font-size:12px;"&gt;（シンタクラース、セントニコラス）&lt;/span&gt;とは、毎年１２月５日にオランダにやってく...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>秋の味覚without味覚</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/11/24/lost-taste/"/>
-    <id>http://myblog.com/articles/jp/2022/11/24/lost-taste/</id>
-    <published>2022-11-24T08:00:00+09:00</published>
-    <updated>2022-11-24T22:17:02+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;東北旅行から帰って２、３日経った朝。&lt;/p&gt;
-
-&lt;p&gt;若丸くんが人生初めてこんこんと咳をし始めた。&lt;/p&gt;
-
-&lt;p&gt;これは急がば直行ということで、朝一で小児科へ。&lt;/p&gt;
-
-&lt;p&gt;小児科の先生って...&lt;/p&gt;</summary>
   </entry>
 </feed>
