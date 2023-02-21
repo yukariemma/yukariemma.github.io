@@ -5,10 +5,22 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2023-01-19T08:00:00+09:00</updated>
+  <updated>2023-02-21T08:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>１歳の心臓カテーテル</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2023/02/21/heart-catheter/"/>
+    <id>http://myblog.com/articles/jp/2023/02/21/heart-catheter/</id>
+    <published>2023-02-21T08:00:00+09:00</published>
+    <updated>2023-02-21T23:04:26+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;所見では気になるところはないけれど、冠動脈を見ておくためにはいずれやった方がいい。&lt;br&gt;
+&lt;span style="font-size:12px;"&gt;（冠動脈とは、大動脈と肺動脈につくほっそ〜い血管のことで、動脈を付け替...&lt;/span&gt;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>浦島太郎</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2023/01/19/urashimataro/"/>
@@ -88,18 +100,5 @@
 &lt;p&gt;が頭に浮かんだひと言目だった。&lt;/p&gt;
 
 &lt;p&gt;妊娠検査薬をクリスマス包装紙に包み、若丸くんと一緒にパパ...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Sinterklaas</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/09/sinterklaas/"/>
-    <id>http://myblog.com/articles/jp/2022/12/09/sinterklaas/</id>
-    <published>2022-12-09T08:00:00+09:00</published>
-    <updated>2022-12-10T11:10:23+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;さぁ今年もSinterklaasが無事やってきました。&lt;/p&gt;
-
-&lt;p&gt;Sinterklaas&lt;span style="font-size:12px;"&gt;（シンタクラース、セントニコラス）&lt;/span&gt;とは、毎年１２月５日にオランダにやってく...&lt;/p&gt;</summary>
   </entry>
 </feed>
