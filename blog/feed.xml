@@ -5,16 +5,61 @@
   <id>http://myblog.com/articles</id>
   <link href="http://myblog.com/articles"/>
   <link href="http://myblog.com/blog/feed.xml" rel="self"/>
-  <updated>2023-02-21T08:00:00+09:00</updated>
+  <updated>2023-02-24T08:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>１歳の心臓カテーテル</title>
+    <title>心臓カテーテルの結果</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2023/02/24/heart-catheter/"/>
+    <id>http://myblog.com/articles/jp/2023/02/24/heart-catheter/</id>
+    <published>2023-02-24T08:00:00+09:00</published>
+    <updated>2023-02-24T21:02:27+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;心臓カテーテルからちょうど２週間後。&lt;/p&gt;
+
+&lt;p&gt;処置の傷跡を見てもらうのとEKG&lt;span style="font-size:12px;"&gt;（心電図）&lt;/span&gt;の結果を聞きに病院へ行った。&lt;/p&gt;
+
+&lt;p&gt;カテーテルは、採血の針より少し太いぐらい...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>１歳の心臓カテーテル　さいご</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2023/02/23/heart-catheter/"/>
+    <id>http://myblog.com/articles/jp/2023/02/23/heart-catheter/</id>
+    <published>2023-02-23T08:00:00+09:00</published>
+    <updated>2023-02-24T20:33:32+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;病院で迎える２日目、そして最後の朝。&lt;/p&gt;
+
+&lt;p&gt;部屋の片付けをし、先生の訪問を待った。&lt;/p&gt;
+
+&lt;p&gt;冷蔵庫からあたしのサンドイッチを出しては放り投げ、また入れては閉め、をエ...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>１歳の心臓カテーテル②</title>
+    <link rel="alternate" href="http://myblog.com/articles/jp/2023/02/22/heart-catheter/"/>
+    <id>http://myblog.com/articles/jp/2023/02/22/heart-catheter/</id>
+    <published>2023-02-22T08:00:00+09:00</published>
+    <updated>2023-02-24T20:23:10+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;そして迎えたカテーテル当日。&lt;/p&gt;
+
+&lt;p&gt;若丸くんは朝から何も食べれず、指定された時間に指定された量の水だけ飲めた。&lt;/p&gt;
+
+&lt;p&gt;そして泣いて暴れないように鎮静剤を入れられ、...&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>１歳の心臓カテーテル①</title>
     <link rel="alternate" href="http://myblog.com/articles/jp/2023/02/21/heart-catheter/"/>
     <id>http://myblog.com/articles/jp/2023/02/21/heart-catheter/</id>
     <published>2023-02-21T08:00:00+09:00</published>
-    <updated>2023-02-21T23:04:26+09:00</updated>
+    <updated>2023-02-24T20:31:18+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -50,55 +95,5 @@
 &lt;p&gt;え？先生、夜中にコロンと出たのは…&lt;/p&gt;
 
 &lt;p&gt;血の...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>若丸くんツーのお話③</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/26/wakamarukun-two/"/>
-    <id>http://myblog.com/articles/jp/2022/12/26/wakamarukun-two/</id>
-    <published>2022-12-26T08:00:00+09:00</published>
-    <updated>2022-12-27T21:40:12+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;最初は出血しては止まり、出血しては止まった。&lt;/p&gt;
-
-&lt;p&gt;それから少量の出血が続くようになった。&lt;/p&gt;
-
-&lt;p&gt;それが５日続いたクリスマスの夜。&lt;/p&gt;
-
-&lt;p&gt;主人がクリスマスディナーを作...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>若丸くんツーのお話②</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/25/wakamarukun-two/"/>
-    <id>http://myblog.com/articles/jp/2022/12/25/wakamarukun-two/</id>
-    <published>2022-12-25T08:00:00+09:00</published>
-    <updated>2022-12-27T21:27:09+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;心拍がゆっくり目と言われたときはショックだった。&lt;/p&gt;
-
-&lt;p&gt;流産は誰にでも起こるもの、とわかってはいても、まさか自分が、と思っていたと思う。&lt;/p&gt;
-
-&lt;p&gt;だめかもしれない、...&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>若丸くんツーのお話</title>
-    <link rel="alternate" href="http://myblog.com/articles/jp/2022/12/24/wakamarukun-two/"/>
-    <id>http://myblog.com/articles/jp/2022/12/24/wakamarukun-two/</id>
-    <published>2022-12-24T08:00:00+09:00</published>
-    <updated>2022-12-28T17:15:00+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;肌寒くなってきた１１月下旬。&lt;br&gt;
-妊娠した。&lt;/p&gt;
-
-&lt;p&gt;えーー！まじ？！&lt;/p&gt;
-
-&lt;p&gt;が頭に浮かんだひと言目だった。&lt;/p&gt;
-
-&lt;p&gt;妊娠検査薬をクリスマス包装紙に包み、若丸くんと一緒にパパ...&lt;/p&gt;</summary>
   </entry>
 </feed>
